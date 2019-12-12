@@ -131,7 +131,7 @@
   flex-direction: column; 
   margin-top: var(--s-x-large);
   position: relative;
-  overflow: hidden;
+  /*overflow: hidden;*/
   height: 100%; 
 }
 
@@ -193,11 +193,12 @@
 }
 .slide {
     position:relative;
+    max-width: 900px;
+    margin: 0 auto;
     grid-area: 1/1; 
     transition:  transform 0.3s ease-in-out;
     border-bottom: 1px solid var(--color-white);
     border-right: 1px solid var(--color-white);
-
 }
 .slide:nth-child(even){
   transform: translate(-20px, 20px);
