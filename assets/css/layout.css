@@ -131,7 +131,7 @@
   flex-direction: column; 
   margin-top: var(--s-x-large);
   position: relative;
-  /*overflow: hidden;*/
+  overflow: hidden;
   height: 100%; 
 }
 
