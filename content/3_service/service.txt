@@ -1,0 +1,56 @@
+Title: Service
+
+----
+
+Tickets: Der Kauf von Tickets ist ausschließlich über die Websites der einzelnen Partner möglich. Die direkten Kontaktinformationen hierfür können auf der entsprechenden Veranstaltungsseite eingesehen werden.
+
+----
+
+Ticketlinks:
+
+- 
+  name: Purple Tanzfestival
+  link: >
+    https://purple-tanzfestival.de/en/ticketpreise/
+- 
+  name: Tanzkomplizen für junges Publikum
+  link: https://tanzkomplizen.de/tickets
+- 
+  name: Theater Strahl Berlin
+  link: https://www.theater-strahl.de/tickets/
+- 
+  name: Theater o.N.
+  link: >
+    https://www.theater-on.de/tickets-service/
+
+----
+
+Feedback:
+
+## Ihr Feedback ist gefragt
+Unterstützen Sie uns mit Ihrer Anregung oder Kritik!
+
+----
+
+Contact:
+
+OfTa Offensive Tanz Berlin gUG (haftungsbeschränkt)
+c/o das programm GmbH
+Oranienstraße 183
+10999 Berlin
+
+**Email:** (email: info@offensive-tanz.de text: info[at]offensive-tanz.de)
+
+**Geschäftsführung:** Karen Giese, Doreen Markert, Thomas Dörschel, Inge Zysk
+
+----
+
+Presse: Für Presseanfragen kontaktieren Sie bitte **(link: mailto: k.neumann@offensive-tanz.de text: Katharina Neumann)**.
+
+----
+
+Survey:
+
+## Fragebogen zum Publikumsfeedback
+Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.
+(link: # text: Feedback geben!)

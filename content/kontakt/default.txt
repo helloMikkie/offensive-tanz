@@ -1,0 +1,62 @@
+Title: Kontakt
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o das programm GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin",
+        "id": "_xorxb4099",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"mailto: info@offensive-tanz.de\">info@offensive-tanz.de</a>",
+        "id": "_adq92sckt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vertreten durch die Gesch\u00e4ftsf\u00fchrung: Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
+        "id": "_21s1g0vk3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Presse- und \u00d6ffentlichkeitsarbeit: <a href=\"mailto: k.neumann@offensive-tanz.de\">Katharina Neumann</a>",
+        "id": "_2w3v8f2lv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Partner",
+        "id": "_qlw91trfy",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://purple-tanzfestival.de/\">PURPLE \u2013 Internationales Tanzfestival f\u00fcr junges Publikum</a>",
+        "id": "_m0sipvd1n",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://tanzkomplizen.de/\">Tanzkomplizen</a>",
+        "id": "_xe0zyvdpw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://www.theater-strahl.de/\">Theater Strahl</a>",
+        "id": "_3buv8omg8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://www.theater-on.de/aktuell/\">Theater o.N.</a>",
+        "id": "_7r1w0sipy",
+        "type": "paragraph"
+    }
+]

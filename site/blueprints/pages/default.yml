@@ -1,0 +1,9 @@
+title: Default Page
+preset: page
+pages: false
+fields:
+  text:
+    label: Text
+    type: editor
+    size: large
+

@@ -1,0 +1,38 @@
+title: Offensive Tanz
+options:
+  changeTemplate: 
+    - home
+
+columns:
+  - width: 1/2
+    sections:
+      content:
+        type: fields
+        fields:
+          introtext:
+            type: editor
+          badgetext:
+            label: News-Badge
+            width: 3/4
+            type: editor
+          featured:
+            type: toggle
+            label: Featured Badge
+            width: 1/4
+            text:
+              - "no"
+              - "yes"
+          badgelink:
+            type: text
+
+
+  - width: 1/2
+    sections:
+      gallery:
+        type: files
+        layout: cards
+        size: tiny
+        ratio: 4/3
+        cover: true
+
+

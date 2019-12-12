@@ -1,0 +1,341 @@
+/* Schriften */
+
+@font-face {
+  font-family: "raisonne-book";
+  src: url("../fonts/raisonne-book/raisonne-book-pro.eot");
+  src: url("../fonts/raisonne-book/raisonne-book-pro.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/raisonne-book/raisonne-book-pro.woff2") format("woff2"),
+    url("../fonts/raisonne-book/raisonne-book-pro.woff") format("woff"),
+    url("../fonts/raisonne-book/raisonne-book-pro.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "raisonne-bold";
+  src: url("../fonts/raisonne-bold/raisonne-bold-pro.eot");
+  src: url("../fonts/raisonne-bold/raisonne-bold-pro.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/raisonne-bold/raisonne-bold-pro.woff2") format("woff2"),
+    url("../fonts/raisonne-bold/raisonne-bold-pro.woff") format("woff"),
+    url("../fonts/raisonne-bold/raisonne-bold-pro.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* # # # # # #  SYSTEM  # # # # # #  */
+
+:root {
+  /* colors */
+  --color-text: #222222;
+  --color-gray: #a5a5a5;
+  --color-ultrawhite: #ffffff;
+
+  --color-white: #f8f8ff;
+  --color-neutral: #484848;
+  --color-blue: #6373ff;
+  --color-red: #fc0287;
+  --color-green: #4bd9a9;
+  --color-yellow: #ffc100;
+
+  --border-radius: 1.2rem;
+  --border-width: 10px; 
+
+  /* TYPOGRAPHY */
+  --font-bold: "raisonne-bold";
+  /* : Typesize */
+  --fs-large: 2rem; 
+  --fs-medium: 1.4rem; 
+  --fs-base: 1.125rem; 
+  --fs-small: 0.8rem; 
+  /*  : Line-height */
+  --lh-small: 1.25; 
+  --lh-base: 1.5;
+  --lh-madium: 1.8;
+  /* spaces */
+  --s-x-large: 6rem;
+  --s-large: 4rem; 
+  --s-medium: 1rem;
+  --s-base: 0.8rem; 
+  --s-small: 0.3rem;
+  --s-x-small: 0.1rem;  
+}
+
+@media (min-width: 50rem) {
+
+  :root{
+    --scale: 1.125;
+
+    --fs-large: calc(var(--scale) * 2rem); 
+    --fs-medium: calc(var(--scale) * 1.4rem); 
+    --fs-base:calc(var(--scale) * 1.125rem) ; 
+    --fs-small: calc(var(--scale) * 0.8rem); 
+
+    --lh-small: calc(var(--scale) * 1.25); 
+    --lh-base: calc(var(--scale) * 1.5);
+    --lh-madium: calc(var(--scale) * 1.8);
+
+    --s-x-large: 10rem;
+    --s-large: 6rem; 
+    --s-medium: 2rem;
+    --s-base: 1rem; 
+    --s-small: 0.5rem;
+    --s-x-small: 0.2rem;  
+  }
+}
+
+
+/* # # # # # #  RESET  # # # # # #  */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  /* outline: 1px solid pink;  */
+}
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+html {
+  font-family: "raisonne-book";
+  color: var(--color-text);
+ 
+}
+
+body {
+  -moz-font-feature-settings: "ss03", "ss06", "ss08", "ss12", "ss14", "ss17";
+  -webkit-font-feature-settings: "ss03", "ss06", "ss08", "ss12", "ss14", "ss17";
+  font-feature-settings: "ss03", "ss06", "ss08", "ss12", "ss14", "ss17";
+  min-height: 100vh;
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed;
+  line-height: var(--lh-base);
+  word-spacing: -0.04rem;
+  background: var(--color-white);
+
+}
+
+img {
+  width: 100%;
+  display: block;
+  height: 100%;
+  object-fit: cover;
+}
+
+svg{
+  width: 100%;
+  display: block;
+}
+
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+  outline: none;
+}
+
+
+a {
+  color: currentColor;
+  display: inline-block;
+  text-decoration-skip-ink: auto;
+  /* text-decoration: none; */
+  transition: opacity 0.3s ease;
+}
+a:hover{
+  opacity: 0.8; 
+}
+
+ul[class],
+ul,
+ol[class],
+ol {
+  padding: 0;
+  list-style: none;
+  border-width: 0;
+  border-color: none;
+  border-style: solid;
+}
+
+ul:not([class]) li {
+  border-bottom: 1px solid #000;
+  padding: var(--s-base) 0;
+}
+
+/* # # # # # #  TYPOGRAPHY  # # # # # #  */
+
+/* HEADING */
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "raisonne-bold";
+  letter-spacing: 0.12rem;
+  text-transform: uppercase;
+}
+
+h1,h2{
+  font-size: var(--fs-medium);
+  line-height: var(--lh-small);
+}
+h3, h4{
+  font-size: var(--fs-base);
+  line-height: var(--lh-small);
+}
+
+.heading {
+  font-family: "raisonne-bold";
+  letter-spacing: 0.12rem;
+  line-height: var(--lh-small);
+  text-transform: uppercase;
+  text-align: center; 
+}
+
+/* TEXT */
+p {
+  font-size: var(--fs-base);
+  letter-spacing: 0.04rem;
+  line-height: var(--lh-base);
+}
+
+.intro-text p{
+  font-size: var(--fs-medium);
+  margin-left: 1rem; 
+  margin-right: 1rem; 
+}
+
+strong {
+  font-family: "raisonne-bold";
+  letter-spacing: 0.02rem;
+}
+
+em{
+  font-style: oblique; 
+  letter-spacing: 0.05rem; 
+}
+
+blockquote{
+  color: #525252; 
+  font-family: "raisonne-bold";
+  font-size: var(--fs-medium);
+  letter-spacing: 0.01rem; 
+  margin-left: var(--s-medium); 
+  padding-top: var(--s-small); 
+  line-height: var(--lh-small); 
+  position: relative;
+  border-top: 1px solid #000; 
+}
+
+blockquote:before{
+  content: "»";
+  position: absolute; 
+  left: -2rem;  
+  top: var(--s-small);  
+
+}
+blockquote + p {
+  border-bottom: 1px solid #000;
+  margin-left: var(--s-medium); 
+}
+blockquote + p > strong{
+  font-size: var(--fs-small);
+  letter-spacing: 0.1rem; 
+  font-family: "raisonne-book";
+  text-transform: uppercase;
+
+  
+}
+
+/* # # # # # #  HELPER CLASSES  # # # # # #  */
+
+/* # # # # # #  Purple  # # # # # #  */
+
+.purple {
+
+  border: var(--border-width) solid var(--color-blue);
+  border-radius: var(--border-radius);
+
+}
+
+.text-purple {
+  color: var(--color-blue);
+}
+.bg-purple{
+  background: var(--color-blue); 
+}
+
+/* # # # # # #  Tanzkomplizen  # # # # # #  */
+
+.tanzkomplizen {
+
+  border: var(--border-width) solid var(--color-red);
+  border-radius: var(--border-radius);
+}
+.text-tanzkomplizen {
+  color: var(--color-red);
+}
+.bg-tanzkomplizen{
+  background: var(--color-red); 
+}
+
+/* # # # # # #  Theater Strahl  # # # # # #  */
+
+.theater_strahl {
+  border: var(--border-width) solid var(--color-green);
+  border-radius: var(--border-radius);
+}
+.text-theater_strahl {
+  color: var(--color-green);
+}
+.bg-theater_strahl{
+  background: var(--color-green); 
+}
+
+/* # # # # # #  Theater oN  # # # # # #  */
+
+.theater_oN {
+  border: var(--border-width) solid var(--color-yellow);
+  border-radius: var(--border-radius);
+}
+.text-theater_oN {
+  color: var(--color-yellow);
+}
+.bg-theater_oN{
+  background: var(--color-yellow); 
+}
+
+/* # # # # # #  Theater oN  # # # # # #  */
+
+.neutral {
+  border: var(--border-width) solid var(--color-text);
+  border-radius: var(--border-radius);
+}
+.text-neutral {
+  color: var(--color-text);
+}
+.bg-neutral{
+  background: var(--color-text); 
+  color: var(--color-gray);
+}
+
+.badge{
+  cursor: url("data:image/svg+xml,%3Csvg width='40' height='67' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M10 38.5L5.199 6.974c-.318-2.006 1.043-3.89 3.038-4.206 1.994-.316 3.871 1.056 4.19 3.062l2.384 15.058 3.273-.318c2.15-.34 4.27.913 4.612 3.075l.38 2.397 3.341-.53a3.94 3.94 0 014.505 3.293l.208 1.316 2.397-.38c2.02-.32 4.151 1.727 4.473 3.759v26l-26.14 5.453.001.013L3 36c-2-6.5 0-10 5-11' fill='%23FFF' stroke='%23000' stroke-width='4' fill-rule='evenodd' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") 0 0, pointer;
+}

@@ -1,0 +1,59 @@
+
+/* # # # # # #  BADGE Startpage  # # # # # #  */
+
+.badge{
+    position: absolute; 
+    right: 2rem;
+    bottom: 50%; 
+    background: var(--color-white);
+    border-radius: 999px;  
+    color: var(--color-text); 
+    transform: translateX(100px) rotate(-8deg);
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    text-align: left;
+    text-decoration: none;
+    /*   */
+    padding: 1rem 8rem 1rem 2rem ;
+    transition: all 0.2s ease-in-out;
+    max-width: 30rem;
+    border-width: var(--border-width);
+    border-style: solid;
+    animation: changeBorder 3s linear;
+    animation-iteration-count: infinite;  
+}
+
+.badge p{
+    line-height: 1.2;
+}
+.badge:hover{
+    background: var(--color-white); 
+    color: var(--color-text); 
+}
+
+
+@media (min-width: 50rem){
+    .badge{
+      transform: translateX(-20px) rotate(8deg);
+    }
+  }
+
+
+@keyframes changeBorder {
+    0% {
+      border-color: var(--color-blue);
+    }
+    30% {
+      border-color: var(--color-red);
+    }
+    60%{
+      border-color: var(--color-yellow);
+    }
+    90%{
+      border-color: var(--color-green);
+    }
+    100% {
+      border-color: var(--color-blue);
+    }
+  }

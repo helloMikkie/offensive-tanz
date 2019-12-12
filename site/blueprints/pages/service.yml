@@ -1,0 +1,22 @@
+title: Events
+icon: 💡
+preset: page
+
+fields:
+  tickets:
+    type: textarea
+  ticketlinks:
+    type: structure
+    fields:
+      name: 
+        type: text
+      link:
+        type: text
+  feedback:
+    type: textarea
+  contact:
+    type: textarea
+  presse:
+    type: textarea
+
+            

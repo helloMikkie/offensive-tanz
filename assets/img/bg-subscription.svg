@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200px" height="580px" viewBox="0 0 1200 580" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>animation-3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="animation-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M982,189.179837 C943.868421,147.726612 900.928947,127 853.181579,127 C810.85,127 769.789474,150.333333 730,197" id="end-23" stroke="#4BD9A9" stroke-width="24" transform="translate(856.000000, 162.000000) scale(1, -1) translate(-856.000000, -162.000000) "></path>
+        <path d="M1012,133 C1039,133 1064.5,133 1088.5,133 C1112.5,133 1136.5,133 1160.5,133" id="end-20" stroke="#4BD9A9" stroke-width="24"></path>
+        <path d="M910.5,45 L910.5,326 C910.5,388 831.5,409 799,350.5 L730.5,237" id="end-16" stroke="#FFC100" stroke-width="24"></path>
+        <path d="M716,211.5 L638,80 C608.530303,21.1225761 522,41 522,110 L522,348" id="end-15" stroke="#FFC100" stroke-width="24"></path>
+        <path d="M522.5,419.341709 L522.5,461.135664 C522.5,550.5 442.154786,564.030798 394,499" id="end-14" stroke="#FFC100" stroke-width="24"></path>
+        <path d="M372.207122,473.221654 C363.461303,462.876405 317.637088,408.671886 293.328004,379.917172" id="end-13" stroke="#FC0287" stroke-width="24"></path>
+        <path d="M272.5,358 C269.725452,354.798598 265.392119,349.798598 259.5,343" id="end-12" stroke="#FC0287" stroke-width="24"></path>
+        <path d="M206.5,283 L163,230 C131,192 72,217.134483 72,267.5 L72,446.5" id="end-11" stroke="#FFC100" stroke-width="24"></path>
+        <path d="M1003.94773,309.122694 C942.967378,285.374231 878.818134,273.5 811.5,273.5 C709.86091,273.5 610.651467,312.268706 513.87167,389.806119" id="end-10" stroke="#6373FF" stroke-width="24"></path>
+        <path d="M1187.5,426.5 C1142.75397,384.218244 1108.3127,360.162318 1059.1762,334.33222" id="end-9" stroke="#6373FF" stroke-width="24"></path>
+        <path d="M546.5,483 C565.234778,483 583.80805,483 602.219814,483 C620.631579,483 639.043344,483 657.455108,483 L695.732198,441.5 L735.947368,483 L793.605263,419 L841.5,483" id="end-8" stroke="#FC0287" stroke-width="24"></path>
+        <path d="M440,483 C451.5,483 461.5,483 470,483 C478.5,483 487,483 495.5,483" id="end-7" stroke="#FC0287" stroke-width="24"></path>
+        <path d="M250,315.971973 C285.186198,315.971973 318.026042,315.971973 348.519531,315.971973 C379.013021,315.971973 409.50651,315.971973 440,315.971973" id="end-6" stroke="#4BD9A9" stroke-width="24"></path>
+        <path d="M499,366 C497.03642,362.727367 494.381893,358.303156 491.03642,352.727367 C487.690947,347.151578 484.345473,341.575789 481,336" id="end-4" stroke="#4BD9A9" stroke-width="24"></path>
+        <polyline id="end-3" stroke="#4BD9A9" stroke-width="24" points="466.064963 311.273951 413.895334 223.818069 360.836506 134.871554"></polyline>
+        <path d="M346,110 L136,446.5 C136,391.666667 136,339 136,288.5 C136,238 136,187.5 136,137" id="end-2" stroke="#6373FF" stroke-width="24"></path>
+        <path d="M136,110 C112.389706,110 91.8529412,110 74.3897059,110 C56.9264706,110 39.4632353,110 22,110" id="end-1" stroke="#6373FF" stroke-width="24"></path>
+        <line x1="161" y1="110" x2="293" y2="110" id="end-5" stroke="#4BD9A9" stroke-width="24"></line>
+        <polyline id="end-19" stroke="#FC0287" stroke-width="24" points="1159.5 168 898 482.5 1123.5 482.5"></polyline>
+    </g>
+</svg>

@@ -1,0 +1,48 @@
+Title: Purple
+
+----
+
+Subtitle: Internationales Tanzfestival<br>für junges Publikum
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Wir hei\u00dfen alle herzlich willkommen, um gemeinsam zeitgen\u00f6ssischen Tanz f\u00fcr junges Publikum anzuschauen und sich dar\u00fcber auszutauschen: Schulklassen, Familien, Eltern, Lehrer*innen, Tanzbegeisterte, Tanzneulinge.",
+        "id": "_lD8MAmBdx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Seit 2017 ist es unser Ziel, mit unserem Festival Kinder und Jugendliche f\u00fcr Tanz zu begeistern und auf zeitgen\u00f6ssische Performances neugierig zu machen. Wir wollen alle, Jungs wie M\u00e4dchen ansprechen, aus diesem Gedanken heraus ist die Festivalname entstanden. Purple ist nicht blau und nicht rosa, purple tr\u00e4gt beide Farben in sich und unterscheidet nicht zwischen Jungen und M\u00e4dchen. Beide Geschlechter sind einander gleichgestellt. PURPLE ist f\u00fcr alle da.",
+        "id": "_yV2fi8tAR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die mentale Besch\u00e4ftigung mit Tanz als Zuschauer fordert und f\u00f6rdert die emotionale und r\u00e4umliche Wahrnehmung und verlangt abstraktes Denkverm\u00f6gen. Jedes Jahr stellen wir ein lustvolles und dynamisches B\u00fchnenprogramm mit verschiedenen \u00e4sthetischen Ans\u00e4tzen und inhaltlichen Fragestellungen aus der internationalen, zeitgen\u00f6ssischen Tanzszene zusammen.",
+        "id": "_IBYc9H37M",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wir wollen nicht nur die Sehgewohnheiten von Kindern und Jugendlichen sch\u00e4rfen, sondern auch zum Mitmachen, Mitf\u00fchlen und zum Weiterdenken animieren. Deshalb bieten wir neben professionellem B\u00fchnenprogramm auch ein Rahmenprogramm zu jedem St\u00fcck und zus\u00e4tzlich ein Tanz-Workshop f\u00fcr Jugendliche am Wochenende an.",
+        "id": "_eJ2IKXARS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Auch Lehrer*innen und Erzieher*innen bekommen bei uns die Chance, ein Grundverst\u00e4ndnis f\u00fcr zeitgen\u00f6ssischen Tanz zu entwickeln. Der kostenlose Workshop soll sie dazu anregen, sich nach dem Festivalbesuch innerhalb ihrer Klassen weiter mit Tanz zu besch\u00e4ftigen.",
+        "id": "_Ysm6U01Sx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://purple-tanzfestival.de/\">purple-tanzfestival</a>",
+        "id": "_bti91g9gt",
+        "type": "paragraph"
+    }
+]

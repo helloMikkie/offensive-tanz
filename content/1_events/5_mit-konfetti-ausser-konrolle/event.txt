@@ -1,0 +1,105 @@
+Title: Mit Konfetti außer Konrolle
+
+----
+
+Vorlage: Neutral
+
+----
+
+Label: Symposium
+
+----
+
+Featured: true
+
+----
+
+Author: Helen Naujoks
+
+----
+
+Date: 2020-12-04
+
+----
+
+Time: 01:00
+
+----
+
+Location: Mensa der Neuen Grundschule Potsdam
+
+----
+
+Duration: 02:00
+
+----
+
+Tickets: mh@heimannundschwantes.de
+
+----
+
+Age: 18
+
+----
+
+Caption: Die hier angegebenen Altersempfehlungen sind lediglich Orientierungshilfen. Generell begrüßen wir Besucher*innen jeden Alters. Für nähere Informationen ist ein/e Ansprechpartner*in des jeweiligen Partners gerne für Sie erreichbar.
+
+----
+
+Scedule: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "Es ist 9:30 Uhr, eine Stunde vor Auff\u00fchrungsbeginn. Ich befinde mich in der Mensa der Neuen Grundschule Potsdam. Hier wird gleich die Vorstellung <em>ONONON </em>stattfinden. Gestern war Premiere in der Freien Schule in Potsdam. Der Raum ist noch sehr leer. Nur ein paar Erwachsene sitzen an den Tischen und trinken Kaffee, w\u00e4hrend das Team der Produktion das B\u00fchnenbild zusammenbaut. Eine Kiste aus Naturholz bestehend aus wenigen Versatzst\u00fccken, ungef\u00e4hr 2 mal 2 Meter gro\u00df, bilden das Fundament des mobilen Pop-Up B\u00fchnenbildes. Die Kiste ist praktisch und multifunktional. Sp\u00e4ter wird sie den Performer*innen C\u00e9cile Bally und Nir Vidanals B\u00fchne und Abtauchstation und den vielen Objekten als Stau- und Versteckraum dienen. Eine kleine Luke mit Klappe ist das Verbindungselement zwischen drinnen und drau\u00dfen, zwischen off und on.",
+        "id": "_7qb494n20",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wie verwandelt sich eine Mensa in ein Theater?",
+        "id": "_jibwog346",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Es wird keine externen Lichtstimmungen geben. Das Licht der Mensa soll als Spiellicht ausreichen. In der Mitte des Raumes wird die Kiste nun aufgebaut. In einem Halbkreis drum herum schieben und r\u00fccken zwei Helfer ungef\u00e4hr 50 St\u00fchle und ein paar Tische als Sitzgelegenheit f\u00fcr das junge Publikum zurecht. Die funktionale und cleane Neubau-Aura der Mensa l\u00e4sst die Vorstellung eines B\u00fchnenzaubers, der die Kinder in eine andere Welt hineinziehen soll, kaum zu. Andererseits gibt es hier nicht viel, was die Aufmerksamkeit der Kinder sonst noch auf sich lenken k\u00f6nnte. Ein paar Bilder h\u00e4ngen an der wei\u00dfen Wand und es gibt Pflanzen, die f\u00fcr ein bisschen mehr Freundlichkeit im Raum sorgen sollen. Ansonsten nur Dinge, die wirklich benutzt werden: Tische und St\u00fchle. Keine wirkliche Konkurrenz zu dem neuen, quadratischen \u201eDing\u201c in der Mitte. Damit macht sich die Holzkiste von <em>ONONON </em>zum spektakul\u00e4rsten Objekt im Raum.",
+        "id": "_m16bfxm3h",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Was kann die Kiste wirklich?",
+        "id": "_ffj0c9j5q",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Um 10:30 Uhr soll das St\u00fcck beginnen. Die Kinder trudeln nach und nach in die Mensa ein, be\u00e4ugen teilweise neugierig, teilweise etwas \u00fcberdreht die Kiste und setzen sich auf die Tische und St\u00fchle im Halbkreis. Hier und da deuten die Lehrer*innen mit einem \u201ePssst pssst\u201c darauf hin, dass es gleich los geht. Eine junge Frau und ein junger Mann in schwarz gekleidet, stehen rechts hinter der Kiste auf Position. Das sind die Performer*innen Cecile und Nir. Sie sprechen die Kinder ganz direkt an: \u201eSeid ihr so weit?\u201c. Die Kinder antworten im Chor: \u201eJa!\u201c. Die Verabredung ist getroffen, das St\u00fcck kann beginnen. Alles ist wie auf Knopfdruck mucksm\u00e4uschenstill. Die Blicke der Kinder verfolgen gebannt, wie die beiden Akteur*innen auf die Kiste steigen. Sie \u00f6ffnen eine kleine Luke, durch die sie in der Kiste verschwinden. Was passiert wohl als n\u00e4chstes? Die Luft steht still. Der Funke ist \u00fcbergesprungen.",
+        "id": "_jlag1dh2f",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs:
+
+- 
+  role: Moderation
+  name: Katharina Neumann
+- 
+  role: Catering
+  name: Livia Patrizi, Berlin Caterers
+
+----
+
+Subtext: 

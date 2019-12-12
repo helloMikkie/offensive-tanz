@@ -1,0 +1,11 @@
+title: File
+
+fields:
+  alt:
+    type: text
+    width: 1/2
+  credit:
+    type: text
+    width: 1/2
+    before: ©
+

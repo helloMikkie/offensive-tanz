@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200px" height="500px" viewBox="0 0 1200 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>bg-test-1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="bg-test-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M323,19 C323,79.5424625 323,127.616823 323,163.223081 C323,216.632469 258.348915,242.588433 223.611018,195.168883 L125.669449,47.9187027 C94.3088481,5.98983784 34,16.4720541 34,71.3789009 L34,135.769658" id="Path" stroke="#4BD9A9" stroke-width="24"></path>
+        <path d="M1181,261 C1181,334.209129 1181,388.616823 1181,424.223081 C1181,477.632469 1115.45409,503.588433 1080.23539,456.168883 L980.93823,308.918703 C949.143573,266.989838 888,277.472054 888,332.378901 L888,396.769658" id="Path-Copy" stroke="#4BD9A9" stroke-width="24" transform="translate(1034.500000, 371.000000) scale(-1, -1) translate(-1034.500000, -371.000000) "></path>
+        <path d="M33.5,166 C33.5,177.668247 33.5,195.834913 33.5,220.5 L81,247.5 L17,272.5 L68.5,302.5 L33.5,325 C33.5,353.17961 33.5,371.17961 33.5,379" id="Path" stroke="#6373FF" stroke-width="24"></path>
+        <path d="M1179.5,19 C1179.5,24.0252075 1180.5,62.8108867 1180.5,90.5 C1180.5,124.5 1148.5,111.5 1148.5,138.5 C1148.5,165.5 1188,156 1188,183.5 C1188,211 1132,200 1132,229 C1132,258 1180.5,246 1180.5,282.5 L1179.5,312" id="Path-Copy-2" stroke="#FFC100" stroke-width="24" transform="translate(1160.000000, 165.500000) scale(1, -1) translate(-1160.000000, -165.500000) "></path>
+        <path d="M32.5,412 C32.5,426.444444 32.5,448.111111 32.5,477" id="Path-Copy-3" stroke="#FC0287" stroke-width="24" transform="translate(32.500000, 444.500000) scale(1, -1) translate(-32.500000, -444.500000) "></path>
+    </g>
+</svg>

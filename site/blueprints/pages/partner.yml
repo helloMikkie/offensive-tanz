@@ -1,0 +1,19 @@
+title: Partner
+icon: 🚀
+preset: pages
+pages:
+  layout: list
+files:
+  layout: cards
+
+
+
+fields: 
+  subtitle:
+    type: text
+    width: 1/4
+  text:
+    label: Editor
+    width: 3/4
+    type: editor
+

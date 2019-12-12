@@ -1,0 +1,112 @@
+Title: Shut up and dance
+
+----
+
+Vorlage: Theater o.N.
+
+----
+
+Label: Tanzveranstaltung
+
+----
+
+Featured: true
+
+----
+
+Author: Christoph Winkler
+
+----
+
+Date: 2016-06-13
+
+----
+
+Time: 12:15
+
+----
+
+Location: Schillertheater-Werkstatt
+
+----
+
+Duration: 01:15
+
+----
+
+Tickets: mh@heimannundschwantes.de
+
+----
+
+Age: 16
+
+----
+
+Caption: Die hier angegebenen Altersempfehlungen sind lediglich Orientierungshilfen. Generell begrüßen wir Besucher*innen jeden Alters. Für nähere Informationen ist ein/e Ansprechpartner*in des jeweiligen Partners gerne für Sie erreichbar.
+
+----
+
+Scedule:
+
+- 
+  datum: 2020-07-04
+  zeit: 08:00
+- 
+  datum: 2020-05-04
+  zeit: 07:25
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "Musik, Sprache und Bewegung sind eng miteinander verbunden: Sprache wird in Songs zu Musik. Musik macht Rhythmus, und der ist gut zum Tanzen. Tanz ist wie die Sprache eine M\u00f6glichkeit, sich auszudr\u00fccken. Aber wie tanzt man zum Beispiel die Anweisung: Heute ist es Mittwoch, 10 Uhr?",
+        "id": "_iRfpG0eWC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Inspiriert von Popsongs untersuchen drei T\u00e4nzer*innen aus Kanada, Deutschland und Burkina Faso, wie sich Worte und Bewegung gegenseitig beeinflussen. Mit ihrem K\u00f6rper, aber auch auf Deutsch, Englisch und Franz\u00f6sisch vergleichen sie M\u00f6glichkeiten ihres Ausdrucks. Ihre Worte entwickeln sich w\u00e4hrend des Tanzens oder danach. Aber was ist st\u00e4rker? Dominiert die Sprache die Bewegung? Oder bricht sich der K\u00f6rper Bahn?",
+        "id": "_SpFb1TVfe",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die T\u00e4nzer*innen entscheiden immer wieder neu, ob der K\u00f6rper oder die Sprache besser auf den Punkt bringen kann, was sie sagen wollen. Sie erforschen die Grenze von Worten und Bewegung und finden den Moment, in dem die Sprache nicht mehr ausreicht und der K\u00f6rper einfach tanzen muss.",
+        "id": "_tLnmJzqa9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Christoph Winklers zweite Arbeit f\u00fcr ein junges Publikum greift Themen auf, die ihm auch in seiner choreografischen Arbeit f\u00fcr Erwachsene wichtig sind: das Verh\u00e4ltnis von Sprache und Tanz, wie aus Alltagsbewegungen Tanz wird und die Rolle der Diversit\u00e4t in unserer Gesellschaft.",
+        "id": "_syGPsID7U",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists:
+
+- 
+  role: Choreografie
+  name: Christoph Winkler
+- 
+  role: Tanz
+  name: >
+    Ahmed Soura, Deva Schubert, Sarina
+    Egan-Sitinjak
+
+----
+
+Staffs:
+
+- 
+  role: Bühne
+  name: Christoph Winkler
+
+----
+
+Subtext: 

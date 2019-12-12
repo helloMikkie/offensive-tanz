@@ -1,0 +1,7 @@
+title: Events
+icon: 💡
+preset: pages
+options:
+  changeTemplate: 
+    - default
+    - event

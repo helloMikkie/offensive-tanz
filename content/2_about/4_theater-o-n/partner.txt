@@ -1,0 +1,90 @@
+Title: Theater o.N.
+
+----
+
+Subtitle: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "\u00d6ffentliches Leben wird zunehmend als Spektakel von und f\u00fcr die Masse wahrgenommen. Wir suchen demgegen\u00fcber im und mit dem Theater nach der individuellen Stimme. Damit verfolgen wir die Erkenntnis, dass",
+        "id": "_uukmeWamq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "je tiefer der Mensch in seine pers\u00f6nlichste und geheimste Vorahnung hinabtaucht, er zu seinem Erstaunen feststellt, dass sie die am meisten anerkannte, \u00f6ffentlichste und allgemein g\u00fcltige ist.",
+        "id": "_b3owq4c5k",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Ralph Waldo Emerson, The American Scholar</strong>",
+        "id": "_GFwuuviGt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wir suchen im und mit dem Theater eine handlungsf\u00e4hige Haltung zu und in der Gesellschaft, in der wir leben. Vordergr\u00fcndig politisch zu sein war in der langen Geschichte des Theater o.N. nie intendiert. Gleichwohl ist unsere Herangehensweise an sich politisch. Individuelle Biografie ernst zu nehmen und in Zeitbezug zu setzen, ist seit Gr\u00fcndung der Gruppe der Ansatz der Theaterarbeit.",
+        "id": "_ZbECQIx5g",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Mit allen unseren Arbeiten folgen wir der Idee, dass Kultur f\u00fcr alle Menschen von Bedeutung ist, egal welchen Alters und unabh\u00e4ngig von ihrer sozialen oder kulturellen Herkunft.",
+        "id": "_2LcBtAeHi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Geschichte und Profil",
+        "id": "_zbkdvwabp",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Das Theater o.N. ist ein seit 40 Jahren bestehender Verbund von Schau- und Puppenspieler*innen, Regisseur*innen, Musiker*innen und Schriftsteller*innen. Es war das erste und lange Zeit einzige freie Theater der DDR. Unter dem Namen \u201eZinnober\u201c entwickelten die K\u00fcnstlerInnen wegweisende Inszenierungen wie \u201etraumhaft\u201c (1985) oder \u201eDie Bremer Stadtmusikanten\u201c (1986).",
+        "id": "_g2MfxJVr9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In seiner jetzigen Konstellation arbeitet das Theater o.N. seit 2010 und schafft mit seinen Arbeiten Kulturangebote f\u00fcr Menschen jeden Alters und unabh\u00e4ngig von ihrer sozialen oder kulturellen Herkunft. Zwei Jahre lang leitete Ania Michaelis das Theater und setzte neue Schwerpunkte, 2012 \u00fcbernahmen Dagmar Domr\u00f6s und Vera Strobel die k\u00fcnstlerische Leitung und werden seit 2013 zus\u00e4tzlich durch Doreen Markert unterst\u00fctzt.",
+        "id": "_1Pk5PCIjA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Im Bereich des Kinder- und Jugendtheaters erforscht und entwickelt das Theater o.N. die darstellenden K\u00fcnste f\u00fcr die J\u00fcngsten (ab 2 Jahren) und setzt mit seinen Inszenierungen und dem zweij\u00e4hrlich stattfindenden \u00bbFRATZ International\u00ab in Deutschland und international k\u00fcnstlerische Impulse f\u00fcr diese Theaterform. 2014 wurde das Ensemble hierf\u00fcr mit dem George Tabori F\u00f6rderpreis ausgezeichnet.",
+        "id": "_30x2lrORT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Seit Gr\u00fcndungszeiten arbeitet das Theater o.N. mit dem Ansatz des Biografischen Theaters und entwickelt den Gro\u00dfteil seiner Inszenierungen ohne textliche Vorlage. In seinen partizipativen Projekten in Berlin Marzahn-Hellersdorf wenden die K\u00fcnstler*innen diese Methode auch auf die Arbeit mit den Kindern und Jugendlichen an.",
+        "id": "_7tQLThWQP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "K\u00f6rperbetontes Spiel und eine Art fantastischer Realismus, eine eigene Auspr\u00e4gung der biografischen Methode und das Objekt- und Puppentheater sind die Merkmale der Inszenierungen des Theater o.N.. Mit diesen Mitteln betreibt das Ensemble seine \u00e4sthetische Forschung - in den Arbeiten f\u00fcr die J\u00fcngsten genauso wie f\u00fcr sein erwachsenes Publikum. In ihrer Laudatio anl\u00e4sslich der Preisverleihung des George-Tabori-F\u00f6rderpreises 2014 schreibt Christel Hoffmann:",
+        "id": "_an52PuGIV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u00bbWas diese Spieler im Inneren bewegt, wo sie sich an der Welt reiben, was ihnen unter die Haut geht, \u00fcbersetzen sie mit materiellen und immateriellen Dingen, oft mit profanen Gegenst\u00e4nden, die jeder durch seinen allt\u00e4glichen Gebrauch kennt. Sie l\u00f6sen die Dinge aus der gewohnten Umgebung, verwandeln sie und entdecken auf diese Weise, was in ihnen steckt. Sie nehmen ihre Zuschauer auf diese Entdeckungsfahrt mit und erleben mit ihnen wie eine Komposition entsteht, die die Phantasie der Zuschauer \u2013 gleich welchen Alters, herausfordert.",
+        "id": "_aIDBylOkq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wobei \u2013 wer will es leugnen \u2013 dieses Verhalten der K\u00fcnstler und das der Kinder \u2013 Peter Hacks nennt sie die \u201epoetischen Menschen\u201c sich \u00e4hneln, wenn nicht sich sogar entsprechen. Die Kunst, die durch dieses Zusammenspiel entsteht, hat sehr viel mit Ber\u00fchrung zu tun.\u00ab",
+        "id": "_Q9pQMXP2f",
+        "type": "paragraph"
+    }
+]

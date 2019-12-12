@@ -1,0 +1,9 @@
+title: File
+
+fields:
+  alt:
+    type: text
+    width: 1/4
+  link:
+    type: url
+    width: 3/4
