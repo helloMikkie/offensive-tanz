@@ -159,6 +159,13 @@ a {
   /* text-decoration: none; */
   transition: opacity 0.3s ease;
 }
+
+_:-ms-lang(x),
+_:-webkit-full-screen,
+a {
+  transition: none;
+}
+
 a:hover{
   opacity: 0.8; 
 }

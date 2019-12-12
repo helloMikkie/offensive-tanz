@@ -85,6 +85,7 @@
 
 </footer>
 
+<script src="<?= url('assets/js/smoothscroll.min.js') ?>"></script>
 <script src="<?= url('assets/js/anime.min.js') ?>"></script>
 <script src="<?= url('assets/js/headerScroll.js') ?>"></script>
 <script src="<?= url('assets/js/animation.js') ?>"></script>
