@@ -72,7 +72,14 @@ input[type="submit"]:hover{
 
 }
 .footer-links a{
-    text-decoration: none; 
+    text-decoration: none;
+ 
+
+}
+
+.footer-links svg{
+    width: auto; 
+
 }
 
 @media(min-width: 60rem){
