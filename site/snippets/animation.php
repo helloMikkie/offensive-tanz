@@ -5,7 +5,7 @@
 	<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
 
 	<!-- start -->
-	<g stroke-width="24" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+	<g stroke-width="0" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
 	<path d="M359.684 263.008c47.702-70.463 149.905-49.502 150.123 25.446 0 49.47.03 238.702.03 254.671" id="l-start-6" stroke="#FC0287"/>
 	<path d="M584 206.636V417.67c0 59.404-63.183 69.884-93.923 32.473-20.494-24.94-63.958-75.399-130.393-151.376" id="l-start-5" stroke="#000000"/>
 	<path d="M337.792 272.04c-25.04-28.81-55.544-67.196-91.515-115.156 0 36.189.074 143.394.223 321.616" id="l-start-4" stroke="#000000"/>
@@ -45,7 +45,7 @@
 
 	<div class="hero-animation-container">
 	<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
-	<g stroke-width="24" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+	<g stroke-width="0" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
 		<!-- start -->
 
 	<path id="r-start-6" stroke="#FC0287" d="M568 30.293H369.588"/>
