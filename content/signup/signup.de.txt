@@ -1,0 +1,20 @@
+Title: Signup
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Wir m\u00fcssen Ihre E-Mail Adresse zu best\u00e4tigen.",
+        "id": "_tsgfu6aee",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "Um die Anmeldung abzuschlie\u00dfen, klicken Sie bitte auf den Link in der E-Mail, <br>die wir Ihnen gerade gesendet haben.",
+        "id": "_0JMsBbopU",
+        "type": "paragraph"
+    }
+]

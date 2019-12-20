@@ -11,10 +11,10 @@
                     </div>
                 <?php endif ?>
                 <article class="stack stack-small card-content">
-                    <p><?= $event->label() ?></p>
+                    <p><?= t($event->label()->value(), ucfirst($event->label()->html())) ?></p>
                     <h2 class="text-purple"><?= $event->title() ?></h2>
                     <p><?= $event->author() ?></p>
-                    <h3 class="text-purple"><?= $event->date()->toDate('D, d.m.Y') ?></h3>
+                    <h3 class="text-purple"><?= $event->date()->toDate('%a, %e.%m.%Y') ?></h3>
                     <p><?= $event->location() ?></p>
                     <div class="card-content-batch">
                         <p><?= $event->age() ?>+</p>
@@ -35,10 +35,10 @@
                     </div>
                 <?php endif ?>
                 <article class="stack stack-small card-content">
-                    <p><?= $event->label() ?></p>
+                    <p><?= t($event->label()->value(), ucfirst($event->label()->html())) ?></p>
                     <h2 class="text-tanzkomplizen"><?= $event->title() ?></h2>
                     <p><?= $event->author() ?></p>
-                    <h3 class="text-tanzkomplizen"><?= $event->date()->toDate('D, d.m.Y') ?></h3>
+                    <h3 class="text-tanzkomplizen"><?= $event->date()->toDate('%a, %e.%m.%Y') ?></h3>
                     <p><?= $event->location() ?></p>
                     <div class="card-content-batch">
                         <p><?= $event->age() ?>+</p>
@@ -59,10 +59,10 @@
                     </div>
                 <?php endif ?>
                 <article class="stack stack-small card-content">
-                    <p><?= $event->label() ?></p>
+                    <p><?= t($event->label()->value(), ucfirst($event->label()->html())) ?></p>
                     <h2 class="text-theater_strahl"><?= $event->title() ?></h2>
                     <p><?= $event->author() ?></p>
-                    <h3 class="text-theater_strahl"><?= $event->date()->toDate('D, d.m.Y') ?></h3>
+                    <h3 class="text-theater_strahl"><?= $event->date()->toDate('%a, %e.%m.%Y') ?></h3>
                     <p><?= $event->location() ?></p>
                     <div class="card-content-batch">
                         <p><?= $event->age() ?>+</p>
@@ -83,10 +83,10 @@
                     </div>
                 <?php endif ?>
                 <article class="stack stack-small card-content">
-                    <p><?= $event->label() ?></p>
+                    <p><?= t($event->label()->value(), ucfirst($event->label()->html())) ?></p>
                     <h2 class="text-theater_oN"><?= $event->title() ?></h2>
                     <p><?= $event->author() ?></p>
-                    <h3 class="text-theater_oN"><?= $event->date()->toDate('D, d.m.Y') ?></h3>
+                    <h3 class="text-theater_oN"><?= $event->date()->toDate('%a, %e.%m.%Y') ?></h3>
                     <p><?= $event->location() ?></p>
                     <div class="card-content-batch">
                         <p><?= $event->age() ?>+</p>
@@ -106,10 +106,10 @@
                     </div>
                 <?php endif ?>
                 <article class="stack stack-small card-content">
-                    <p><?= $event->label() ?></p>
+                    <p><?= t($event->label()->value(), ucfirst($event->label()->html())) ?></p>
                     <h2 class="text-neutral"><?= $event->title() ?></h2>
                     <p><?= $event->author() ?></p>
-                    <h3 class="text-neutral"><?= $event->date()->toDate('D, d.m.Y') ?></h3>
+                    <h3 class="text-neutral"><?= $event->date()->toDate('%a, %e.%m.%Y') ?></h3>
                     <p><?= $event->location() ?></p>
                     <div class="card-content-batch">
                         <p><?= $event->age() ?>+</p>

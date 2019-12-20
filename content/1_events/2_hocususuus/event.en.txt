@@ -1,0 +1,225 @@
+Title: Normen, Normen, Normen!
+
+----
+
+Vorlage: Tanzkomplizen
+
+----
+
+Featured: true
+
+----
+
+Label: Humpdi dumpfs
+
+----
+
+Author: Niels „Storm“ Robitzky
+
+----
+
+Date: 2019-12-31
+
+----
+
+Time: 12:30
+
+----
+
+Duration: 01:25
+
+----
+
+Location: Schillertheater-Werkstatt
+
+----
+
+Tickets: mh@heimannundschwantes.de
+
+----
+
+Age: 6
+
+----
+
+Caption: Die hier angegebenen Altersempfehlungen sind lediglich Orientierungshilfen. Generell begrüßen wir Besucher*innen jeden Alters. Für nähere Informationen ist ein/e Ansprechpartner*in des jeweiligen Partners gerne für Sie erreichbar.
+
+----
+
+Scedule:
+
+- 
+  datum: 2020-06-14
+  zeit: 01:00
+- 
+  datum: 2020-07-25
+  zeit: 10:30
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "Sich anders zu verhalten als alle anderen, bringt eine Menge Widerst\u00e4nde mit sich. Wer \u201eanders\u201c ist, ist gegen die Norm. Aber wer legt fest, welche Regeln und Konventionen den Alltag beherrschen? Wie verh\u00e4lt man sich zum Beispiel auf dem Pausenhof oder im Lehrer*innenzimmer \u2013 gibt es unausgesprochene oder auch ganz klare Codes, an die sich alle halten? Es erfordert Kraft und maximale Offenheit, diese Normen zu hinterfragen und eigene Ma\u00dfst\u00e4be zu entwickeln.",
+        "id": "_409SxNXYG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Niels \u201eStorm\u201c Robitzky thematisiert in seinem St\u00fcck den Selbstwert junger Menschen in einem Wertesystem, das sie mitgestalten k\u00f6nnen. Mit einer Gruppe von Hip-Hop-K\u00fcnstler*innen spielt er allt\u00e4gliche Situationen durch, um ihnen auf radikal \u201candere\u201c Art und Weise entgegenzutreten.",
+        "id": "_GLpcQQoJ1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Niels \u201eStorm\u201c Robitzky ist eine der wichtigsten Pers\u00f6nlichkeiten der weltweiten Hip-Hop-Tanz-Bewegung. Seine Expertise aus kosmopolitischer Forschung im Bereich des urbanen Tanzes legte einen Grundstein f\u00fcr viele Tanzgemeinschaften und Events weltweit.",
+        "id": "_lElhSoHJm",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists:
+
+- 
+  role: Choreografie
+  name: Niels „Storm“ Robitzky
+- 
+  role: Tanz
+  name: >
+    Youssef Ennaoui, Lisa Ennaoui, Christian
+    „Robozee“ Zacharas, Niels
+    „Storm“ Robitzky
+- 
+  role: Licht
+  name: Martin Pilz
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 
+
+----
+
+Template: Theater Strahl
+
+----
+
+Autoren: Joachim Schlömer
+
+----
+
+Datum: 2019-11-26
+
+----
+
+Zeit: 16:30
+
+----
+
+Ort: Ugferstrase 4
+
+----
+
+Dauer: 03:10
+
+----
+
+Termine:
+
+- 
+  datum: 2019-12-03
+  zeit: 12:30
+- 
+  datum: 2019-11-27
+  zeit: 18:00
+- 
+  datum: 2020-07-14
+  zeit: 09:35
+
+----
+
+Alter: 7
+
+----
+
+Legende: Die hier angegebenen Altersempfehlungen sind lediglich Orientierungshilfen. Generell begrüßen wir Besucher*innen jeden Alters. Für nähere Informationen ist ein/e Ansprechpartner*in des jeweiligen Partners gerne für Sie erreichbar.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Der Titel \u201eHocus Pocus\u201c macht seinem Namen alle Ehre: Die zwei Darsteller erscheinen und verschwinden wie aus dem Nichts. Mal sehen wir nur eine Hand, einen Kopf, einen R\u00fccken, wobei der Rest der K\u00f6rper im absoluten Schwarz verschwindet. Das au\u00dfergew\u00f6hnliche B\u00fchnenbild erm\u00f6glicht ein spielerisches und magisches Erkundungsspiel von Erscheinungen und Verschwinden. Dabei setzt der Choreograf<a href=\"http:www.heimannundschwantes.de\"> Philippe Saire</a> in seinem Tanzst\u00fcck haupts\u00e4chlich auf der Kraft der Bilder, ihrer Magie und den Empfindungen, die sie hervorrufen.",
+        "id": "_OIdGDVv2l",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die <strong>br\u00fcderliche Beziehung,</strong> die sich zwischen den beiden T\u00e4nzern entwickelt, bildet den roten Faden des St\u00fcckes: zun\u00e4chst scheint sich ihre Beziehung im Bruderzwist zu verh\u00e4rten, bevor sie sich dann doch gemeinsam auf eine fantastische Reise begeben.",
+        "id": "_hhpLQnk9H",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "K\u00fcnstler",
+        "id": "_r90aeomy4",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Konzept/Choreografie:</strong> Philippe Saire",
+        "id": "_c63bn0mbl",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Kreation/Tanz Philippe Chosson, Micka\u00ebl Henrotay-Delaunay",
+        "id": "_dkeunlhf7",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Dancers on tour Micka\u00ebl Henrotay-Delaunay, Ismael Oiartzabal",
+        "id": "_0455aqglw",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>\u201eDas St\u00fcck ist magisch und wunderbar geeignet f\u00fcr ein junges Publikum, f\u00fcr das Tr\u00e4ume noch eine sehr starke Pr\u00e4senz und Realit\u00e4t haben.\u201c</strong>",
+        "id": "_0vtobtbcc",
+        "type": "blockquote"
+    }
+]
+
+----
+
+Partner: Neutral
+
+----
+
+Altersempfehlung: 7
+
+----
+
+Heading: Schau mich an!
+
+----
+
+Veranstaltungstitel: Zesz
+
+----
+
+Premiere: 2019-11-21

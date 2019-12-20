@@ -1,0 +1,26 @@
+Title: Subscription Confirmed
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Subscription Confirmed",
+        "id": "_6z9k1mrq1",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "Your subscription to our list has been confirmed.",
+        "id": "_GB1zhN253",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Thank you for subscribing!",
+        "id": "_3KpPsE0ae",
+        "type": "paragraph"
+    }
+]

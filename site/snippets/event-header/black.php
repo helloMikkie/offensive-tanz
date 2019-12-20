@@ -1,10 +1,11 @@
 
 <section class="neutral">
 <article class="stack card-content">
-        <p><?= $page->label() ?></p>
+        <p><?= t($page->label()->value(), ucfirst($page->label()->html())) ?></p>
         <h2 class="text-neutral"><?= $page->title() ?></h2>
         <p><?= $page->author() ?></p>
-        <h3 class="text-neutral"><?= $page->date()->toDate('D, d.m.Y') ?></h3>
+        <h3 class="text-neutral"><?= $page->date()->toDate('%a, %e.%m.%Y') ?></h3>
         <p><?= $page->location() ?></p>
     </article>
 </section>
+

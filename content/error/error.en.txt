@@ -1,0 +1,20 @@
+Title: Error
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "404 ERROR",
+        "id": "_t9plul5po",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "Page not found",
+        "id": "_skeuenw0j",
+        "type": "paragraph"
+    }
+]

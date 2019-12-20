@@ -1,0 +1,265 @@
+Title: Dance and Racism
+
+----
+
+Vorlage: Purple
+
+----
+
+Label: Tanzveranstaltung
+
+----
+
+Featured: true
+
+----
+
+Author: Cie Philippe Saire, Lausanne/CH
+
+----
+
+Date: 2020-03-27
+
+----
+
+Time: 12:30
+
+----
+
+Location: Uferstraße  14
+
+----
+
+Duration: 01:15
+
+----
+
+Tickets: karten@purple-tanzfestival.de
+
+----
+
+Age: 8
+
+----
+
+Caption: The age recommendations given here are only guidelines. In general, we welcome visitors of all ages. A contact person of the respective partner will be happy to provide you with more information.
+
+----
+
+Scedule:
+
+- 
+  datum: 2020-02-04
+  zeit: 10:20
+- 
+  datum: 2020-05-04
+  zeit: 10:30
+- 
+  datum: 2020-06-08
+  zeit: 10:45
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "Der Titel \u201eHocus Pocus\u201c macht seinem Namen alle Ehre: Die zwei Darsteller erscheinen und verschwinden wie aus dem Nichts. Mal sehen wir nur eine Hand, einen Kopf, einen R\u00fccken, wobei der Rest der K\u00f6rper im absoluten Schwarz verschwindet. Das au\u00dfergew\u00f6hnliche B\u00fchnenbild erm\u00f6glicht ein spielerisches und magisches Erkundungsspiel von Erscheinungen und Verschwinden. Dabei setzt der Choreograf Philippe Saire in seinem Tanzst\u00fcck haupts\u00e4chlich auf der Kraft der Bilder, ihrer Magie und den Empfindungen, die sie hervorrufen.",
+        "id": "_9Y3g9lIeX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die br\u00fcderliche Beziehung, die sich zwischen den beiden T\u00e4nzern entwickelt, bildet den roten Faden des St\u00fcckes: zun\u00e4chst scheint sich ihre Beziehung im Bruderzwist zu verh\u00e4rten, bevor sie sich dann doch gemeinsam auf eine fantastische Reise begeben.",
+        "id": "_m56tI1Vto",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Das St\u00fcck ist magisch und wunderbar geeignet f\u00fcr ein junges Publikum, f\u00fcr das Tr\u00e4ume noch eine sehr starke Pr\u00e4senz und Realit\u00e4t haben.<br><strong>Thierry Sartoretti, Radio T\u00e9l\u00e9vision Suisse</strong>",
+        "id": "_mitgfld97",
+        "type": "blockquote"
+    }
+]
+
+----
+
+Artists:
+
+- 
+  role: Konzept/Choreografie
+  name: ' Philippe Saire'
+- 
+  role: ' Kreation/Tanz '
+  name: >
+    Philippe Chosson, Mickaël
+    Henrotay-Delaunay
+- 
+  role: Dancers on tour
+  name: >
+    Mickaël Henrotay-Delaunay, Ismael
+    Oiartzabal
+- 
+  role: Bühnentechnik
+  name: ' Léo Piccirelli Props  '
+
+----
+
+Staffs:
+
+- 
+  role: Sounddesign
+  name: ' Stéphane Vecchione '
+- 
+  role: 'Technischer Leiter '
+  name: 'Vincent Scalbert '
+- 
+  role: Bühnenaufbau
+  name: ' Cédric Berthoud '
+- 
+  role: Bühnenmanagement
+  name: ' Vincent Scalbert '
+- 
+  role: Musik
+  name: ' Peer Gynt, Edvard Grieg'
+
+----
+
+Subtext:
+
+[
+    {
+        "attrs": [],
+        "content": "Eine Koproduktion mit Le Petit Th\u00e9\u00e2tre de Lausanne (entstanden am 25. Oktober 2017 am Le Petit Th\u00e9\u00e2tre de Lausanne), Jungspund \u2013 Theatre Festival for Young Audiences St.Gallen im Rahmen von Fund Young Audiences by Reso \u2013 Dance Network Switzerland. Gef\u00f6rdert durch Pro Helvetia. Cie Philippe Saire wird von einer gemeinsamen Unterst\u00fctzungsvereinbarung zwischen der Stadt Lausanne, Kanton Waadt und Pro Helvetia \u2013 Schweizer Kulturstiftung gef\u00f6rdert, unterst\u00fctzt von Loterie Romande, Fondation de Famille Sandoz, Migros Kulturprozent, Corodis. Cie Philippe Saire hat eine st\u00e4ndige Residenz am Th\u00e9\u00e2tre S\u00e9velin 36, Lausanne.",
+        "id": "_jj1im4lmu",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Staff:
+
+- 
+  role: Licht
+  name: Georg Heanndel
+
+----
+
+Template: Tanzkomplizen
+
+----
+
+Autoren: Joachim Schlömer
+
+----
+
+Datum: 2019-11-26
+
+----
+
+Zeit: 16:30
+
+----
+
+Ort: Ugferstrase 4
+
+----
+
+Dauer: 03:10
+
+----
+
+Termine:
+
+- 
+  datum: 2019-12-03
+  zeit: 12:30
+- 
+  datum: 2019-11-27
+  zeit: 18:00
+- 
+  datum: 2020-07-14
+  zeit: 09:35
+
+----
+
+Alter: 7
+
+----
+
+Legende: Die hier angegebenen Altersempfehlungen sind lediglich Orientierungshilfen. Generell begrüßen wir Besucher*innen jeden Alters. Für nähere Informationen ist ein/e Ansprechpartner*in des jeweiligen Partners gerne für Sie erreichbar.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Der Titel \u201eHocus Pocus\u201c macht seinem Namen alle Ehre: Die zwei Darsteller erscheinen und verschwinden wie aus dem Nichts. Mal sehen wir nur eine Hand, einen Kopf, einen R\u00fccken, wobei der Rest der K\u00f6rper im absoluten Schwarz verschwindet. Das au\u00dfergew\u00f6hnliche B\u00fchnenbild erm\u00f6glicht ein spielerisches und magisches Erkundungsspiel von Erscheinungen und Verschwinden. Dabei setzt der Choreograf<a href=\"http:www.heimannundschwantes.de\"> Philippe Saire</a> in seinem Tanzst\u00fcck haupts\u00e4chlich auf der Kraft der Bilder, ihrer Magie und den Empfindungen, die sie hervorrufen.",
+        "id": "_OIdGDVv2l",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die <strong>br\u00fcderliche Beziehung,</strong> die sich zwischen den beiden T\u00e4nzern entwickelt, bildet den roten Faden des St\u00fcckes: zun\u00e4chst scheint sich ihre Beziehung im Bruderzwist zu verh\u00e4rten, bevor sie sich dann doch gemeinsam auf eine fantastische Reise begeben.",
+        "id": "_hhpLQnk9H",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "K\u00fcnstler",
+        "id": "_r90aeomy4",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Konzept/Choreografie:</strong> Philippe Saire",
+        "id": "_c63bn0mbl",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Kreation/Tanz Philippe Chosson, Micka\u00ebl Henrotay-Delaunay",
+        "id": "_dkeunlhf7",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Dancers on tour Micka\u00ebl Henrotay-Delaunay, Ismael Oiartzabal",
+        "id": "_0455aqglw",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>\u201eDas St\u00fcck ist magisch und wunderbar geeignet f\u00fcr ein junges Publikum, f\u00fcr das Tr\u00e4ume noch eine sehr starke Pr\u00e4senz und Realit\u00e4t haben.\u201c</strong>",
+        "id": "_0vtobtbcc",
+        "type": "blockquote"
+    }
+]
+
+----
+
+Partner: Neutral
+
+----
+
+Altersempfehlung: 7
+
+----
+
+Heading: Schau mich an!
+
+----
+
+Veranstaltungstitel: Zesz
+
+----
+
+Premiere: 2019-11-21

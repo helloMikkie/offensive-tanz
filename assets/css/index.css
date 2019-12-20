@@ -32,11 +32,11 @@
   --color-gray: #a5a5a5;
   --color-ultrawhite: #ffffff;
 
-  --color-white: #f8f8ff;
-  --color-neutral: #484848;
-  --color-blue: #6373ff;
-  --color-red: #fc0287;
-  --color-green: #4bd9a9;
+  --color-white: #f7f7f7;
+  --color-neutral: #222222;
+  --color-blue: #6c79f3;
+  --color-red: #f62a86;
+  --color-green: #3ecf90;
   --color-yellow: #ffc100;
 
   --border-radius: 1.2rem;
@@ -53,7 +53,8 @@
   --lh-small: 1.25; 
   --lh-base: 1.5;
   --lh-madium: 1.8;
-  /* spaces */
+
+  /* SPACES */
   --s-x-large: 6rem;
   --s-large: 4rem; 
   --s-medium: 1rem;
@@ -114,7 +115,7 @@ dd {
 html {
   font-family: "raisonne-book";
   color: var(--color-text);
- 
+
 }
 
 body {
@@ -127,7 +128,6 @@ body {
   line-height: var(--lh-base);
   word-spacing: -0.04rem;
   background: var(--color-white);
-
 }
 
 img {
@@ -156,7 +156,6 @@ a {
   color: currentColor;
   display: inline-block;
   text-decoration-skip-ink: auto;
-  /* text-decoration: none; */
   transition: opacity 0.3s ease;
 }
 
@@ -184,6 +183,7 @@ ol {
 ul:not([class]) li {
   border-bottom: 1px solid #000;
   padding: var(--s-base) 0;
+  font-size: var(--fs-base);
 }
 
 /* # # # # # #  TYPOGRAPHY  # # # # # #  */
@@ -202,6 +202,7 @@ h4 {
 h1,h2{
   font-size: var(--fs-medium);
   line-height: var(--lh-small);
+  text-align: center; 
 }
 h3, h4{
   font-size: var(--fs-base);

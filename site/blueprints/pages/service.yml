@@ -1,11 +1,23 @@
-title: Events
+title: Service
 icon: 💡
 preset: page
 
 fields:
+  intro:
+    label: Intro für Servicebereich
+    type: editor
+    allowed: 
+      - h1
+      - h2
+      - paragraph
   tickets:
-    type: textarea
+    label: Ticket Erklärung
+    type: editor
+    allowed: 
+      - h2
+      - paragraph
   ticketlinks:
+    label: Links zum Ticket-Service
     type: structure
     fields:
       name: 
@@ -13,10 +25,34 @@ fields:
       link:
         type: text
   feedback:
-    type: textarea
+    label: Text Feedback-Button
+    type: editor
+    allowed:
+      - h2
+      - paragraph
+  download:
+    label: Download Erklärung
+    type: editor
+    allowed: 
+      - h2
+      - paragraph
+  press:
+    label: Presse Erklärung
+    type: editor
+    allowed: 
+      - h2
+      - paragraph
+  pressContact:
+    label: Presse Kontakt
+    type: editor
+    allowed: 
+      - paragraph
   contact:
-    type: textarea
-  presse:
-    type: textarea
+    label: Kontaktadresse
+    type: editor
+    allowed: 
+      - h2
+      - paragraph
+
 
             

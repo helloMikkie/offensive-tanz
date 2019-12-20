@@ -1,0 +1,184 @@
+Title: Service
+
+----
+
+Intro:
+
+[
+    {
+        "attrs": [],
+        "content": "Service",
+        "id": "_mubkgizox",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "Hier finden Sie Informationen rund zu unseren Veranstaltungen. Au\u00dferdem unser Drucksachen zum Download sowie unser Pressemitteilungen. Kontaktiren Sie uns f\u00fcr weitere Fragen, zu denen wir uns gerne zur\u00fcckmelden.",
+        "id": "_aqmf16z5h",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Tickets:
+
+[
+    {
+        "attrs": [],
+        "content": "Eintrittskarten",
+        "id": "_m3cwoi4yg",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Der Kauf von Tickets ist ausschlie\u00dflich \u00fcber die Websites der einzelnen Partner m\u00f6glich. Die direkten Kontaktinformationen hierf\u00fcr k\u00f6nnen auf der entsprechenden Veranstaltungsseite eingesehen werden.",
+        "id": "_p7ouSYXTo",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Ticketlinks:
+
+- 
+  name: Purple Tanzfestival
+  link: >
+    https://purple-tanzfestival.de/en/ticketpreise/
+- 
+  name: Tanzkomplizen für junges Publikum
+  link: https://tanzkomplizen.de/tickets
+- 
+  name: Theater Strahl Berlin
+  link: https://www.theater-strahl.de/tickets/
+- 
+  name: Theater o.N.
+  link: >
+    https://www.theater-on.de/tickets-service/
+
+----
+
+Feedback:
+
+[
+    {
+        "attrs": [],
+        "content": "Ihr Feedback ist gefragt",
+        "id": "_lOinaZk4V",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Unterst\u00fctzen Sie uns mit Ihrer Anregung oder Kritik!",
+        "id": "_3cb2m7oGZ",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Download:
+
+[
+    {
+        "attrs": [],
+        "content": "Weitere Informationen",
+        "id": "_xh2afcudg",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Hier finden Sie unsere Veranstaltungsprogramme und weitere Informationen zum download.",
+        "id": "_0hfzrrcp2",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Press:
+
+[
+    {
+        "attrs": [],
+        "content": "Presse",
+        "id": "_wyxguckak",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Hier finden Sie unsere Pressemitteilungen zum download",
+        "id": "_x31ofgcqv",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Presscontact:
+
+[
+    {
+        "attrs": [],
+        "content": "F\u00fcr Presseanfragen steht Ihnen <a href=\"mailto: k.neumann@offensive-tanz.de\">Katharina Neumann</a> gerne zur Verf\u00fcgung",
+        "id": "_bwcz1tnwe",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Contact:
+
+[
+    {
+        "attrs": [],
+        "content": "Kontakt",
+        "id": "_ru0j54jlj",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o das programm GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin",
+        "id": "_Se3yerLwW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Email:</strong><a href=\"mailto:info@offensive-tanz.de\"> info[at]offensive-tanz.de</a>",
+        "id": "_8oEhmYU85",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Gesch\u00e4ftsf\u00fchrung:</strong> Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
+        "id": "_GgOG86G0X",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Press-contact:
+
+[
+    {
+        "attrs": [],
+        "content": "F\u00fcr Presseanfragen kontaktieren Sie bitte <strong><a href=\"mailto:mailto:%20k.neumann@offensive-tanz.de\">Katharina Neumann</a></strong>",
+        "id": "_vidmlyzq7",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Presse: Für Presseanfragen kontaktieren Sie bitte **(link: mailto: k.neumann@offensive-tanz.de text: Katharina Neumann)**.
+
+----
+
+Survey:
+
+## Fragebogen zum Publikumsfeedback
+Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.
+(link: # text: Feedback geben!)

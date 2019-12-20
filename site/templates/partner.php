@@ -80,7 +80,7 @@
     <!-- Events der einzelnen Partner -->
 
     <section class="stack">
-        <h2 class="heading">Veranstaltungen</h2>
+        <h2 class="heading"><?= t('events') ?></h2>
         
         <?php if ($page->title() == "Purple") : ?>
             <div class="stack purple text-purple">

@@ -2,109 +2,7 @@ title: Event
 icon: 📅
 
 columns:
-  - width: 3/4
-    sections:
-      content:
-        type: fields
-        fields:
-          vorlage:
-            type: select
-            required: true
-            width: 1/3
-            options:
-              - Purple
-              - Tanzkomplizen
-              - Theater Strahl
-              - Theater o.N.
-              - Neutral
-          label:
-            type: select
-            required: true
-            width: 1/3
-            default: Tanzveranstaltung
-            options:
-              - Tanzveranstaltung
-              - Symposium
-              - Workshop
-          featured:
-            type: toggle
-            width: 1/3
-            text:
-              - "no"
-              - "yes"
-          author:
-            required: true
-            type: text
-            width: 1/3
-          date:
-            required: true
-            type: date
-            width: 1/3
-          time:
-            type: time
-            required: true
-            notation: 24
-            step: 15
-            width: 1/3
-          location:
-            type: text
-            required: true
-            width: 1/3
-          duration: 
-            type: time
-            required: true
-            width: 1/3
-            after: Min.
-            default: "45"
-          tickets:
-            required: true
-            width: 1/3
-            type: email
-          age:
-            type: number
-            after: "+"
-            width: 1/4
-          caption:
-            required: true
-            width: 1/4
-            type: textarea
-          scedule:
-            type: structure
-            width: 2/4
-            fields:
-              datum: 
-                type: date
-              zeit:
-                type: time
-                notation: 24
-                after: Uhr
-          description:
-            label: Description
-            required: true
-            width: 1/1
-            type: editor
-          artists:
-            type: structure
-            fields: 
-              role:
-                type: text
-              name:
-                type: text
-          staffs:
-            type: structure
-            fields:
-              role:
-                type: text
-              name:
-                  type: text
-          subtext:
-            label: Subtext
-            width: 1/1
-            type: editor
-        
-    
-            
-  - width: 1/4
+  - width: 1/1
     sections:
       gallery:
         type: files
@@ -114,6 +12,116 @@ columns:
           cover: true
           ratio: 2/1
 
+  - width: 1/1
+    sections:
+      content:
+        type: fields
+        fields:
+          vorlage:
+            type: select
+            required: true
+            width: 1/4
+            options:
+              - Purple
+              - Tanzkomplizen
+              - Theater Strahl
+              - Theater o.N.
+              - Neutral
+          featured:
+            type: toggle
+            width: 1/4
+            text:
+              - "no"
+              - "yes"
+          label:
+            label: Art der Veranstaltung
+            type: text
+            required: true
+            width: 1/2
 
-
-   
+          author:
+            label: Autor/en
+            required: true
+            type: text
+            width: 1/2
+          date:
+            label: Veranstaltung am
+            required: true
+            type: date
+            width: 1/6
+          time:
+            label: beginnt um
+            type: time
+            notation: 24
+            step: 15
+            width: 1/6
+          duration:
+            label: dauert
+            type: time
+            width: 1/6
+            after: Min.
+            default: "45"
+          location:
+            label: Veranstaltungsort
+            type: text
+            width: 1/2
+          tickets:
+            label: Email Ticketservice
+            width: 1/2
+            type: email
+          age:
+            label: Altersempfehlung
+            type: number
+            after: "+"
+            width: 1/6
+          caption:
+            label: Anmerkung
+            width: 1/3
+            type: textarea
+          scedule:
+            label: Weitere Termine
+            type: structure
+            width: 1/2
+            fields:
+              datum:
+                type: date
+              zeit:
+                type: time
+                notation: 24
+                after: Uhr
+          description:
+            label: Beschreibung der Veranstaltung
+            required: true
+            width: 1/1
+            type: editor
+            allowed:
+              - h2
+              - h3
+              - paragraph
+              - image
+              - blockquote
+              - unordered list
+          artists:
+            label: Künstler
+            type: structure
+            width: 1/2
+            fields:
+              role:
+                type: text
+              name:
+                type: text
+          staffs:
+            label: Mitarbeiter
+            type: structure
+            width: 1/2
+            fields:
+              role:
+                type: text
+              name:
+                type: text
+          subtext:
+            label: Allgemeine Anmerkungen zur Veranstaltung
+            width: 1/1
+            type: editor
+            allowed:
+              - paragraph

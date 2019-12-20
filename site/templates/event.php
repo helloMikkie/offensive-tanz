@@ -2,20 +2,22 @@
 
 <main>
 
-<section class="hero-slides wrapper-large ">
-<img class="hero-slides-bg" src="<?= url('assets/img/feedback.svg') ?>" alt="">
-    <?php if ($page->images()->isNotEmpty()) : ?>
-        <?php foreach ($page->images()->sortBy('sort', 'desc') as $image) : ?>
-            <div class="slide">
-                <?= $image->crop(900, 600)  ?>
-                <p class="credit"><span>© </span><?= $image->credit() ?></p>
-            </div>
-        <?php endforeach ?>
-    <?php endif ?>
 
-</section>
-
-
+<?php if ($page->vorlage() == 'Purple') : ?>
+            <?php snippet('event-slides/blue') ?>
+<?php endif ?>
+<?php if ($page->vorlage() == 'Tanzkomplizen') : ?>
+            <?php snippet('event-slides/red') ?>
+<?php endif ?>
+<?php if ($page->vorlage() == 'Theater Strahl') : ?>
+            <?php snippet('event-slides/green') ?>
+<?php endif ?>
+<?php if ($page->vorlage() == 'Theater o.N.') : ?>
+            <?php snippet('event-slides/yellow') ?>
+<?php endif ?>
+<?php if ($page->vorlage() == 'Neutral.') : ?>
+            <?php snippet('event-slides/black') ?>
+<?php endif ?>
 
 
     <section class="stack wrapper wrapper-large">
@@ -55,7 +57,7 @@
 
         <?php if ($page->artists()->isNotEmpty()) : ?>
             <section>
-                <h2 class="heading">Künstler</h2>
+                <h2 class="heading"><?= t('kuenstler') ?></h2>
                 <ul>
                     <?php foreach ($page->artists()->toStructure() as $artist) : ?>
                         <li><span class="list"><?= $artist->role() ?>&emsp;</span><?= $artist->name() ?></li>
@@ -68,7 +70,7 @@
 
         <?php if ($page->staffs()->isNotEmpty()) : ?>
             <section>
-                <h2 class="heading">Mitarbeiter</h2>
+                <h2 class="heading"><?= t('mitarbeiter') ?></h2>
                 <ul>
                     <?php foreach ($page->staffs()->toStructure() as $staff) : ?>
                         <li><span class="list"><?= $staff->role() ?>&emsp;</span><?= $staff->name() ?></li>

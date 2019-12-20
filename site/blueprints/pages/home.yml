@@ -4,29 +4,7 @@ options:
     - home
 
 columns:
-  - width: 1/2
-    sections:
-      content:
-        type: fields
-        fields:
-          introtext:
-            type: editor
-          badgetext:
-            label: News-Badge
-            width: 3/4
-            type: editor
-          featured:
-            type: toggle
-            label: Featured Badge
-            width: 1/4
-            text:
-              - "no"
-              - "yes"
-          badgelink:
-            type: text
-
-
-  - width: 1/2
+  - width: 1/1
     sections:
       gallery:
         type: files
@@ -34,5 +12,39 @@ columns:
         size: tiny
         ratio: 4/3
         cover: true
+  - width: 1/1
+    sections:
+      content:
+        type: fields
+        fields:
+          introtext:
+            label: Einführungstext
+            type: editor
+            width: 1/1
+            allowed:
+              - h1
+              - paragraph
+
+          featured:
+            type: toggle
+            label: Featured
+            
+            width: 1/4
+            text:
+              - "no"
+              - "yes"
+          badgetext:
+            label: Badge Text
+            width: 1/2
+            type: editor
+            allowed:
+              - paragraph
+          badgelink:
+            label: Badge Link
+            type: text
+            width: 1/4
+
+
+
 
 

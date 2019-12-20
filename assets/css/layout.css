@@ -177,8 +177,8 @@
 
 .hero-slides{
   background-position: center;
-  background-repeat: no-repeat;
-  background-size: 100%;
+  background-repeat: repeat-x;
+
   position: relative; 
   display:grid;
   place-items:center;
@@ -186,11 +186,7 @@
   cursor: url("data:image/svg+xml,%3Csvg width='40' height='67' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M10 38.5L5.199 6.974c-.318-2.006 1.043-3.89 3.038-4.206 1.994-.316 3.871 1.056 4.19 3.062l2.384 15.058 3.273-.318c2.15-.34 4.27.913 4.612 3.075l.38 2.397 3.341-.53a3.94 3.94 0 014.505 3.293l.208 1.316 2.397-.38c2.02-.32 4.151 1.727 4.473 3.759v26l-26.14 5.453.001.013L3 36c-2-6.5 0-10 5-11' fill='%23FFF' stroke='%23000' stroke-width='4' fill-rule='evenodd' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") 0 120, pointer; 
 
 }
-@media(min-width: 80rem){
-  .hero-slides{
-    background-size: 1400px;
-  }
-}
+
 .slide {
     position:relative;
     max-width: 900px;
@@ -204,12 +200,6 @@
   transform: translate(-20px, 20px);
 }
 
-.hero-slides-bg {
-  /* display:none; */
-  position: absolute;
-  /* top: 20%;
-  left: 30%; */
-}
 @keyframes fade{
   0% {opacity:  0;}
   100% {opacity:  100%;}

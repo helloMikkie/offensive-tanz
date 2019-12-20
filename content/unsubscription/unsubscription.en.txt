@@ -1,0 +1,20 @@
+Title: Erfolgreich abbestellt
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Unsubscribe Successful",
+        "id": "_fmjt6yxck",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "You will no longer receive email marketing from this list.",
+        "id": "_yssvj986t",
+        "type": "paragraph"
+    }
+]

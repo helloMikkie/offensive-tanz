@@ -1,0 +1,208 @@
+Title: Theater Strahl
+
+----
+
+Subtitle: Berlin
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "1987 als freie Theatergruppe gegr\u00fcndet, bespielt Theater Strahl \u00fcberwiegend mit Urauff\u00fchrungen seit Ende der 1990er zwei feste B\u00fchnen in Berlin Sch\u00f6neberg und seit 2013 die STRAHL.Halle Ostkreuz.",
+        "id": "_gTjhPU2Ni",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Theater Strahl gibt neuen k\u00fcnstlerischen Formen und Ideen Raum, spielt mit Medien, Musik und Masken, entf\u00fchrt das Publikum in die Interaktion, verbindet Tanz mit Theater und inszeniert Klassiker in zeitgem\u00e4\u00dfen Fassungen. Seit 2013 inszeniert Theater Strahl zeitgen\u00f6ssische Tanzst\u00fccke f\u00fcr ein junges Publikum mit internationalen K\u00fcnstler*innen. Tanzinszenierungen sind fester Bestandteil im Repertoire.",
+        "id": "_UfA0CnI22",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die von Strahl entwickelten St\u00fccke und Angebote richten sich an Zuschauer*innen ab 12 Jahre und f\u00fchren auch Erstg\u00e4nger*innen in die Welt des Theaters ein. Jugendliche werden dabei in die St\u00fcckfindung und -entwicklung einbezogen. So finden ihre Perspektiven und Themen in vielf\u00e4ltigen \u00e4sthetischen Formen Resonanz auf der B\u00fchne.",
+        "id": "_owGv764B6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Theater Strahl geht auf Tour, gastiert deutschlandweit und international, folgt Einladungen zu Kinder- und Jugendtheaterfestivals und wird regelm\u00e4\u00dfig f\u00fcr Theaterpreise nominiert und ausgezeichnet.",
+        "id": "_Q3HbvFcF8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Mit dem Ziel, m\u00f6glichst viele Jugendliche aus allen Lebensbereichen anzusprechen, bietet Strahl ein umfangreiches theaterp\u00e4dagogisches Programm, oft in Kooperation mit Partnern aus Bildungseinrichtungen und Fachinstitutionen.",
+        "id": "_roLGHguRY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Theater Strahl ist Mitglied im:",
+        "id": "_hpPQv3P4M",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "ASSITEJ - Internationale Vereinigung des Theaters f\u00fcr Kinder und Jugendliche",
+        "id": "_soukyqfut",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "LAFT BERLIN - Landesverband freie darstellende K\u00fcnste Berlin e.V.",
+        "id": "_c0dtz44rl",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Theater Strahl wird gef\u00f6rdert von der Senatsverwaltung f\u00fcr Kultur und Europa",
+        "id": "_3f5zxqhd2",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Leitbild Theater Strahl",
+        "id": "_k6xyhnw8i",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Theater Strahl Berlin f\u00fchlt sich seit seiner Gr\u00fcndung 1987 besonders zwei Auftr\u00e4gen verpflichtet:",
+        "id": "_LNLZUUZCj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "junges Publikum f\u00fcr Theaterkultur zu begeistern und einen gesellschaftlichen Beitrag zu leisten, dass junge Menschen die M\u00f6glichkeit haben, ihre Zukunft verantwortlich und selbst\u00e4ndig in die Hand zu nehmen.",
+        "id": "_QOAh5gTBK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ausgangspunkt unseres Engagements ist die k\u00fcnstlerische Arbeit auf der B\u00fchne, die theaterp\u00e4dagogische Arbeit mit und f\u00fcr junge Menschen und unsere gesellschaftliche Netzwerkarbeit.",
+        "id": "_QkqdHk2an",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Stellung beziehen",
+        "id": "_7ibgiisl0",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Wir stehen f\u00fcr:",
+        "id": "_qBdV16hie",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Aufrichtigkeit und Transparenz",
+        "id": "_pmhe8nrkj",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Gleichberechtigung",
+        "id": "_tr2eydsch",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Weltoffenheit",
+        "id": "_grw0f2ofa",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Vielfalt",
+        "id": "_pcc3006zx",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "kritische Aufkl\u00e4rung",
+        "id": "_dorelychi",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "respektvolle und gegenseitige Wertsch\u00e4tzung",
+        "id": "_mmiue06yy",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Theater fur junge Menschen",
+        "id": "_e01eqko3l",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Wir wollen jungen Menschen eine Stimme geben, ihre Lebenswelten beleuchten und ihre Ressourcen betonen und st\u00e4rken. Die Vielfalt unseres Spielplans basiert sowohl auf St\u00fcckauftr\u00e4gen und St\u00fcckentwicklungen als auch auf der Grundlage bestehender Stoffe. Dabei stehen die Lebenswirklichkeiten der Jugendlichen und jungen Erwachsenen im Fokus. Die St\u00fccke greifen Konflikte auf, die fundiert recherchiert und mit k\u00fcnstlerisch hohem Anspruch und doch zug\u00e4nglich theatralisiert werden. Dabei nutzt Theater Strahl unterschiedliche, interdisziplin\u00e4re \u00e4sthetische Formen, Medien und Genres und entwickelt diese weiter, um dem jungen Publikum \u2013 und hier schwerpunktm\u00e4\u00dfig Erstg\u00e4nger*innen - das breite Spektrum des Theaters auf qualitativ hohem Niveau und k\u00fcnstlerisch \u00fcberzeugend n\u00e4her zu bringen.",
+        "id": "_ybQJocRMv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Partizipation",
+        "id": "_0kbr6cyx2",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Die gezielte Einbindung der Jugendlichen in Themenrecherche, St\u00fcckentwicklung und Inszenierungsprozess, sowie die Durchf\u00fchrung von Jugendtheaterwerkst\u00e4tten und Workshops, begreift Theater Strahl als Interaktion und Dialog und in seiner Kontinuit\u00e4t als Modell nachhaltiger kultureller Bildung. Hierzu geh\u00f6ren auch Kooperationen mit Schulen, Vereinen, Verb\u00e4nden, Universit\u00e4ten und anderen Institutionen.",
+        "id": "_6KXPvMztS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In Nachgespr\u00e4chen und nachbereitenden Workshops wird zudem der aufrichtige Dialog des Ensembles mit dem Publikum fortgef\u00fchrt.",
+        "id": "_b4SADTTrE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Nachwuchsf\u00f6rderung",
+        "id": "_8w6shxklz",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Wir arbeiten mit jungen Regisseurinnen, Autorinnen, Schauspielerinnen und FSJlerinnen zusammen und geben ihnen in unserem Rahmen die M\u00f6glichkeit, Verantwortung zu \u00fcbernehmen und sich weiter zu entwickeln.",
+        "id": "_6aPMZ9KZB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Weltoffenheit",
+        "id": "_y14556iab",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Theater Strahl sieht seinen Arbeitsschwerpunkt in Berlin und Brandenburg und kn\u00fcpft dar\u00fcber hinaus nationale und internationale Kontakte bei Gastspielen, Tourneen und Festivals.",
+        "id": "_pP06k2hb9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Unser Leitbild ist Haltung und Grundlage f\u00fcr unsere Arbeit, die Auswahl der Themen, St\u00fccke und Kooperationen, sowie f\u00fcr unser t\u00e4gliches Handeln.",
+        "id": "_gcKGaILDK",
+        "type": "paragraph"
+    }
+]

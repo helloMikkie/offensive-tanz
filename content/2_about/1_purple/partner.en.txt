@@ -1,0 +1,48 @@
+Title: Purple
+
+----
+
+Subtitle: International dance festival <br> for young audiences
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "We warmly welcome everyone to watch and share contemporary dance for a young audience: school classes, families, parents, teachers, dance enthusiasts, newcomers to dance.",
+        "id": "_lD8MAmBdx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Since 2017 it has been our goal to inspire children and young people to dance with our festival and to make them curious about contemporary performances. We want to address everyone, boys and girls alike, and this is the idea behind the name of the festival. Purple is not blue and not pink, purple has both colors in it and does not differentiate between boys and girls. Both genders are equal to one another. PURPLE is there for everyone.",
+        "id": "_yV2fi8tAR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The mental preoccupation with dance as a spectator demands and promotes emotional and spatial perception and requires abstract thinking. Every year we put together a fun and dynamic stage program with various aesthetic approaches and content-related issues from the international, contemporary dance scene.",
+        "id": "_IBYc9H37M",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We not only want to sharpen the viewing habits of children and adolescents, we also want to encourage them to participate, empathize and think ahead. That is why, in addition to a professional stage program, we also offer a supporting program for each play and an additional dance workshop for young people at the weekend.",
+        "id": "_eJ2IKXARS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We also give teachers and educators the opportunity to develop a basic understanding of contemporary dance. The free workshop is intended to encourage them to continue studying dance within their classes after visiting the festival.",
+        "id": "_Ysm6U01Sx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://purple-tanzfestival.de/\">purple-tanzfestival</a>",
+        "id": "_bti91g9gt",
+        "type": "paragraph"
+    }
+]

@@ -1,0 +1,184 @@
+Title: Service
+
+----
+
+Intro:
+
+[
+    {
+        "attrs": [],
+        "content": "Service",
+        "id": "_mubkgizox",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "Here you will find information about our events. Also our printed matter for download and our press releases. Contact us for any further questions that we would be happy to answer.",
+        "id": "_aqmf16z5h",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Tickets:
+
+[
+    {
+        "attrs": [],
+        "content": "Tickets",
+        "id": "_5asvvrkwo",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "The purchase of tickets is only possible via the websites of the individual partners. The direct contact information for this can be viewed on the corresponding event page.",
+        "id": "_FDzJ19TgN",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Ticketlinks:
+
+- 
+  name: Purple Dance Festival
+  link: >
+    https://purple-tanzfestival.de/en/ticketpreise/
+- 
+  name: Tanzkomplizen for Young Audience
+  link: https://tanzkomplizen.de/tickets
+- 
+  name: Theater Strahl Berlin
+  link: https://www.theater-strahl.de/tickets/
+- 
+  name: Theater o.N.
+  link: >
+    https://www.theater-on.de/tickets-service/
+
+----
+
+Feedback:
+
+[
+    {
+        "attrs": [],
+        "content": "Your feedback is required",
+        "id": "_PKbnMXezh",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Support us with your suggestion or criticism!",
+        "id": "_Ns1vHPLSn",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Download:
+
+[
+    {
+        "attrs": [],
+        "content": "Further Informations",
+        "id": "_syuusjnws",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Here you will find our event programs and further information to download.",
+        "id": "_xqgu5k6vz",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Press:
+
+[
+    {
+        "attrs": [],
+        "content": "Press Service",
+        "id": "_avg4328cc",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Here you can download our press releases",
+        "id": "_a7378w6rm",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Presscontact:
+
+[
+    {
+        "attrs": [],
+        "content": "<a href=\"mailto: k.neumann@offensive-tanz.de\">Katharina Neumann</a> will be happy to answer any press inquiries",
+        "id": "_bwcz1tnwe",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Contact:
+
+[
+    {
+        "attrs": [],
+        "content": "Contact",
+        "id": "_uwr9u6grh",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o das programm GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin",
+        "id": "_vehAPtICN",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Email:</strong> <a href=\"mailto:info@offensive-tanz.de\">info[at]offensive-tanz.de</a>",
+        "id": "_zGBdjy1Sr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Management:</strong> Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
+        "id": "_ntPWEBt0Y",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Press-contact:
+
+[
+    {
+        "attrs": [],
+        "content": "F\u00fcr Presseanfragen kontaktieren Sie bitte <strong><a href=\"mailto:mailto:%20k.neumann@offensive-tanz.de\">Katharina Neumann</a></strong>",
+        "id": "_vidmlyzq7",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Presse: Für Presseanfragen kontaktieren Sie bitte **(link: mailto: k.neumann@offensive-tanz.de text: Katharina Neumann)**.
+
+----
+
+Survey:
+
+## Fragebogen zum Publikumsfeedback
+Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.
+(link: # text: Feedback geben!)

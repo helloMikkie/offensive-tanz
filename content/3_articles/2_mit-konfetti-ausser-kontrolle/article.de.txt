@@ -1,0 +1,179 @@
+Title: Mit Konfetti außer Kontrolle
+
+----
+
+Featured: true
+
+----
+
+Author: Clement Layes , ONONON
+
+----
+
+Date: 2020-08-22
+
+----
+
+Subtitle: Wenn es weiter geht dann geht es weiter
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Es ist 9:30 Uhr, eine Stunde vor Auff\u00fchrungsbeginn. Ich befinde mich in der Mensa der Neuen Grundschule Potsdam. Hier wird gleich die Vorstellung ONONON stattfinden. Gestern war Premiere in der Freien Schule in Potsdam. Der Raum ist noch sehr leer. Nur ein paar Erwachsene sitzen an den Tischen und trinken Kaffee, w\u00e4hrend das Team der Produktion das B\u00fchnenbild zusammenbaut. Eine Kiste aus Naturholz bestehend aus wenigen Versatzst\u00fccken, ungef\u00e4hr 2 mal 2 Meter gro\u00df, bilden das Fundament des mobilen Pop-Up B\u00fchnenbildes. Die Kiste ist praktisch und multifunktional. Sp\u00e4ter wird sie den Performer*innen C\u00e9cile Bally und Nir Vidanals B\u00fchne und Abtauchstation und den vielen Objekten als Stau- und Versteckraum dienen. Eine kleine Luke mit Klappe ist das Verbindungselement zwischen drinnen und drau\u00dfen, zwischen off und on.",
+        "id": "_yvc59y79h",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wie verwandelt sich eine Mensa in ein Theater?",
+        "id": "_k1xw1rxwz",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Es wird keine externen Lichtstimmungen geben. Das Licht der Mensa soll als Spiellicht ausreichen. In der Mitte des Raumes wird die Kiste nun aufgebaut. In einem Halbkreis drum herum schieben und r\u00fccken zwei Helfer ungef\u00e4hr 50 St\u00fchle und ein paar Tische als Sitzgelegenheit f\u00fcr das junge Publikum zurecht. Die funktionale und cleane Neubau-Aura der Mensa l\u00e4sst die Vorstellung eines B\u00fchnenzaubers, der die Kinder in eine andere Welt hineinziehen soll, kaum zu. Andererseits gibt es hier nicht viel, was die Aufmerksamkeit der Kinder sonst noch auf sich lenken k\u00f6nnte. Ein paar Bilder h\u00e4ngen an der wei\u00dfen Wand und es gibt Pflanzen, die f\u00fcr ein bisschen mehr Freundlichkeit im Raum sorgen sollen. Ansonsten nur Dinge, die wirklich benutzt werden: Tische und St\u00fchle. Keine wirkliche Konkurrenz zu dem neuen, quadratischen \u201eDing\u201c in der Mitte. Damit macht sich die Holzkiste von ONONON zum spektakul\u00e4rsten Objekt im Raum.",
+        "id": "_n8wjq5xmw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Trotzdem signalisiert die Mensa aus jeder Decken- und Bodenfaser: Das hier ist keine Spielwiese! Umso spannender, dass ausgerechnet an diesem Ort, in wenigen Minuten eine Auff\u00fchrung mit vielen Objekten stattfinden wird. Werden die Performer*innen es schaffen, ob dieser n\u00fcchternen Atmosph\u00e4re, die Kinder in eine andere Welt hinein zu man\u00f6vrieren?",
+        "id": "_jow2jz65p",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Was kann die Kiste wirklich",
+        "id": "_hiry39idm",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Um 10:30 Uhr soll das St\u00fcck beginnen. Die Kinder trudeln nach und nach in die Mensa ein, be\u00e4ugen teilweise neugierig, teilweise etwas \u00fcberdreht die Kiste und setzen sich auf die Tische und St\u00fchle im Halbkreis. Hier und da deuten die Lehrer*innen mit einem \u201ePssst pssst\u201c darauf hin, dass es gleich los geht. Eine junge Frau und ein junger Mann in schwarz gekleidet, stehen rechts hinter der Kiste auf Position. Das sind die Performer*innen Cecile und Nir. Sie sprechen die Kinder ganz direkt an: \u201eSeid ihr so weit?\u201c. Die Kinder antworten im Chor: \u201eJa!\u201c. Die Verabredung ist getroffen, das St\u00fcck kann beginnen. Alles ist wie auf Knopfdruck mucksm\u00e4uschenstill. Die Blicke der Kinder verfolgen gebannt, wie die beiden Akteur*innen auf die Kiste steigen. Sie \u00f6ffnen eine kleine Luke, durch die sie in der Kiste verschwinden. Was passiert wohl als n\u00e4chstes? Die Luft steht still. Der Funke ist \u00fcbergesprungen.",
+        "id": "_wkoyz76iy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Eine Musik geht an",
+        "id": "_3taotsa3g",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Vermutlich kommt sie aus der Kiste. Die Luke geht auf. Eine Hand kommt raus. Musik aus. Die Hand verschwindet. Die Luke geht zu. Musik wieder an. Dieses musikalisch-choreographische Prinzip wird einige Male wiederholt.",
+        "id": "_9wb52yluz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ein Kopf, eine Per\u00fccke, eine Vase",
+        "id": "_535f0eaj4",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Die Kinder lachen und sind gefesselt vom rhythmischen Verschwinden und Auftauchen der K\u00f6rperteile und Objekte. Der Rhythmus hat auch mich in einer Schleife mitgenommen und l\u00e4sst mich nicht mehr los.",
+        "id": "_2k7tvuq5z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Denn obwohl es sich um Gegenst\u00e4nde handelt, die die Kinder aus ihrem Alltag kennen, verhalten sich diese Dinge nicht so, wie sie es gew\u00f6hnt sind.",
+        "id": "_8acmx22zw",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Josef Hayden, Komponist</strong>",
+        "id": "_lag4osjim",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Unter dem Paket befindet sich ein ferngesteuertes Auto und unter der Per\u00fccke robbt ein kleiner aufziehbarer Hund. Das Wechselspiel aus Illusion und Enth\u00fcllung, aus Magie und Entzauberung wird zum spannungsgeladenen Ereignis, bei dem die Kinder merklich damit besch\u00e4ftigt sind, hinter die Tricks zu kommen. Sie versuchen zu erraten, was die Ursache der Bewegung hinter den Objekten sein k\u00f6nnte.",
+        "id": "_dlya3ykll",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Pflanzen k\u00f6nnen tanzen",
+        "id": "_5oj96z8ku",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "ein Stapel Papppakete kreist um sich selbst",
+        "id": "_jvntpwd8e",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Per\u00fccken kriechen wie von Geisterhand \u00fcber den Boden",
+        "id": "_c5cl4a46k",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Wie ist das m\u00f6glich? Welcher Trick steckt wohl dahinter?",
+        "id": "_kw1hsxlky",
+        "type": "h2"
+    },
+    {
+        "attrs": {
+            "src": "http://localhost:8888/media/pages/Blog/mit-konfetti-ausser-kontrolle/3495682885-1576591541/flyer.png",
+            "id": "Blog/mit-konfetti-ausser-kontrolle/flyer.png",
+            "ratio": 1.164882226980728,
+            "caption": "Ich bin eine Bildunterschrift"
+        },
+        "content": "",
+        "id": "_s8ex6otk2",
+        "type": "image"
+    }
+]
+
+----
+
+Subtext:
+
+[
+    {
+        "attrs": [],
+        "content": "Clement Layes",
+        "id": "_e947ksk4f",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Der Bruder des Komponisten Michael Haydn und des Tenors Johann Evangelist Haydn verbrachte den gr\u00f6\u00dferen Teil seiner beruflichen Laufbahn als Hofmusiker auf dem Landsitz der wohlhabenden ungarischen Familie Esterh\u00e1zy, deren Orchester und Oper er leitete. Die Abgeschiedenheit von anderen Komponisten und musikalischen Str\u00f6mungen beschrieb er mit den Worten: \u201eIch war von der Welt abgesondert, niemand in meiner N\u00e4he konnte mich an mir selbst irremachen und qu\u00e4len, und so musste ich original werden.\u201c",
+        "id": "_9yuLcI8Xc",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "Mit Konneftts",
+        "id": "_cqrsw6qsp",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "Es ist 9:30 Uhr, eine Stunde vor Auff\u00fchrungsbeginn. Ich befinde mich in der Mensa der Neuen Grundschule Potsdam. Hier wird gleich die Vorstellung ONONON stattfinden. Gestern war Premiere in der Freien Schule in Potsdam. Der Raum ist noch sehr leer. Nur ein paar Erwachsene sitzen an den Tischen und trinken Kaffee, w\u00e4hrend das Team der Produktion das B\u00fchnenbild zusammenbaut. Eine Kiste aus Naturholz bestehend aus wenigen Versatzst\u00fccken, ungef\u00e4hr 2 mal 2 Meter gro\u00df, bilden das Fundament des mobilen Pop-Up B\u00fchnenbildes. Die Kiste ist praktisch und multifunktional. Sp\u00e4ter wird sie den Performer*innen C\u00e9cile Bally und Nir Vidanals B\u00fchne und Abtauchstation und den vielen Objekten als Stau- und Versteckraum dienen. Eine kleine Luke mit Klappe ist das Verbindungselement zwischen drinnen und drau\u00dfen, zwischen off und on.",
+        "id": "_16zp7pkfe",
+        "type": "paragraph"
+    }
+]

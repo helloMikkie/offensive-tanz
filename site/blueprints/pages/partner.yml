@@ -1,19 +1,25 @@
 title: Partner
-icon: 🚀
-preset: pages
-pages:
-  layout: list
-files:
-  layout: cards
-
-
+icon: 🐝
+# preset: pages
+# pages:
+#   layout: list
+# files:
+#   layout: cards
 
 fields: 
   subtitle:
+    label: Partner Unterzeile
     type: text
-    width: 1/4
+    width: 1/2
   text:
-    label: Editor
-    width: 3/4
+    label: Partner Profil
+    width: 1/2
     type: editor
+    allowed:
+      - paragraph
+      - h2
+      - blockquote
+      - ul
+
+
 

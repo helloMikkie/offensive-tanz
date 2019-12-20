@@ -1,5 +1,5 @@
 
 
 <a href="#" class="feedback-section">
-        <?= page('service')->feedback()->kt() ?>
+        <?= page('service')->feedback()->blocks() ?>
 </a>

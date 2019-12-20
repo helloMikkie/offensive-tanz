@@ -1,7 +1,4 @@
 title: Events
-icon: 💡
+icon: 📌
 preset: pages
-options:
-  changeTemplate: 
-    - default
-    - event
+

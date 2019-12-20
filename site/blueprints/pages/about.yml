@@ -1,5 +1,5 @@
 title: Projekt
-
+icon: 🔌
 
 columns:
   - width: 3/4
@@ -14,19 +14,40 @@ columns:
             ratio: 4/3
             cover: true
           about:
+            label: Profil
             type: editor
+            allowed:
+              - h1
+              - h2
+              - paragraph
+              - blockquote
           mission:
+            label: Mission Statement
             type: editor
+            allowed:
+              - h2
+              - paragraph
+              - blockquote
           partners:
+            label: Partner Institutionen
             type: editor
+            allowed: 
+              - h2
+              - paragraph
+              - blockquote
           sponsors:
+            label: Fördermodell
             type: editor
+            allowed: 
+              - h2
+              - paragraph
 
   - width: 1/4
     sections:
+      partner:
+        type: pages
       logos:
         type: files
         template: about-logo
-      partner:
-        type: pages
+      
 

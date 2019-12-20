@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="500px" viewBox="0 0 400 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>bg-slides-blue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="bg-slides-blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2.55795385e-13,129.5 L49.574978,129.651799 C53.0534514,129.651799 55.8879746,126.8589 55.9393927,123.380427 L56.3817513,93.2812673 C56.4788743,86.7022026 65.2738131,84.5761061 68.3646105,90.3838997 L96.695968,143.615479 C99.8112502,149.467345 108.680459,147.253919 108.680459,140.625069 L108.484082,100.984991" id="Path" stroke="#6C79F3" stroke-width="10"></path>
+        <path d="M271.5,234.5 C276.241441,243.408659 285.318737,255.813169 294.80162,273.630488 C297.916902,279.482354 308,279.5 307.786111,270.640078 L307.22847,190.281267 C307.325593,183.702203 316.120531,181.576106 319.211329,187.3839 L339.542136,223 L400,223" id="Path-Copy-7" stroke="#6C79F3" stroke-width="10"></path>
+        <path d="M166.375,222.5 L231.118975,222.380427 L231.561334,192.281267 C231.658457,185.702203 240.453395,183.576106 243.544193,189.3839 L263.875,225" id="Path-Copy-15" stroke="#6C79F3" stroke-width="10"></path>
+        <path d="M-3.97903932e-13,441.5 L125.868975,441.380427 L126.311334,411.281267 C126.408457,404.702203 135.203395,402.576106 138.294193,408.3839 L156.786111,441.5 L250,441.5" id="Path-Copy-16" stroke="#6C79F3" stroke-width="10"></path>
+        <line x1="-1.88293825e-13" y1="223" x2="153.3125" y2="223" id="Path-6-Copy-6" stroke="#6C79F3" stroke-width="10"></line>
+        <line x1="125.367138" y1="130" x2="400" y2="130" id="Path-6-Copy-4" stroke="#6C79F3" stroke-width="10"></line>
+        <line x1="261.9375" y1="441.5" x2="400" y2="441.5" id="Path-6-Copy-5" stroke="#6C79F3" stroke-width="10"></line>
+    </g>
+</svg>

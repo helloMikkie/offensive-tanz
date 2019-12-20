@@ -1,0 +1,92 @@
+Title: Impressum
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o das programm GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin",
+        "id": "_UKibqKSgZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"http://localhost:8888/info@offensive-tanz.de\">info[at]offensive-tanz.de</a>",
+        "id": "_un3QTTZzQ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vertreten durch die Gesch\u00e4ftsf\u00fchrung: <br>Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
+        "id": "_gfrNJeqXf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Redaktion",
+        "id": "_h6zq2qc8w",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Katharina Neumann, Canan Erek",
+        "id": "_o35FMwwGW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Konzept und Gestaltung",
+        "id": "_tzke6v6w1",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"http://www.heimannundschwantes.de/\">Heimann + Schwantes</a>",
+        "id": "_kKZ0uWpNJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Haftungsausschluss",
+        "id": "_1PzdDsky5",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "1. Inhalt des Onlineangebotes",
+        "id": "_yOeG0lIIZ",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Die Autorinnen \u00fcbernehmen keinerlei Gew\u00e4hr f\u00fcr die Aktualit\u00e4t, Korrektheit, Vollst\u00e4ndigkeit oder Qualit\u00e4t der bereitgestellten Informationen. Haftungsanspr\u00fcche gegen die Autorinnen, welche sich auf Sch\u00e4den materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollst\u00e4ndiger Informationen verursacht wurden, sind grunds\u00e4tzlich ausgeschlossen, sofern seitens der Autorinnen kein nachweislich vors\u00e4tzliches oder grob fahrl\u00e4ssiges Verschulden vorliegt.<br>Alle Angebote sind freibleibend und unverbindlich. Die Autorinnen behalten es sich ausdr\u00fccklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ank\u00fcndigung zu ver\u00e4ndern, zu erg\u00e4nzen, zu l\u00f6schen oder die Ver\u00f6ffentlichung zeitweise oder endg\u00fcltig einzustellen.",
+        "id": "_P4BSwYlJZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "2. Verweise und Links",
+        "id": "_eEEUfWNGy",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Bei direkten oder indirekten Verweisen auf fremde Webseiten (\u201eHyperlinks\u201c), die au\u00dferhalb des Verantwortungsbereiches der Autorinnen liegen, w\u00fcrde eine Haftungsverpflichtung ausschlie\u00dflich in dem Fall in Kraft treten, in dem die Autorinnen von den Inhalten Kenntnis haben und es ihnen technisch m\u00f6glich und zumutbar w\u00e4re, die Nutzung im Falle rechtswidriger Inhalte zu verhindern.<br>Die Autorinnen erkl\u00e4ren hiermit ausdr\u00fccklich, dass zum Zeitpunkt der Linksetzung keine illegalen Inhalte auf den zu verlinkenden Seiten erkennbar waren. Auf die aktuelle und zuk\u00fcnftige Gestaltung, die Inhalte oder die Urheberschaft der verlinkten/verkn\u00fcpften Seiten haben die Autorinnen keinerlei Einfluss. Deshalb distanzieren sie sich hiermit ausdr\u00fccklich von allen Inhalten aller verlinkten /verkn\u00fcpften Seiten, die nach der Linksetzung ver\u00e4ndert wurden. Diese Feststellung gilt f\u00fcr alle innerhalb des eigenen Internetangebotes gesetzten Links und Verweise sowie f\u00fcr Fremdeintr\u00e4ge in von den Autor*innen eingerichteten G\u00e4steb\u00fcchern, Diskussionsforen, Linkverzeichnissen, Mailinglisten und in allen anderen Formen von Datenbanken, auf deren Inhalt externe Schreibzugriffe m\u00f6glich sind. F\u00fcr illegale, fehlerhafte oder unvollst\u00e4ndige Inhalte und insbesondere f\u00fcr Sch\u00e4den, die aus der Nutzung oder Nichtnutzung solcherart dargebotener Informationen entstehen, haftet allein der Anbieter der Seite, auf welche verwiesen wurde, nicht derjenige, der \u00fcber Links auf die jeweilige Ver\u00f6ffentlichung lediglich verweist.",
+        "id": "_hZI9FiGir",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "3. Urheber- und Kennzeichenrecht",
+        "id": "_jAkNrZBk8",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Die Autorinnen sind bestrebt, in allen Publikationen die Urheberrechte der verwendeten Bilder, Grafiken, Tondokumente, Videosequenzen und Texte zu beachten, von ihnen selbst erstellte Bilder, Grafiken, Tondokumente, Videosequenzen und Texte zu nutzen oder auf lizenzfreie Grafiken, Tondokumente, Videosequenzen und Texte zur\u00fcckzugreifen. Alle innerhalb des Internetangebotes genannten und ggf. durch Dritte gesch\u00fctzten Marken- und Warenzeichen unterliegen uneingeschr\u00e4nkt den Bestimmungen des jeweils g\u00fcltigen Kennzeichenrechts und den Besitzrechten der jeweiligen eingetragenen Eigent\u00fcmer. Allein aufgrund der blo\u00dfen Nennung ist nicht der Schluss zu ziehen, dass Markenzeichen nicht durch Rechte Dritter gesch\u00fctzt sind! Das Copyright f\u00fcr ver\u00f6ffentlichte, von den Autorinnen selbst erstellte Objekte bleibt allein bei den Autorinnen der Seiten. Eine Vervielf\u00e4ltigung oder Verwendung solcher Grafiken, Tondokumente, Videosequenzen und Texte in anderen elektronischen oder gedruckten Publikationen ist ohne ausdr\u00fcckliche Zustimmung der Autor*innen nicht gestattet..",
+        "id": "_tO4wUGzcz",
+        "type": "paragraph"
+    }
+]

@@ -21,7 +21,7 @@
                         </div> <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                         <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_0a71f3ebdf03839bd4eed42b0_1f2d129c32" tabindex="-1" value=""></div>
                         <div class="clear">
-                            <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe">
+                            <input type="submit" value="<?= t('anmelden') ?>" name="subscribe" id="mc-embedded-subscribe">
                         </div>
                     </div>
                 </form>
@@ -30,8 +30,9 @@
             <!--End mc_embed_signup-->
 
         </div>
+                
 
-        <p class="newsletter-datenschutz">Hinweise zum Thema Datenschutz erhalten Sie <a href="<?= url('/datenschutz') ?>">hier</a></p>
+        <p class="newsletter-datenschutz"><?= t('datenschutz') ?> <a href="<?= url('/datenschutz') ?>"><?= t('hier') ?></a>.</p>
 
     </section>
 
@@ -42,7 +43,7 @@
 
 
     <section class="white">
-        <p>Gefördert durch </p>
+        <p><?= t('gefoerdert') ?> </p>
         <div class="switcher container ">
             <div>
                 <a href="http://www.tanzpakt.de/home/" target="_blank"><?= svg('assets/img/logo-tanzpakt-bkm.svg') ?></a>
@@ -53,7 +54,7 @@
 
 
     <section class="black">
-        <p>Partner </p>
+        <p><?= t('partner') ?> </p>
         <div class="switcher container">
             <div>
                 <a href="https://tanzkomplizen.de/" target="_blank"><?= svg('assets/img/logo-tanzkomplizen-inv.svg') ?></a>
@@ -74,9 +75,9 @@
         </div>
         <div class="cluster ">
             <div>
-                <a href="<?= url('/kontakt') ?>">Kontakt</a>
-                <a href="<?= url('/impressum') ?>">Impressum</a>
-                <a href="<?= url('/datenschutz') ?>">Datenschutz</a>
+                <a href="<?= url('/kontakt') ?>"><?= page('kontakt')->title() ?></a>
+                <a href="<?= url('/impressum') ?>"><?= page('impressum')->title() ?></a>
+                <a href="<?= url('/datenschutz') ?>"><?= page('datenschutz')->title() ?></a>
             </div>
         </div>
 

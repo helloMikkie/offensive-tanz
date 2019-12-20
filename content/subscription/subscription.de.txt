@@ -1,0 +1,26 @@
+Title: Subscribe
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Anmeldung best\u00e4tigt",
+        "id": "_6z9k1mrq1",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "Ihre Anmeldung f\u00fcr unsere Liste wurde best\u00e4tigt.",
+        "id": "_hke2x4uwl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Danke f\u00fcr Ihre Anmeldung!",
+        "id": "_6dc7gzlom",
+        "type": "paragraph"
+    }
+]
