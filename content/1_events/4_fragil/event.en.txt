@@ -1,0 +1,127 @@
+Title: fragil
+
+----
+
+Vorlage: Theater o.N.
+
+----
+
+Featured: true
+
+----
+
+Label: Premiere
+
+----
+
+Author: Clébio Oliveira
+
+----
+
+Date: 2020-03-28
+
+----
+
+Time: 16:00
+
+----
+
+Duration: 00:30
+
+----
+
+Location: Kollwitzstraße 53, 10405 Berlin, 10405 Berlin
+
+----
+
+Tickets: theater-on@offensive-tanz.de
+
+----
+
+Age: 3
+
+----
+
+Caption: The age recommendations given here are only guidelines. In general, we welcome visitors of all ages. A contact person of the respective partner will be happy to provide you with more information.
+
+----
+
+Scedule:
+
+- 
+  datum: 2020-03-29
+  zeit: 16:00
+- 
+  datum: 2020-03-21
+  zeit: 10:00
+- 
+  datum: 2020-04-01
+  zeit: 10:00
+- 
+  datum: 2020-04-02
+  zeit: 10:00
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "The choreographer and dancer Cl\u00e9bio Oliveira is working with Theater o.N. to develop a production for children from the age of three that deals with age and childhood.",
+        "id": "_oW0v1jcRt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "How do children look at age? What images do we adults have of our childhood? What does our body remember? When do we feel strong? When are we vulnerable? And what does our body tell us when we are happy or sad?",
+        "id": "_DhXMt4ViH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "All these are initial questions of the research, which was started at the end of 2019 with the entire theatre ensemble. On March 28 it will culminate in the premiere of <em>fragil.</em> It will be performed by G\u00fcnther Lindner, Michaela Millar and Olga Ramirez Oferil - a cast of three ensemble members aged between 33 and 72, who will appear for the first time in this constellation.",
+        "id": "_wov1auaa7",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists:
+
+- 
+  role: Choreografie
+  name: Clébio Oliveira
+- 
+  role: Spiel
+  name: >
+    Günther Lindner, Michaela Millar, Olga
+    Ramirez Ofer
+- 
+  role: Komposition/Musik
+  name: Matresanch
+- 
+  role: Bühne
+  name: Markus Wagner
+- 
+  role: Kostüme
+  name: Atelier Liyanova Migliorati
+- 
+  role: Künstlerische Leitung
+  name: Doreen Markert
+
+----
+
+Staffs:
+
+- 
+  role: Technik
+  name: Robert Lange
+- 
+  role: Produktionsmanagement
+  name: Imma Scarpato
+
+----
+
+Subtext: 

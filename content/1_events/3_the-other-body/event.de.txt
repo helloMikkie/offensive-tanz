@@ -1,0 +1,91 @@
+Title: The other body?
+
+----
+
+Vorlage: Tanzkomplizen
+
+----
+
+Featured: true
+
+----
+
+Label: Fachtag Tanz und Rassismius
+
+----
+
+Author: Tanzkomplizen und Nora Amin
+
+----
+
+Date: 2020-03-13
+
+----
+
+Time: 14:00
+
+----
+
+Duration: 07:00
+
+----
+
+Location: Schillertheater-Werkstatt, Bismarckstr. 110
+
+----
+
+Tickets: tanzkomplizen@offensive-tanz.de
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Was macht Rassismus mit dem K\u00f6rper? <br>Wie handelt der K\u00f6rper, um rassismusfreie Denk- und F\u00fchlr\u00e4ume zu schaffen?</strong>",
+        "id": "_7rj4xunxs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Rassismus ist als gesellschaftspolitisches Thema brisant, aber wie wird das Thema auf der B\u00fchne verarbeitet? Als Tanzschaffende stellen wir uns im Fachtag der Frage, welche Auswirkung erlebter Rassismus auf den K\u00f6rper hat und wie Tanz darauf reagieren kann. Ein konkretes Ergebnis des Fachtags kann z.B. die Entwicklung eines mobilen Tanzst\u00fccks f\u00fcr Schulen sein.Dar\u00fcber hinaus bietet der Fachtag Raum f\u00fcr Austausch \u00fcber weitere k\u00fcnstlerische Formate zum Thema Rassismus, \u00fcber die eigene (politische) Haltung als Team und \u00fcber M\u00f6glichkeiten des kreativen Widerstands.",
+        "id": "_x7v78VtpA",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists:
+
+- 
+  role: Konzeption
+  name: >
+    Nora Amin, Choreografin, Tänzerin und
+    Autorin
+
+----
+
+Staffs: 
+
+----
+
+Subtext:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Die Veranstaltung ist in englischer Sprache.</strong>",
+        "id": "_xa9554jxl",
+        "type": "paragraph"
+    }
+]

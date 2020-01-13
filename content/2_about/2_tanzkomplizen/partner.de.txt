@@ -11,19 +11,25 @@ Text:
 [
     {
         "attrs": [],
-        "content": "TANZKOMPLIZEN ist die einzige Spielst\u00e4tte Berlins, die ausschlie\u00dflich und kontinuierlich Tanz f\u00fcr junges Publikum zeigt \u2013 derzeit in der Schillertheater-Werkstatt. Als Teil des Vereins TanzZeit, der j\u00e4hrlich in \u00fcber 60 Schulklassen Tanz als Unterrichtsfach anbietet, erg\u00e4nzt TANZKOMPLIZEN<strong> </strong>das einzigartige Modellprojekt durch die \u00e4sthetische Wahrnehmung beim Zuschauen von professionellen Tanzst\u00fccken. Das Repertoire umfasst aktuell elf St\u00fccke f\u00fcr unterschiedliche Altersgruppen, die sowohl f\u00fcr Schulklassen als auch f\u00fcr Familienpublikum gezeigt werden. Flankiert werden die Vorstellungen durch ein breites Vermittlungsangebot.",
+        "content": "TANZKOMPLIZEN ist die einzige Spielst\u00e4tte Berlins, die ausschlie\u00dflich und kontinuierlich Tanz f\u00fcr junges Publikum zeigt \u2013 derzeit in der Schillertheater-Werkstatt. Als Teil des Vereins TanzZeit, der j\u00e4hrlich in \u00fcber 60 Schulklassen Tanz als Unterrichtsfach anbietet, erg\u00e4nzt TANZKOMPLIZEN das einzigartige Modellprojekt durch die \u00e4sthetische Wahrnehmung beim Zuschauen von professionellen Tanzst\u00fccken. Das Repertoire umfasst aktuell elf St\u00fccke f\u00fcr unterschiedliche Altersgruppen, die sowohl f\u00fcr Schulklassen als auch f\u00fcr Familienpublikum gezeigt werden. Flankiert werden die Vorstellungen durch ein breites Vermittlungsangebot.",
         "id": "_5AFnV6Yr5",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Im Rahmen der Offensive Tanz f\u00fcr junges Publikum stellen wir uns folgende Fragen:<br>Was bedeutet Diversit\u00e4t als Betrachtungsebene und Inklusion als Handlungsziel f\u00fcr unsere Arbeit als Berliner Spielst\u00e4tte im Bereich \u201eTanz f\u00fcr junges Publikum\u201c? TANZKOMPLIZEN will die eigenen Strukturen und k\u00fcnstlerischen Entscheidungen reflektieren: Wer steht als T\u00e4nzer*in auf der B\u00fchne? Welche Themen werden gesetzt oder entstehen daraus? Und welches \u201eWir\u201c f\u00e4llt Entscheidungen und f\u00fchrt sie aus? Durch Recherchephasen mit zahlreichen Interviews mit K\u00fcnstler*innen, Institutionen und Beratungsorganisationen definieren wir Handlungsfelder f\u00fcr das Gesamtprojekt und f\u00fcr unsere zwei geplanten Eigenproduktionen. Die erste Inszenierung, die im April 2020 Premiere haben wird, besch\u00e4ftigt sich mit den Themen Hindernisse, Grenzen und wie man sie \u00fcberwinden kann. Weiterhin werden wir mit unterschiedlichen partizipativen Formaten wie einem Fachtag zum Thema Tanz und Rassismus und mobilen Produktionen die M\u00f6glichkeiten und Grenzen eines inklusiven Ansatzes erkunden, um Vielfalt als wertvolle Ressource der Gesellschaft sichtbar zu machen. Ziel ist es, einen Gestaltungsprozess in Gang zu bringen, in dem diverse gesellschaftliche und \u00e4sthetische Perspektiven koexistieren und der ein gemeinsames Handeln in unterschiedlichen Spiel-und Rezeptionsr\u00e4umen erm\u00f6glicht.",
+        "content": "Im Rahmen der Offensive Tanz f\u00fcr junges Publikum stellen wir uns folgende Fragen:",
         "id": "_E74o3GTcJ",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "<a href=\"https://tanzkomplizen.de/\">tanzkomplizen.de</a>",
+        "content": "Was bedeutet Diversit\u00e4t als Betrachtungsebene und Inklusion als Handlungsziel f\u00fcr unsere Arbeit als Berliner Spielst\u00e4tte im Bereich \u201eTanz f\u00fcr junges Publikum\u201c? TANZKOMPLIZEN will die eigenen Strukturen und k\u00fcnstlerischen Entscheidungen reflektieren: Wer steht als T\u00e4nzer*in auf der B\u00fchne? Welche Themen werden gesetzt oder entstehen daraus? Und welches \u201eWir\u201c f\u00e4llt Entscheidungen und f\u00fchrt sie aus? Durch Recherchephasen mit zahlreichen Interviews mit K\u00fcnstler*innen, Institutionen und Beratungsorganisationen definieren wir Handlungsfelder f\u00fcr das Gesamtprojekt und f\u00fcr unsere zwei geplanten Eigenproduktionen. Die erste Inszenierung, die im April 2020 Premiere haben wird, besch\u00e4ftigt sich mit den Themen Hindernisse, Grenzen und wie man sie \u00fcberwinden kann. Weiterhin werden wir mit unterschiedlichen partizipativen Formaten wie einem Fachtag zum Thema Tanz und Rassismus und mobilen Produktionen die M\u00f6glichkeiten und Grenzen eines inklusiven Ansatzes erkunden, um Vielfalt als wertvolle Ressource der Gesellschaft sichtbar zu machen. Ziel ist es, einen Gestaltungsprozess in Gang zu bringen, in dem diverse gesellschaftliche und \u00e4sthetische Perspektiven koexistieren und der ein gemeinsames Handeln in unterschiedlichen Spiel-und Rezeptionsr\u00e4umen erm\u00f6glicht.",
+        "id": "_0mb1c4ovj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u2192 <a href=\"https://tanzkomplizen.de/\">Tanzkomplizen</a>",
         "id": "_sn57pj6fm",
         "type": "paragraph"
     }

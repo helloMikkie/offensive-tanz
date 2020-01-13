@@ -7,17 +7,27 @@ Introtext:
 [
     {
         "attrs": [],
-        "content": "The Offensive Dance for Young Audience Berlin develops innovative dance and mediation formats for people between the ages of two and 18. As a union of four experienced partners from the contemporary dance and theater scene for children and young people (PURPLE - international dance festival for young audiences, TANZKOMPLIZEN, Theater STRAHL and Theater oN), we improve the exchange and networking of the actors in this area and establish dance for young audiences in the Berlin public.",
+        "content": "Offensive Tanz f\u00fcr junges Publikum",
+        "id": "_ldgucl70g",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "The <strong>Offensive Tanz f\u00fcr junges Publikum Berlin </strong>develops innovative dance and mediation formats for people between the ages of zero and 18. As an association of four experienced partners from the contemporary dance and theatre scene for children and young people (PURPLE - International Dance Festival for a Young Audience, TANZKOMPLIZEN, Theater Strahl and Theater o.N.), we improve the exchange and networking of the actors in this field and establish dance for young audiences in the Berlin public in the long term.",
         "id": "_3qfst4zyk",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "On January 19, 2020, the cooperation project Offensive Dance for Young Audiences officially started as part of PURPLE - International Dance Festival for Young Audiences. Interested parties are cordially invited to the public event from 6:30 p.m. in Studio 1 of the Uferstudios in Berlin-Wedding (Badstr. 41a, Tor 1 or Uferstr. 8/23, Tor 2). After the project presentation and website launch, there is a small get-together for the exchange.",
+        "content": "On <strong>19.01.2020</strong> the cooperation project <strong>Offensive Tanz f\u00fcr junges Publikum </strong>will officially start within the framework of <strong>PURPLE - International Dance Festival for a Young Audience.</strong> Interested parties are cordially invited to the public event from <strong>18:30 h</strong> on in <strong>Studio 1</strong> of <strong>Uferstudios</strong> in Berlin-Wedding (Badstr. 41a, Tor 1 or Uferstr. 8/23, Tor 2). After the project presentation and the website launch there will be a small get-together for exchange.",
         "id": "_piakr12sw",
         "type": "paragraph"
     }
 ]
+
+----
+
+Featured: true
 
 ----
 
@@ -26,15 +36,11 @@ Badgetext:
 [
     {
         "attrs": [],
-        "content": "Subscribe to our Newsletter",
+        "content": "Subscribe to our newsletter",
         "id": "_n43shbmrc",
         "type": "paragraph"
     }
 ]
-
-----
-
-Featured: true
 
 ----
 

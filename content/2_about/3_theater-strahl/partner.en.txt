@@ -1,0 +1,30 @@
+Title: Theater Strahl
+
+----
+
+Subtitle: Berlin
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Founded in 1987 as an independent theatre group, Strahl has performed on two permanent stages in Berlin-Sch\u00f6neberg since the end of the 1999s and has an additional venue, STRAHL.Halle Ostkreuz since 2013. Strahl offers guest performances all through Germany and aboard, is invited to children\u2019s and youth theatre festivals and is regularly nominated for and awarded theatre prizes. Strahl provides space for new artistic formats and ideas, plays with media, music and masks, abducts the audience in the interaction, combines dance with theatre and produces modern versions of classics.",
+        "id": "_gTjhPU2Ni",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Since 2013, Strahl has produced contemporary dance pieces for young audiences with international artists. Dance productions are a fixed part of repertory. The piece and programming developed by STRAHL are intended for audiences ages 12 and up and provide an access point to theatre for first timers. Young people are included into the play selection and development. The realities of their lives are explored on stage in a wide variety of aesthetic forms.",
+        "id": "_UfA0CnI22",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u2192 <a href=\"https://www.theater-strahl.de/en/\">Theater Strahl</a>",
+        "id": "_mh99cvdeu",
+        "type": "paragraph"
+    }
+]

@@ -1,4 +1,8 @@
-Title: Tanz und Rassismus
+Title: Wenn die Sounds verlöschen, dann klingt die Halle
+
+----
+
+Subtitle: Lucia Glass: Die Choreographie der Dinge
 
 ----
 
@@ -6,15 +10,11 @@ Featured: true
 
 ----
 
-Author: Cie Philippe Saire, Lausanne/CH
+Author: Falk Schreiber
 
 ----
 
 Date: 2020-03-27
-
-----
-
-Subtitle: Was geht im Tanz
 
 ----
 
@@ -23,49 +23,81 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Der Titel \u201eHocus Pocus\u201c macht seinem Namen alle Ehre: Die zwei Darsteller erscheinen und verschwinden wie aus dem Nichts. Mal sehen wir nur eine Hand, einen Kopf, einen R\u00fccken, wobei der Rest der K\u00f6rper im absoluten Schwarz verschwindet. Das au\u00dfergew\u00f6hnliche B\u00fchnenbild erm\u00f6glicht ein spielerisches und magisches Erkundungsspiel von Erscheinungen und Verschwinden. Dabei setzt der Choreograf<a href=\"http:www.heimannundschwantes.de\"> Philippe Saire</a> in seinem Tanzst\u00fcck haupts\u00e4chlich auf der Kraft der Bilder, ihrer Magie und den Empfindungen, die sie hervorrufen.",
+        "content": "Die Dinge leben. Mittelgro\u00dfe Sperrholzkuben bewegen sich durch den Raum, und an ihnen h\u00e4ngen Performer*innen, vollziehen Bewegungen nach, bilden Gemeinschaften und l\u00f6sen sich wieder voneinander. Nicht die Performer*innen bewegen sich, sie werden bewegt: Die Motivation der Bewegungen sind diese r\u00e4tselhaften Kuben.<br>Stimmt nat\u00fcrlich nicht. Nat\u00fcrlich hat Lucia Glass f\u00fcr ihr Pop-up-St\u00fcck <em>Die Choreographie der Dinge und Ger\u00e4usche </em>keine Holzk\u00e4stchen zum Leben erweckt, nat\u00fcrlich hat die Hamburger K\u00fcnstlerin die Bewegungen von Menschen choreographiert, und diese Menschen heben, schleppen, schieben, zerren die K\u00e4stchen durch den Raum. Blo\u00df machen die Szenen dann eben den Eindruck, dass zu Beginn tats\u00e4chlich eine Performerin ihr K\u00e4stchen anhebt, durch die Luft schiebt \u2013 und pl\u00f6tzlich scheint das Objekt eine eigene Kraft zu entwickeln, und der Arm schiebt nicht mehr den Kubus, der Kubus bewegt sich aus sich selbst heraus, er zieht den Arm mit, und der Arm zieht den K\u00f6rper.",
         "id": "_OIdGDVv2l",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Die <strong>br\u00fcderliche Beziehung,</strong> die sich zwischen den beiden T\u00e4nzern entwickelt, bildet den roten Faden des St\u00fcckes: zun\u00e4chst scheint sich ihre Beziehung im Bruderzwist zu verh\u00e4rten, bevor sie sich dann doch gemeinsam auf eine fantastische Reise begeben.",
-        "id": "_hhpLQnk9H",
+        "content": "In der Schulturnhalle",
+        "id": "_j20a43l27",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Die Choreographie der Dinge und Ger\u00e4usche </em>ist als Pop-up-St\u00fcck an der Stadtteilschule in Hamburg-Blankenese entstanden, das hei\u00dft: Auff\u00fchrungsort ist eine schmucklose Turnhalle (weswegen das St\u00fcck bei Interesse auch problemlos an anderen Schulen aufgef\u00fchrt werden kann), es tanzen Sch\u00fcler*innen der Jahrg\u00e4nge 6 bis 13, gemeinsam mit dem Profit\u00e4nzer Jonas Woltemate und dem Musiker Clemens Endre\u00df. Der einen suggestiven Soundteppich \u00fcber die Performance legt: elektronisches Knistern, analoges Schleifen, ein tiefes Brummen differenziert sich als zaghafter Beat aus. Und wenn die Sounds verl\u00f6schen, dann klingt die Halle: Quietschen auf Kunststoffboden. Fu\u00dftrappeln. Schwerer Atem. Halle, Performance, Musik, alles eine Bewegung.",
+        "id": "_txitq3w0y",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "K\u00fcnstler",
-        "id": "_r90aeomy4",
-        "type": "h3"
+        "content": "Im Unklaren",
+        "id": "_5d4cdc9o5",
+        "type": "h2"
     },
     {
         "attrs": [],
-        "content": "<strong>Konzept/Choreografie:</strong> Philippe Saire",
-        "id": "_c63bn0mbl",
-        "type": "ul"
+        "content": "Zumindest bei der Endprobe, drei Tage vor der Premiere am 24. Mai ist noch nicht alles an diesem St\u00fcck bis ins Letzte durchgetaktet: Manche Bewegungsfolgen w\u00fcrden noch ein bisschen mehr Genauigkeit vertragen. Ob es eine gute Entscheidung ist, kurz vor Schluss die abstrakte Ebene zu verlassen und ein konkretes Bild entstehen zu lassen, ist noch nicht ganz klar. Und gleichzeitig muss die Choreographin darauf achten, dass bei der Premiere nicht alles zu genau gearbeitet ist, dass offene Stellen bleiben, ein Geheimnis im Tanz nicht aufgel\u00f6st wird \u2013 die Qualit\u00e4t des Projekts liegt auch im Unklaren, in einer Bewegung, deren Ursprung sich nicht so einfach decodieren l\u00e4sst, einer Bewegung, die man als Tanz lesen kann oder als physikalisches Gesetz, dessen Hintergrund man ahnt aber nicht bis ins Letzte versteht. Allein: Dass <em>Die Choreographie der Dinge und Ger\u00e4usche </em>eine starke k\u00fcnstlerische Setzung ist, steht au\u00dfer Frage. Und jenseits dieser k\u00fcnstlerischen Setzung beweist die Produktion noch etwas: eine t\u00e4nzerische Pr\u00e4senz, die weit \u00fcber Laienniveau hinausweist. W\u00e4hrend der mehrmonatigen Probenphase hat es Glass geschafft, die Sch\u00fcler*innen, die von ganz unterschiedlichen t\u00e4nzerischen Niveaus kommen und ganz unterschiedliche Altersstufen abdecken, zu einem Ensemble zusammenzuf\u00fchren, einem Ensemble, das sich in den Dienst des Tanzes stellt und das gleichzeitig die individuellen T\u00e4nzer*innenpers\u00f6nlichkeiten achtet. <em>Die Choreographie der Dinge und Ger\u00e4usche </em>ist so ein St\u00fcck, das jenseits der Performancearbeit mit jugendlichen Laien steht: Kunst n\u00e4mlich. Kunst, bei der sich gar nicht mehr die Frage stellt, wer hier ausgebildete K\u00fcnstler*in ist und wer Sch\u00fcler*in mit Faible f\u00fcr Tanz.",
+        "id": "_1wojo3umi",
+        "type": "paragraph"
     },
     {
         "attrs": {
-            "indent": 0
+            "guid": "/pages/articles+rassismus/files/01-kleine-grosse-spruenge.jpg",
+            "src": "http://localhost:8888/media/pages/articles/rassismus/252864333-1578570779/01-kleine-grosse-spruenge.jpg",
+            "id": "articles/rassismus/01-kleine-grosse-spruenge.jpg",
+            "ratio": 1.5,
+            "caption": "Manche Bewegungsfolgen w\u00fcrden noch ein bisschen mehr Genauigkeit vertragen. Ob es eine gute Entscheidung ist, kurz vor Schluss die abstrakte Ebene zu verlassen und ein konkretes Bild entstehen zu lassen, ist noch nicht ganz klar."
         },
-        "content": "Kreation/Tanz Philippe Chosson, Micka\u00ebl Henrotay-Delaunay",
-        "id": "_dkeunlhf7",
-        "type": "ul"
+        "content": "",
+        "id": "_29ik3pd4l",
+        "type": "image"
     },
     {
         "attrs": {
-            "indent": 0
+            "guid": "/pages/articles+rassismus/files/01-nora-amin.jpg",
+            "src": "http://localhost:8888/media/pages/articles/rassismus/1375385947-1578570840/01-nora-amin.jpg",
+            "id": "articles/rassismus/01-nora-amin.jpg",
+            "ratio": 1.2026666666666668,
+            "caption": "Nora Amin"
         },
-        "content": "Dancers on tour Micka\u00ebl Henrotay-Delaunay, Ismael Oiartzabal",
-        "id": "_0455aqglw",
-        "type": "ul"
+        "content": "",
+        "id": "_apw0s6s8v",
+        "type": "image"
     },
     {
         "attrs": [],
-        "content": "<strong>\u201eDas St\u00fcck ist magisch und wunderbar geeignet f\u00fcr ein junges Publikum, f\u00fcr das Tr\u00e4ume noch eine sehr starke Pr\u00e4senz und Realit\u00e4t haben.\u201c</strong>",
+        "content": "<strong>Das St\u00fcck ist magisch und wunderbar geeignet f\u00fcr ein junges Publikum, f\u00fcr das Tr\u00e4ume noch eine sehr starke Pr\u00e4senz und Realit\u00e4t haben.</strong>",
         "id": "_0vtobtbcc",
         "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Nora Amin, Choreographin und T\u00e4nzerin</strong>",
+        "id": "_na2bt6cai",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "N\u00e4he erkunden auf Augenh\u00f6he mit dem Publikum",
+        "id": "_apg3ezm18",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Seine T\u00e4nzer*innen bewegen sich tastend, vorsichtig, mal streckt Rachell Bo Clark eine Hand zu einer Geste aus, die von Enis Turan beantwortet wird, die K\u00f6rper flie\u00dfen sanft ineinander. Alles wirkt weich und organisch. Keine Wendung wirkt erzwungen oder k\u00fcnstlich. Die Bewegungen sind pr\u00e4zise kalibriert, auch wenn eine Freiheit in der Ausf\u00fchrung sp\u00fcrbar ist. Gleichzeitig entsteht eine gro\u00dfe Sinnlichkeit im Raum, die sich aus Lebensn\u00e4he speist. Der Zauber dessen, was N\u00e4he sein kann, verbindet sich in dem Zusammenwirken der K\u00f6rperlichkeit der T\u00e4nzer*innen, der Musik, der Sprache und der Gegenst\u00e4nde. Auf der gegen\u00fcberliegenden B\u00fchnenseite erkunden der Musiker \u2013 und hier ebenfalls T\u00e4nzer \u2013 Hang Linton und Maciek Sado in Wort und Bewegung die Frage, bis zu welchem Punkt eine Ber\u00fchrung noch okay sei \u2013 und wann einer von beiden Stopp sagen w\u00fcrde. Die Atmosph\u00e4re f\u00fchlt sich sicher an. Nicht nur, weil T\u00e4nzer*innen hier sehr respektvoll miteinander und mit Intimit\u00e4t umgehen, sondern auch weil der Zuschauer*innen einen Schutzraum vorfindet, in den er sich zur\u00fcckziehen kann, indem er die elektronische Musik und die Texte \u00fcber Kopfh\u00f6rer h\u00f6rt, der es ihm aber auch erm\u00f6glicht, sich einzulassen.",
+        "id": "_stonrljgn",
+        "type": "paragraph"
     }
 ]
 

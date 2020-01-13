@@ -1,0 +1,24 @@
+Title: Theater o.N.
+
+----
+
+Subtitle: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "The Theater o.N. is an 40-year old association of actors and puppeteers, directors, musicians and writers. Founded in 1979/80 under the name Zinnober, it was the first independent theater in the former GDR. Since 2010 the theater located at the famous Kollwitzplatz is focusing on the exploration and advancement of theater for audiences 2 years and up. Since 2013 it is presenting the biannual \u00bbFRATZ International\u00ab. Since 2016 the regional 0-6-festival \u00bbBerliner Schaufenster\u00ab is completing the program for young audiences. In addition the theater is developing productions with children and teenagers in socially disadvantaged areas. The program for adults is dedicated to new play development using the methods of biographical theater and puppet theater.",
+        "id": "_v229p9f48",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u2192 <a href=\"https://www.theater-on.de/en/news/\">Theater o.N.</a>",
+        "id": "_faoc3tvd2",
+        "type": "paragraph"
+    }
+]

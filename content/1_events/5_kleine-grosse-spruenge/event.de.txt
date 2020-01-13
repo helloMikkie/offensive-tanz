@@ -1,0 +1,108 @@
+Title: Kleine große Sprünge
+
+----
+
+Vorlage: Tanzkomplizen
+
+----
+
+Featured: true
+
+----
+
+Label: Tanzstück
+
+----
+
+Author: Jasmin İhraç
+
+----
+
+Date: 2020-04-23
+
+----
+
+Time: 10:00
+
+----
+
+Duration: 
+
+----
+
+Location: Schillertheater-Werkstatt, Bismarckstr. 110
+
+----
+
+Tickets: tickets@tanzkomplizen.de
+
+----
+
+Age: 6
+
+----
+
+Caption: Die hier angegebenen Altersempfehlungen sind lediglich Orientierungshilfen. Generell begrüßen wir Besucher*innen jeden Alters. Für nähere Informationen ist ein/e Ansprechpartner*in des jeweiligen Partners gerne für Sie erreichbar.
+
+----
+
+Scedule:
+
+- 
+  datum: 2020-04-24
+  zeit: 10:00
+- 
+  datum: 2020-04-25
+  zeit: 15:00
+- 
+  datum: 2020-04-26
+  zeit: 15:00
+- 
+  datum: 2020-04-28
+  zeit: 10:00
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "Vier T\u00e4nzer*innen und ein Musiker trauen sich was. Sie machen einen Schritt, wagen kleine gro\u00dfe Spr\u00fcnge, z\u00f6gern manchmal und entdecken dabei vielleicht etwas Neues \u00fcber sich selbst. <br>Es geht um Hindernisse, Herausforderungen und wie man sie \u00fcberwinden kann - oder auch nicht. Jede*r tut dies auf eigene Art und steht vor anderen H\u00fcrden. Manche Hindernisse sind von der Gesellschaft gesetzt, andere entstehen in unserem Kopf. Was sind Hindernisse \u00fcberhaupt und wie wichtig ist es, sie hinter sich zu lassen? Finden wir gemeinsam leichter eine L\u00f6sung f\u00fcr ein Problem, was uns allein unm\u00f6glich scheint?",
+        "id": "_knius3w4y",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists:
+
+- 
+  role: Tanz
+  name: >
+    Mbegne Kassé (Ben-J), Ana Laura Lozza,
+    N.N
+- 
+  role: Livemusik/Komposition
+  name: 'Ketan Bhatti '
+- 
+  role: Bühne/Kostüm
+  name: Giulia Paolucci
+
+----
+
+Staffs: 
+
+----
+
+Subtext:
+
+[
+    {
+        "attrs": [],
+        "content": "Im Anschluss an die Vorstellung am 26.4. findet ein <strong>Workshop f\u00fcr Familien</strong> zum Thema Hindernisse statt.",
+        "id": "_6y5ws3b81",
+        "type": "paragraph"
+    }
+]

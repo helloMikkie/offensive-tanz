@@ -53,10 +53,11 @@
     <!-- Presse -->
 
     <?= $page->press()->blocks() ?>
+    
 
-
-    <ul>
-      <?php foreach ($page->documents()->filterBy('filename', '*=', 'presse-') as $pdf) : ?>
+ <ul>
+    
+      <?php foreach ($page->documents()->filterBy('filename', '*=', 'press') as $pdf) : ?>
         <li class="presse">
           <a href="<?= $pdf->url() ?>" target="_blank">
             <?= $pdf->filename() ?>
@@ -64,7 +65,7 @@
           </a>
         </li>
       <?php endforeach ?>
-    </ul>
+    </ul>   
 
 <!-- Kontakt -->
 

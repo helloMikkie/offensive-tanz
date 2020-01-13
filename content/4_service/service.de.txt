@@ -7,13 +7,7 @@ Intro:
 [
     {
         "attrs": [],
-        "content": "Service",
-        "id": "_mubkgizox",
-        "type": "h1"
-    },
-    {
-        "attrs": [],
-        "content": "Hier finden Sie Informationen rund zu unseren Veranstaltungen. Au\u00dferdem unser Drucksachen zum Download sowie unser Pressemitteilungen. Kontaktiren Sie uns f\u00fcr weitere Fragen, zu denen wir uns gerne zur\u00fcckmelden.",
+        "content": "Hier finden Sie Informationen zu unseren Veranstaltungen. Au\u00dferdem unsere Drucksachen zum Download sowie unsere Pressemitteilungen. <a href=\"mailto:info@offensive-tanz.de\">Kontaktieren</a> Sie uns f\u00fcr weitere Fragen, zu denen wir uns gerne zur\u00fcckmelden.",
         "id": "_aqmf16z5h",
         "type": "paragraph"
     }
@@ -140,14 +134,20 @@ Contact:
     },
     {
         "attrs": [],
-        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o das programm GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin",
+        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o Studio36 GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin",
         "id": "_Se3yerLwW",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "<strong>Email:</strong><a href=\"mailto:info@offensive-tanz.de\"> info[at]offensive-tanz.de</a>",
-        "id": "_8oEhmYU85",
+        "content": "<strong>Email: </strong><a href=\"mailto:info@offensive-tanz.de\">info[at]offensive-tanz.de</a>",
+        "id": "_mcr6vy73y",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Registergericht: </strong>Amtsgericht Berlin-Charlottenburg HRB 212825",
+        "id": "_vab9z96a4",
         "type": "paragraph"
     },
     {

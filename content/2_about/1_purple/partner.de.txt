@@ -41,7 +41,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "<a href=\"https://purple-tanzfestival.de/\">purple-tanzfestival</a>",
+        "content": "\u2192 <a href=\"https://purple-tanzfestival.de/\">Purple \u2013 Tanzfestival f\u00fcr junges Publikum</a>",
         "id": "_bti91g9gt",
         "type": "paragraph"
     }

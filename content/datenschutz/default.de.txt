@@ -7,440 +7,572 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Angaben gem\u00e4\u00df \u00a7 5 TMG:<br>Verantwortlich f\u00fcr den Inhalt nach \u00a7 55 Abs. 2 RStV:<br>",
-        "id": "_95fKdEmpG",
+        "content": "Wir freuen uns sehr \u00fcber Ihr Interesse an unserem Unternehmen. Datenschutz hat einen besonders hohen Stellenwert f\u00fcr die Gesch\u00e4ftsleitung der OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt). Eine Nutzung der Internetseiten der OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) ist grunds\u00e4tzlich ohne jede Angabe personenbezogener Daten m\u00f6glich. Sofern eine betroffene Person besondere Services unseres Unternehmens \u00fcber unsere Internetseite in Anspruch nehmen m\u00f6chte, k\u00f6nnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht f\u00fcr eine solche Verarbeitung keine gesetzliche Grundlage, holen wir generell eine Einwilligung der betroffenen Person ein.",
+        "id": "_h8o11me3c",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o das programm GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin",
-        "id": "_mq1zkrdae",
+        "content": "Die Verarbeitung personenbezogener Daten, beispielsweise des Namens, der Anschrift, E-Mail-Adresse oder Telefonnummer einer betroffenen Person, erfolgt stets im Einklang mit der Datenschutz-Grundverordnung und in \u00dcbereinstimmung mit den f\u00fcr die OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) geltenden landesspezifischen Datenschutzbestimmungen. Mittels dieser Datenschutzerkl\u00e4rung m\u00f6chte unser Unternehmen die \u00d6ffentlichkeit \u00fcber Art, Umfang und Zweck der von uns erhobenen, genutzten und verarbeiteten personenbezogenen Daten informieren. Ferner werden betroffene Personen mittels dieser Datenschutzerkl\u00e4rung \u00fcber die ihnen zustehenden Rechte aufgekl\u00e4rt.",
+        "id": "_x2ct8290e",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Vertreten durch die Gesch\u00e4ftsf\u00fchrung: <br>Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
-        "id": "_ulRj42JGj",
+        "content": "Die OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) hat als f\u00fcr die Verarbeitung Verantwortlicher zahlreiche technische und organisatorische Ma\u00dfnahmen umgesetzt, um einen m\u00f6glichst l\u00fcckenlosen Schutz der \u00fcber diese Internetseite verarbeiteten personenbezogenen Daten sicherzustellen. Dennoch k\u00f6nnen Internetbasierte Daten\u00fcbertragungen grunds\u00e4tzlich Sicherheitsl\u00fccken aufweisen, sodass ein absoluter Schutz nicht gew\u00e4hrleistet werden kann. Aus diesem Grund steht es jeder betroffenen Person frei, personenbezogene Daten auch auf alternativen Wegen, beispielsweise telefonisch, an uns zu \u00fcbermitteln.",
+        "id": "_q1i18tekv",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Kontakt:",
-        "id": "_kql5u5rhd",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "<a href=\"mailto:info@offensive-tanz.de\">info@offensive-tanz.de</a><br><br>Registereintrag:<br>Eintragung im Handelsregister. Registergericht:Amtsgericht Charlottenburg Registernummer: 135079<br>Steuernummer: 27/602/55947",
-        "id": "_cn3Y2cLx8",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.",
-        "id": "_4FCLxNNVR",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Datenschutzerkl\u00e4rung",
-        "id": "_2iqhhcoje",
+        "content": "1. Begriffsbestimmungen",
+        "id": "_3x4c3a3pw",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "1) Name und Anschrift des f\u00fcr die Verarbeitung Verantwortlichen",
-        "id": "_q33rrfve5",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "Wir freuen uns sehr \u00fcber Ihr Interesse an unserem Unternehmen. Der Schutz Ihrer personenbezogenen Daten ist uns wichtig, wir m\u00f6chten, dass Sie sich beim Besuch unserer Internetseiten sicher f\u00fchlen. Im Weiteren erl\u00e4utern wir Ihnen, welche Informationen wir beim Besuch unserer Webseiten oder bei Kontaktaufnahme erfassen und wie diese genutzt werden. Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare nat\u00fcrliche Person beziehen. Verantwortliche*r im Sinne der EU-Datenschutzgrundverordnung (DSGVO) ist diejenige nat\u00fcrliche oder juristische Person, die allein oder gemeinsam mit anderen \u00fcber die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet.<br>F\u00fcr personenbezogene Daten, die der Anbieter dieser Homepage verarbeitet, ist Verantwortlicher im Sinne der DSGVO:",
-        "id": "_pxKl5e2Wi",
+        "content": "Die Datenschutzerkl\u00e4rung der OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) beruht auf den Begrifflichkeiten, die durch den Europ\u00e4ischen Richtlinien- und Verordnungsgeber beim Erlass der Datenschutz-Grundverordnung (DS-GVO) verwendet wurden. Unsere Datenschutzerkl\u00e4rung soll sowohl f\u00fcr die \u00d6ffentlichkeit als auch f\u00fcr unsere Kunden und Gesch\u00e4ftspartner einfach lesbar und verst\u00e4ndlich sein. Um dies zu gew\u00e4hrleisten, m\u00f6chten wir vorab die verwendeten Begrifflichkeiten erl\u00e4utern.",
+        "id": "_YIwexwXdx",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o das programm GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin<br>E-Mail: <a href=\"mailto:info@offensive-tanz.de\">info@offensive-tanz.de</a><br>Website: <a href=\"https://offensive-tanz.de\">www.offensive-tanz.de</a>",
-        "id": "_evsjMi6Rs",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "2) Begriffsbestimmungen",
-        "id": "_3olsdebyo",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "Die Datenschutzerkl\u00e4rung der OfTa Offensive Tanz Berlin gUG beruht auf den Begrifflichkeiten, die durch den Europ\u00e4ischen Richtlinien- und Verordnungsgeber beim Erlass der Datenschutz-Grundverordnung (DS-GVO) verwendet wurden. Unsere Datenschutzerkl\u00e4rung soll sowohl f\u00fcr die \u00d6ffentlichkeit als auch f\u00fcr unsere Kunden und Gesch\u00e4ftspartner einfach lesbar und verst\u00e4ndlich sein. Um dies zu gew\u00e4hrleisten, m\u00f6chten wir vorab die verwendeten Begrifflichkeiten erl\u00e4utern. Wir verwenden in dieser Datenschutzerkl\u00e4rung unter anderem die folgenden Begriffe:",
-        "id": "_IJoJby6qA",
+        "content": "Wir verwenden in dieser Datenschutzerkl\u00e4rung unter anderem die folgenden Begriffe:",
+        "id": "_71ntBonWd",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "a) personenbezogene Daten",
-        "id": "_mryhlwovi",
+        "id": "_c74iuaaf7",
         "type": "h3"
     },
     {
         "attrs": [],
         "content": "Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare nat\u00fcrliche Person (im Folgenden \u201ebetroffene Person\u201c) beziehen. Als identifizierbar wird eine nat\u00fcrliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identit\u00e4t dieser nat\u00fcrlichen Person sind, identifiziert werden kann.",
-        "id": "_rm9JZbpqj",
+        "id": "_7mf6m9ibb",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "b) betroffene Person",
-        "id": "_eekb1rlsj",
+        "id": "_4qqb6dc47",
         "type": "h3"
     },
     {
         "attrs": [],
         "content": "Betroffene Person ist jede identifizierte oder identifizierbare nat\u00fcrliche Person, deren personenbezogene Daten von dem f\u00fcr die Verarbeitung Verantwortlichen verarbeitet werden.",
-        "id": "_dDDW7aStK",
+        "id": "_tw00978hp",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "c) Verarbeitung",
-        "id": "_or0vq92ic",
+        "id": "_fsqek9tei",
         "type": "h3"
     },
     {
         "attrs": [],
         "content": "Verarbeitung ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgef\u00fchrte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung oder Ver\u00e4nderung, das Auslesen, das Abfragen, die Verwendung, die Offenlegung durch \u00dcbermittlung, Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder die Verkn\u00fcpfung, die Einschr\u00e4nkung, das L\u00f6schen oder die Vernichtung.",
-        "id": "_2cUCPf2a6",
+        "id": "_lxmoph5yy",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "d) Einschr\u00e4nkung der Verarbeitung",
-        "id": "_1ozpbnwx9",
+        "id": "_apdhbit64",
         "type": "h3"
     },
     {
         "attrs": [],
         "content": "Einschr\u00e4nkung der Verarbeitung ist die Markierung gespeicherter personenbezogener Daten mit dem Ziel, ihre k\u00fcnftige Verarbeitung einzuschr\u00e4nken.",
-        "id": "_6DdliSn8D",
+        "id": "_mkd7hz9jy",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "e) Profiling",
-        "id": "_ql245scd7",
+        "id": "_7xn81s0b5",
         "type": "h3"
     },
     {
         "attrs": [],
         "content": "Profiling ist jede Art der automatisierten Verarbeitung personenbezogener Daten, die darin besteht, dass diese personenbezogenen Daten verwendet werden, um bestimmte pers\u00f6nliche Aspekte, die sich auf eine nat\u00fcrliche Person beziehen, zu bewerten, insbesondere, um Aspekte bez\u00fcglich Arbeitsleistung, wirtschaftlicher Lage, Gesundheit, pers\u00f6nlicher Vorlieben, Interessen, Zuverl\u00e4ssigkeit, Verhalten, Aufenthaltsort oder Ortswechsel dieser nat\u00fcrlichen Person zu analysieren oder vorherzusagen.",
-        "id": "_PvtaJmtZc",
+        "id": "_qmvfpzw50",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "f) Pseudonymisierung",
-        "id": "_zm4jkvisw",
+        "id": "_veugjcdwx",
         "type": "h3"
     },
     {
         "attrs": [],
         "content": "Pseudonymisierung ist die Verarbeitung personenbezogener Daten in einer Weise, auf welche die personenbezogenen Daten ohne Hinzuziehung zus\u00e4tzlicher Informationen nicht mehr einer spezifischen betroffenen Person zugeordnet werden k\u00f6nnen, sofern diese zus\u00e4tzlichen Informationen gesondert aufbewahrt werden und technischen und organisatorischen Ma\u00dfnahmen unterliegen, die gew\u00e4hrleisten, dass die personenbezogenen Daten nicht einer identifizierten oder identifizierbaren nat\u00fcrlichen Person zugewiesen werden.",
-        "id": "_45gg5vE4L",
+        "id": "_tzj2kapqp",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "g) Verantwortlicher oder f\u00fcr die Verarbeitung Verantwortlicher",
-        "id": "_vewy7r2uk",
+        "id": "_oicr6ipd6",
         "type": "h3"
     },
     {
         "attrs": [],
         "content": "Verantwortlicher oder f\u00fcr die Verarbeitung Verantwortlicher ist die nat\u00fcrliche oder juristische Person, Beh\u00f6rde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen \u00fcber die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet. Sind die Zwecke und Mittel dieser Verarbeitung durch das Unionsrecht oder das Recht der Mitgliedstaaten vorgegeben, so kann der Verantwortliche beziehungsweise k\u00f6nnen die bestimmten Kriterien seiner Benennung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten vorgesehen werden.",
-        "id": "_9ETco0Lgg",
+        "id": "_esfe5jon7",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "h) Auftragsverarbeiter",
-        "id": "_195qn6zw9",
+        "id": "_4jv2mcwxp",
         "type": "h3"
     },
     {
         "attrs": [],
         "content": "Auftragsverarbeiter ist eine nat\u00fcrliche oder juristische Person, Beh\u00f6rde, Einrichtung oder andere Stelle, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet.",
-        "id": "_SAYGx9z36",
+        "id": "_y6rcvlkku",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "i) Empf\u00e4nger",
-        "id": "_jdu9ytdno",
+        "id": "_y81cprn1x",
         "type": "h3"
     },
     {
         "attrs": [],
         "content": "Empf\u00e4nger ist eine nat\u00fcrliche oder juristische Person, Beh\u00f6rde, Einrichtung oder andere Stelle, der personenbezogene Daten offengelegt werden, unabh\u00e4ngig davon, ob es sich bei ihr um einen Dritten handelt oder nicht. Beh\u00f6rden, die im Rahmen eines bestimmten Untersuchungsauftrags nach dem Unionsrecht oder dem Recht der Mitgliedstaaten m\u00f6glicherweise personenbezogene Daten erhalten, gelten jedoch nicht als Empf\u00e4nger.",
-        "id": "_sFrS0I1ZZ",
+        "id": "_v63im3cqh",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "j) Dritter",
-        "id": "_giejmcf9l",
+        "id": "_tyxn3tcm3",
         "type": "h3"
     },
     {
         "attrs": [],
         "content": "Dritter ist eine nat\u00fcrliche oder juristische Person, Beh\u00f6rde, Einrichtung oder andere Stelle au\u00dfer der betroffenen Person, dem Verantwortlichen, dem Auftragsverarbeiter und den Personen, die unter der unmittelbaren Verantwortung des Verantwortlichen oder des Auftragsverarbeiters befugt sind, die personenbezogenen Daten zu verarbeiten.",
-        "id": "_ckst2lk3b",
+        "id": "_yb8p5kk4n",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "k) Einwilligung",
-        "id": "_nvfrrpgc3",
+        "id": "_294g2x7ut",
         "type": "h3"
     },
     {
         "attrs": [],
         "content": "Einwilligung ist jede von der betroffenen Person freiwillig f\u00fcr den bestimmten Fall in informierter Weise und unmissverst\u00e4ndlich abgegebene Willensbekundung in Form einer Erkl\u00e4rung oder einer sonstigen eindeutigen best\u00e4tigenden Handlung, mit der die betroffene Person zu verstehen gibt, dass sie mit der Verarbeitung der sie betreffenden personenbezogenen Daten einverstanden ist.",
-        "id": "_a0xNHrP2n",
+        "id": "_dy0m2ewvy",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "3) Rechtm\u00e4\u00dfigkeit der Verarbeitung",
-        "id": "_qgb04b726",
+        "content": "2. Name und Anschrift des f\u00fcr die Verarbeitung Verantwortlichen",
+        "id": "_dvr2y1r9u",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "Die Verarbeitung personenbezogener Daten ist nur rechtm\u00e4\u00dfig, wenn f\u00fcr die Verarbeitung eine Rechtsgrundlage besteht. Rechtsgrundlage f\u00fcr die Verarbeitung k\u00f6nnen gem\u00e4\u00df Artikel 6 Abs. 1 lit. a \u2013 f DSGVO insbesondere sein:",
-        "id": "_w19d323n8",
+        "content": "Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitgliedstaaten der Europ\u00e4ischen Union geltenden Datenschutzgesetze und anderer Bestimmungen mit datenschutzrechtlichem Charakter ist die:",
+        "id": "_4FzRdR382",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "a. Die betroffene Person hat ihre Einwilligung zu der Verarbeitung der sie betreffenden personenbezogenen Daten f\u00fcr einen oder mehrere bestimmte Zwecke gegeben;",
-        "id": "_ou8rh1489",
-        "type": "ul"
+        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)",
+        "id": "_m9gzeZfCx",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "b. die Verarbeitung ist f\u00fcr die Erf\u00fcllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, oder zur Durchf\u00fchrung vorvertraglicher Ma\u00dfnahmen erforderlich, die auf Anfrage der betroffenen Person erfolgen;",
-        "id": "_43ni4sg4t",
-        "type": "ul"
+        "content": "Oranienstra\u00dfe 183 c/o das programm GmbH",
+        "id": "_Abi8uDqEW",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "c. die Verarbeitung ist zur Erf\u00fcllung einer rechtlichen Verpflichtung erforderlich, der der Verantwortliche unterliegt;",
-        "id": "_q7k1k54mw",
-        "type": "ul"
+        "content": "10999 Berlin",
+        "id": "_NgvruWCZt",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "d. die Verarbeitung ist erforderlich, um lebenswichtige Interessen der betroffenen Person oder einer anderen nat\u00fcrlichen Person zu sch\u00fctzen;",
-        "id": "_d5hcu56az",
-        "type": "ul"
+        "content": "Deutschland",
+        "id": "_ECXmRSN5O",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "e. die Verarbeitung ist f\u00fcr die Wahrnehmung einer Aufgabe erforderlich, die im \u00f6ffentlichen Interesse liegt oder in Aus\u00fcbung \u00f6ffentlicher Gewalt erfolgt, die dem Verantwortlichen \u00fcbertragen wurde;",
-        "id": "_w03gvnft6",
-        "type": "ul"
+        "content": "<strong>E-Mail:</strong> info@offensive-tanz.de",
+        "id": "_k9cGINE4x",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "f. die Verarbeitung ist zur Wahrung der berechtigten Interessen des Verantwortlichen oder eines Dritten erforderlich, sofern nicht die Interessen oder Grundrechte und Grundfreiheiten der betroffenen Person, die den Schutz personenbezogener Daten erfordern, \u00fcberwiegen, insbesondere dann, wenn es sich bei der betroffenen Person um ein Kind handelt.",
-        "id": "_6z5xkclha",
-        "type": "ul"
+        "content": "<strong>Website</strong>: www.offensive-tanz.de",
+        "id": "_yL2yZW9fL",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "4) Erhebung personenbezogener Daten bei Besuch unserer Website",
-        "id": "_3fpnqnqi6",
+        "content": "3. Cookies",
+        "id": "_ldoqkrsqw",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "Bei der blo\u00df informatorischen Nutzung der Website, also wenn Sie sich nicht registrieren oder uns anderweitig Informationen \u00fcbermitteln, erheben wir nur die personenbezogenen Daten, die Ihr Browser an unseren Server \u00fcbermittelt. Wenn Sie unsere Website betrachten m\u00f6chten, erheben wir die folgenden Daten, die f\u00fcr uns technisch erforderlich sind, um Ihnen unsere Website anzuzeigen und die Stabilit\u00e4t und Sicherheit zu gew\u00e4hrleisten (Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DSGVO):",
-        "id": "_tr5w39mnw",
+        "content": "Die Internetseiten der OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) verwenden Cookies. Cookies sind Textdateien, welche \u00fcber einen Internetbrowser auf einem Computersystem abgelegt und gespeichert werden.",
+        "id": "_0UBkiIqc5",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "IP-Adresse \u2022 Datum und Uhrzeit der Anfrage",
-        "id": "_jlni9riey",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "Zeitzonendifferenz zur Greenwich Mean Time (GMT)",
-        "id": "_q9zkz8gwd",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "Inhalt der Anforderung (konkrete Seite)",
-        "id": "_602bhbprw",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "Zugriffsstatus/HTTP-Statuscode",
-        "id": "_vkd82ckye",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "jeweils \u00fcbertragene Datenmenge",
-        "id": "_h93v37qmg",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "Website, von der die Anforderung kommt",
-        "id": "_1zgksbjs8",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "Browser \u2022 Betriebssystem und dessen Oberfl\u00e4che",
-        "id": "_p7i1q6sox",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "Sprache und Version der Browsersoftware.",
-        "id": "_02zmdoylp",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "Sonstige Zwecke der Verarbeitung sind u.a. die Beantwortung von Kontaktanfragen, Kommunikation mit Nutzern und Kunden, Anbahnung und Bearbeitung von Ticketbuchungen, Workshops und anderen Angeboten, Anmeldung f\u00fcr Newsletter. Die jeweiligen Zwecke sind den einzelnen Abs\u00e4tzen zu entnehmen.",
-        "id": "_jg2b57j7u",
+        "content": "Zahlreiche Internetseiten und Server verwenden Cookies. Viele Cookies enthalten eine sogenannte Cookie-ID. Eine Cookie-ID ist eine eindeutige Kennung des Cookies. Sie besteht aus einer Zeichenfolge, durch welche Internetseiten und Server dem konkreten Internetbrowser zugeordnet werden k\u00f6nnen, in dem das Cookie gespeichert wurde. Dies erm\u00f6glicht es den besuchten Internetseiten und Servern, den individuellen Browser der betroffenen Person von anderen Internetbrowsern, die andere Cookies enthalten, zu unterscheiden. Ein bestimmter Internetbrowser kann \u00fcber die eindeutige Cookie-ID wiedererkannt und identifiziert werden.",
+        "id": "_jcV2v9vYj",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "5) Hosting-Dienstleister",
-        "id": "_9zq4zdg8g",
+        "content": "Durch den Einsatz von Cookies kann die OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) den Nutzern dieser Internetseite nutzerfreundlichere Services bereitstellen, die ohne die Cookie-Setzung nicht m\u00f6glich w\u00e4ren.",
+        "id": "_VhDPSnYsr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Mittels eines Cookies k\u00f6nnen die Informationen und Angebote auf unserer Internetseite im Sinne des Benutzers optimiert werden. Cookies erm\u00f6glichen uns, wie bereits erw\u00e4hnt, die Benutzer unserer Internetseite wiederzuerkennen. Zweck dieser Wiedererkennung ist es, den Nutzern die Verwendung unserer Internetseite zu erleichtern. Der Benutzer einer Internetseite, die Cookies verwendet, muss beispielsweise nicht bei jedem Besuch der Internetseite erneut seine Zugangsdaten eingeben, weil dies von der Internetseite und dem auf dem Computersystem des Benutzers abgelegten Cookie \u00fcbernommen wird. Ein weiteres Beispiel ist das Cookie eines Warenkorbes im Online-Shop. Der Online-Shop merkt sich die Artikel, die ein Kunde in den virtuellen Warenkorb gelegt hat, \u00fcber ein Cookie.",
+        "id": "_cjTvlCY0M",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die betroffene Person kann die Setzung von Cookies durch unsere Internetseite jederzeit mittels einer entsprechenden Einstellung des genutzten Internetbrowsers verhindern und damit der Setzung von Cookies dauerhaft widersprechen. Ferner k\u00f6nnen bereits gesetzte Cookies jederzeit \u00fcber einen Internetbrowser oder andere Softwareprogramme gel\u00f6scht werden. Dies ist in allen g\u00e4ngigen Internetbrowsern m\u00f6glich. Deaktiviert die betroffene Person die Setzung von Cookies in dem genutzten Internetbrowser, sind unter Umst\u00e4nden nicht alle Funktionen unserer Internetseite vollumf\u00e4nglich nutzbar.",
+        "id": "_O4DAqSs8X",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "4. Erfassung von allgemeinen Daten und Informationen",
+        "id": "_lqw2kd9fd",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "Als technische Dienstleistung f\u00fcr den Betrieb unserer Homepage im Internet nehmen wir die Leistungen von Strato AG - Pascalstra\u00dfe 10 - 10587 Berlin als Auftragsverarbeiter gem\u00e4\u00df Artikel 28 DSGVO in Anspruch: (link: https://www.strato.de/datenschutz/ text: https://www.strato.de/datenschutz/)",
-        "id": "_DLXB8jALo",
+        "content": "Die Internetseite der OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) erfasst mit jedem Aufruf der Internetseite durch eine betroffene Person oder ein automatisiertes System eine Reihe von allgemeinen Daten und Informationen. Diese allgemeinen Daten und Informationen werden in den Logfiles des Servers gespeichert. Erfasst werden k\u00f6nnen die (1) verwendeten Browsertypen und Versionen, (2) das vom zugreifenden System verwendete Betriebssystem, (3) die Internetseite, von welcher ein zugreifendes System auf unsere Internetseite gelangt (sogenannte Referrer), (4) die Unterwebseiten, welche \u00fcber ein zugreifendes System auf unserer Internetseite angesteuert werden, (5) das Datum und die Uhrzeit eines Zugriffs auf die Internetseite, (6) eine Internet-Protokoll-Adresse (IP-Adresse), (7) der Internet-Service-Provider des zugreifenden Systems und (8) sonstige \u00e4hnliche Daten und Informationen, die der Gefahrenabwehr im Falle von Angriffen auf unsere informationstechnologischen Systeme dienen.",
+        "id": "_9mEj5W9du",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "6 ) Nutzung unseres Ticketbuchungssystems",
-        "id": "_h7p3rsxy5",
-        "type": "h2"
-    },
-    {
-        "attrs": [],
-        "content": "(1) Wir setzen das Buchungssystem des Anbieters \u201eBilleto\u201c - Billeto GmbH, Richardplatz 1, 12055 Berlin - auf Grundlage unserer berechtigten Interessen (effiziente und schnelle Bearbeitung der Ticketbuchungen) ein. Dies bedeutet, dass Sie vor einem Bestellprozess zu diesem Anbieter weitergeleitet werden um Ihre Bestellung auszuf\u00fchren. Weitere Informationen zu den Datenschutzbestimmungen von Billeto finden Sie hier: http://www.billeto.net<br>(2) Wenn Sie in unserem Webshop Tickets oder Gutscheine f\u00fcr Veranstaltungen bestellen m\u00f6chten, ist es f\u00fcr den Vertragsabschluss erforderlich, dass Sie Ihre pers\u00f6nlichen Daten angeben, die wir f\u00fcr die Abwicklung Ihrer Bestellung ben\u00f6tigen. F\u00fcr die Abwicklung der Vertr\u00e4ge notwendige Pflichtangaben sind gesondert markiert, weitere Angaben sind freiwillig. Die von Ihnen angegebenen Daten verarbeitet Billeto zur Abwicklung Ihrer Bestellung und werden f\u00fcr die Buchung betreffende relevante Kontaktaufnahmen (z.B. Veranstaltungsausfall, Beantwortung ihrer Anfragen im Bemerkungsfeld, Korrektur von Preiskategorien, Spielort\u00e4nderungen u.\u00e4.) von Mitarbeitern der Offensive Tanz f\u00fcr junges Publikum Berlin genutzt. Rechtsgrundlage hierf\u00fcr ist Art. 6 Abs. 1 S. 1 lit. b DSGVO.<br>(3) Wir sind aufgrund handels- und steuerrechtlicher Vorgaben verpflichtet, Ihre Adress-, Zahlungs- und Bestelldaten f\u00fcr die Dauer von zehn Jahren zu speichern.",
-        "id": "_Zbr6m6NKy",
+        "content": "Bei der Nutzung dieser allgemeinen Daten und Informationen zieht die OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) keine R\u00fcckschl\u00fcsse auf die betroffene Person. Diese Informationen werden vielmehr ben\u00f6tigt, um (1) die Inhalte unserer Internetseite korrekt auszuliefern, (2) die Inhalte unserer Internetseite sowie die Werbung f\u00fcr diese zu optimieren, (3) die dauerhafte Funktionsf\u00e4higkeit unserer informationstechnologischen Systeme und der Technik unserer Internetseite zu gew\u00e4hrleisten sowie (4) um Strafverfolgungsbeh\u00f6rden im Falle eines Cyberangriffes die zur Strafverfolgung notwendigen Informationen bereitzustellen. Diese anonym erhobenen Daten und Informationen werden durch die OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) daher einerseits statistisch und ferner mit dem Ziel ausgewertet, den Datenschutz und die Datensicherheit in unserem Unternehmen zu erh\u00f6hen, um letztlich ein optimales Schutzniveau f\u00fcr die von uns verarbeiteten personenbezogenen Daten sicherzustellen. Die anonymen Daten der Server-Logfiles werden getrennt von allen durch eine betroffene Person angegebenen personenbezogenen Daten gespeichert.",
+        "id": "_7R8kn3a24",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "7) Newsletter",
-        "id": "_wy9m62aw3",
+        "content": "5. Registrierung auf unserer Internetseite",
+        "id": "_72o427bts",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "Abonnement unseres Newsletters: Auf unserer Internetseite wird den Benutzern die M\u00f6glichkeit einger\u00e4umt, einen oder mehrere Newsletter zu abonnieren. Als Newslettersystem wird das System kulturkurier.de der data kulturlink ag (Berlin) verwendet. Hierbei wird zur rechtssicheren und datenschutzkonformen Gestaltung das sog. double-optin Verfahren eingesetzt. Hierbei erh\u00e4lt der potentielle Empf\u00e4nger zun\u00e4chst eine E-Mail mit einem Best\u00e4tigungslink. Erst nach erfolgter Best\u00e4tigung wird die Adresse in den Verteiler aufgenommen. Die Einwilligung in die Speicherung Ihrer Daten sowie die Nutzung Ihrer Adresse f\u00fcr den Versand k\u00f6nnen Sie \u00fcber den \u201eAbmelden Link\u201c am Ende jedes Newsletters widerrufen. Weitere Informationen finden Sie hier: http://hilfe.kulturkurier.de/kulturnewsletter/ Welche personenbezogenen Daten bei der Bestellung des Newsletters an den f\u00fcr die Verarbeitung Verantwortlichen \u00fcbermittelt werden, ergibt sich aus der hierzu verwendeten Eingabemaske. Bei der Anmeldung zum Newsletter speichern wir ferner die vom Internet-Service-Provider (ISP) vergebene IP-Adresse des von der betroffenen Person zum Zeitpunkt der Anmeldung verwendeten Computersystems sowie das Datum und die Uhrzeit der Anmeldung. Die Erhebung dieser Daten ist erforderlich, um den (m\u00f6glichen) Missbrauch der E-Mail-Adresse einer betroffenen Person zu einem sp\u00e4teren Zeitpunkt nachvollziehen zu k\u00f6nnen und dient deshalb der rechtlichen Absicherung des f\u00fcr die Verarbeitung Verantwortlichen. Die im Rahmen einer Anmeldung zum Newsletter erhobenen personenbezogenen Daten werden ausschlie\u00dflich zum Versand unseres Newsletters verwendet. Ferner k\u00f6nnten Abonnenten des Newsletters per E-Mail informiert werden, sofern dies f\u00fcr den Betrieb des Newsletter-Dienstes oder eine diesbez\u00fcgliche Registrierung erforderlich ist, wie dies im Falle von \u00c4nderungen am Newsletterangebot oder bei der Ver\u00e4nderung der technischen Gegebenheiten der Fall sein k\u00f6nnte. Es erfolgt keine Weitergabe der im Rahmen des Newsletter-Dienstes erhobenen personenbezogenen Daten an Dritte. F\u00fcr das Tracking von \u00d6ffnungs- und Klickraten setzen wir im Newsletter (nicht aber in den Systemmails zur An- und Abmelung) sog. tracking codes ein, um das \u00d6ffnen der Newsletter und das Aufrufen von Weblinks zu erfassen. Die Erfassung wird dabei in einer pseudoynmisierten Speicherung vorgenommen, indem wir alle pers\u00f6nlichen Daten (z.B. die E-Mail Adresse) durch eine Kennzahl (Pseudonym) ersetzen. Dadurch speichern wir keine pers\u00f6nlichen Daten zusammen mit den Nutzungsdaten wie der \u00d6ffnung der Newsletter oder das Aufrufen von Weblinks. Ferner ist sichergestellt, dass eine Zusammenf\u00fchrung dieser Daten auch sp\u00e4ter nicht erfolgen kann. Wenn Sie als Empf\u00e4nger diesem pseudoynmisierten tracking widersprechen m\u00f6chten, k\u00f6nnen Sie sich \u00fcber den opt-out link am Ende jedes Newsletters von der Liste austragen.",
-        "id": "_1b1YzsPrV",
+        "content": "Die betroffene Person hat die M\u00f6glichkeit, sich auf der Internetseite des f\u00fcr die Verarbeitung Verantwortlichen unter Angabe von personenbezogenen Daten zu registrieren. Welche personenbezogenen Daten dabei an den f\u00fcr die Verarbeitung Verantwortlichen \u00fcbermittelt werden, ergibt sich aus der jeweiligen Eingabemaske, die f\u00fcr die Registrierung verwendet wird. Die von der betroffenen Person eingegebenen personenbezogenen Daten werden ausschlie\u00dflich f\u00fcr die interne Verwendung bei dem f\u00fcr die Verarbeitung Verantwortlichen und f\u00fcr eigene Zwecke erhoben und gespeichert. Der f\u00fcr die Verarbeitung Verantwortliche kann die Weitergabe an einen oder mehrere Auftragsverarbeiter, beispielsweise einen Paketdienstleister, veranlassen, der die personenbezogenen Daten ebenfalls ausschlie\u00dflich f\u00fcr eine interne Verwendung, die dem f\u00fcr die Verarbeitung Verantwortlichen zuzurechnen ist, nutzt.",
+        "id": "_Zrd6oPZKB",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "8) Kontaktformular/ Anmeldeformular / Kontaktaufnahme",
-        "id": "_jhojacw3y",
+        "content": "Durch eine Registrierung auf der Internetseite des f\u00fcr die Verarbeitung Verantwortlichen wird ferner die vom Internet-Service-Provider (ISP) der betroffenen Person vergebene IP-Adresse, das Datum sowie die Uhrzeit der Registrierung gespeichert. Die Speicherung dieser Daten erfolgt vor dem Hintergrund, dass nur so der Missbrauch unserer Dienste verhindert werden kann, und diese Daten im Bedarfsfall erm\u00f6glichen, begangene Straftaten aufzukl\u00e4ren. Insofern ist die Speicherung dieser Daten zur Absicherung des f\u00fcr die Verarbeitung Verantwortlichen erforderlich. Eine Weitergabe dieser Daten an Dritte erfolgt grunds\u00e4tzlich nicht, sofern keine gesetzliche Pflicht zur Weitergabe besteht oder die Weitergabe der Strafverfolgung dient.",
+        "id": "_HuaZx2UXD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die Registrierung der betroffenen Person unter freiwilliger Angabe personenbezogener Daten dient dem f\u00fcr die Verarbeitung Verantwortlichen dazu, der betroffenen Person Inhalte oder Leistungen anzubieten, die aufgrund der Natur der Sache nur registrierten Benutzern angeboten werden k\u00f6nnen. Registrierten Personen steht die M\u00f6glichkeit frei, die bei der Registrierung angegebenen personenbezogenen Daten jederzeit abzu\u00e4ndern oder vollst\u00e4ndig aus dem Datenbestand des f\u00fcr die Verarbeitung Verantwortlichen l\u00f6schen zu lassen.",
+        "id": "_uOnfQd7sg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Der f\u00fcr die Verarbeitung Verantwortliche erteilt jeder betroffenen Person jederzeit auf Anfrage Auskunft dar\u00fcber, welche personenbezogenen Daten \u00fcber die betroffene Person gespeichert sind. Ferner berichtigt oder l\u00f6scht der f\u00fcr die Verarbeitung Verantwortliche personenbezogene Daten auf Wunsch oder Hinweis der betroffenen Person, soweit dem keine gesetzlichen Aufbewahrungspflichten entgegenstehen. Die Gesamtheit der Mitarbeiter des f\u00fcr die Verarbeitung Verantwortlichen stehen der betroffenen Person in diesem Zusammenhang als Ansprechpartner zur Verf\u00fcgung.",
+        "id": "_M8Inva03a",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "6. Abonnement unseres Newsletters",
+        "id": "_mtuwbre2g",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "a) Kontakt per E-Mail / Kontaktformular:",
-        "id": "_96f1jb4xf",
+        "content": "Auf der Internetseite der OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) wird den Benutzern die M\u00f6glichkeit einger\u00e4umt, den Newsletter unseres Unternehmens zu abonnieren. Welche personenbezogenen Daten bei der Bestellung des Newsletters an den f\u00fcr die Verarbeitung Verantwortlichen \u00fcbermittelt werden, ergibt sich aus der hierzu verwendeten Eingabemaske.",
+        "id": "_rgRbtHvof",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) informiert ihre Kunden und Gesch\u00e4ftspartner in regelm\u00e4\u00dfigen Abst\u00e4nden im Wege eines Newsletters \u00fcber Angebote des Unternehmens. Der Newsletter unseres Unternehmens kann von der betroffenen Person grunds\u00e4tzlich nur dann empfangen werden, wenn (1) die betroffene Person \u00fcber eine g\u00fcltige E-Mail-Adresse verf\u00fcgt und (2) die betroffene Person sich f\u00fcr den Newsletterversand registriert. An die von einer betroffenen Person erstmalig f\u00fcr den Newsletterversand eingetragene E-Mail-Adresse wird aus rechtlichen Gr\u00fcnden eine Best\u00e4tigungsmail im Double-Opt-In-Verfahren versendet. Diese Best\u00e4tigungsmail dient der \u00dcberpr\u00fcfung, ob der Inhaber der E-Mail-Adresse als betroffene Person den Empfang des Newsletters autorisiert hat.",
+        "id": "_GOKhJPSvK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Bei der Anmeldung zum Newsletter speichern wir ferner die vom Internet-Service-Provider (ISP) vergebene IP-Adresse des von der betroffenen Person zum Zeitpunkt der Anmeldung verwendeten Computersystems sowie das Datum und die Uhrzeit der Anmeldung. Die Erhebung dieser Daten ist erforderlich, um den(m\u00f6glichen) Missbrauch der E-Mail-Adresse einer betroffenen Person zu einem sp\u00e4teren Zeitpunkt nachvollziehen zu k\u00f6nnen und dient deshalb der rechtlichen Absicherung des f\u00fcr die Verarbeitung Verantwortlichen.",
+        "id": "_vFHB6bUT0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die im Rahmen einer Anmeldung zum Newsletter erhobenen personenbezogenen Daten werden ausschlie\u00dflich zum Versand unseres Newsletters verwendet. Ferner k\u00f6nnten Abonnenten des Newsletters per E-Mail informiert werden, sofern dies f\u00fcr den Betrieb des Newsletter-Dienstes oder eine diesbez\u00fcgliche Registrierung erforderlich ist, wie dies im Falle von \u00c4nderungen am Newsletterangebot oder bei der Ver\u00e4nderung der technischen Gegebenheiten der Fall sein k\u00f6nnte. Es erfolgt keine Weitergabe der im Rahmen des Newsletter-Dienstes erhobenen personenbezogenen Daten an Dritte. Das Abonnement unseres Newsletters kann durch die betroffene Person jederzeit gek\u00fcndigt werden. Die Einwilligung in die Speicherung personenbezogener Daten, die die betroffene Person uns f\u00fcr den Newsletterversand erteilt hat, kann jederzeit widerrufen werden. Zum Zwecke des Widerrufs der Einwilligung findet sich in jedem Newsletter ein entsprechender Link. Ferner besteht die M\u00f6glichkeit, sich jederzeit auch direkt auf der Internetseite des f\u00fcr die Verarbeitung Verantwortlichen vom Newsletterversand abzumelden oder dies dem f\u00fcr die Verarbeitung Verantwortlichen auf andere Weise mitzuteilen.",
+        "id": "_dB9CubHxy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "7. Newsletter-Tracking",
+        "id": "_chh509trf",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Die Newsletter der OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) enthalten sogenannte Z\u00e4hlpixel. Ein Z\u00e4hlpixel ist eine Miniaturgrafik, die in solche E-Mails eingebettet wird, welche im HTML-Format versendet werden, um eine Logdatei-Aufzeichnung und eine Logdatei-Analyse zu erm\u00f6glichen. Dadurch kann eine statistische Auswertung des Erfolges oder Misserfolges von Online-Marketing-Kampagnen durchgef\u00fchrt werden. Anhand des eingebetteten Z\u00e4hlpixels kann die OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) erkennen, ob und wann eine E-Mail von einer betroffenen Person ge\u00f6ffnet wurde und welche in der E-Mail befindlichen Links von der betroffenen Person aufgerufen wurden.",
+        "id": "_Le19yepNn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Solche \u00fcber die in den Newslettern enthaltenen Z\u00e4hlpixel erhobenen personenbezogenen Daten, werden von dem f\u00fcr die Verarbeitung Verantwortlichen gespeichert und ausgewertet, um den Newsletterversand zu optimieren und den Inhalt zuk\u00fcnftiger Newsletter noch besser den Interessen der betroffenen Person anzupassen. Diese personenbezogenen Daten werden nicht an Dritte weitergegeben. Betroffene Personen sind jederzeit berechtigt, die diesbez\u00fcgliche gesonderte, \u00fcber das Double-Opt-In-Verfahren abgegebene Einwilligungserkl\u00e4rung zu widerrufen. Nach einem Widerruf werden diese personenbezogenen Daten von dem f\u00fcr die Verarbeitung Verantwortlichen gel\u00f6scht. Eine Abmeldung vom Erhalt des Newsletters deutet die OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) automatisch als Widerruf.",
+        "id": "_WPM2i2XFA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "8. Routinem\u00e4\u00dfige L\u00f6schung und Sperrung von personenbezogenen Daten",
+        "id": "_giqya6eg3",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Der f\u00fcr die Verarbeitung Verantwortliche verarbeitet und speichert personenbezogene Daten der betroffenen Person nur f\u00fcr den Zeitraum, der zur Erreichung des Speicherungszwecks erforderlich ist oder sofern dies durch den Europ\u00e4ischen Richtlinien- und Verordnungsgeber oder einen anderen Gesetzgeber in Gesetzen oder Vorschriften, welchen der f\u00fcr die Verarbeitung Verantwortliche unterliegt, vorgesehen wurde.",
+        "id": "_OvlKvQSe9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Entf\u00e4llt der Speicherungszweck oder l\u00e4uft eine vom Europ\u00e4ischen Richtlinien- und Verordnungsgeber oder einem anderen zust\u00e4ndigen Gesetzgeber vorgeschriebene Speicherfrist ab, werden die personenbezogenen Daten routinem\u00e4\u00dfig und entsprechend den gesetzlichen Vorschriften gesperrt oder gel\u00f6scht.",
+        "id": "_QMn00f0qj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "9. Rechte der betroffenen Person",
+        "id": "_qtmfrz8jz",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "a) Recht auf Best\u00e4tigung",
+        "id": "_6fbn8t9n3",
         "type": "h3"
     },
     {
         "attrs": [],
-        "content": "Wenn Sie uns eine Nachricht per E-Mail oder Kontaktformular schicken, speichern wir Ihre Nachricht mit den damit \u00fcbermittelten Absenderdaten und im Kontaktformular eingegebenen Daten (Name, E-Mail-Adresse und ggf. weitere von Ihrem E-Mail-Programm hinzugef\u00fcgte Informationen, Angaben laut Eingabemaske), um Ihre Nachricht zu beantworten und auch auf eventuelle Folgefragen von Ihnen reagieren zu k\u00f6nnen (Rechtsgrundlage: Artikel 6 Absatz 1 Buchstabe f DSGVO). F\u00fcr den Empfang, die Speicherung und den Versand von E-Mails nutzen wir die Leistungen von Strato AG - Pascalstra\u00dfe 10 - 10587 Berlin-, die f\u00fcr uns als Auftragsverarbeiter im Einklang mit Artikel 28 DSGVO t\u00e4tig wird. Wir l\u00f6schen die mit Ihrer Nachricht erhobenen Daten sp\u00e4testens sechs Monate nach der letzten mit Ihnen gef\u00fchrten Kommunikation zu Ihrem Anliegen, vorbehaltlich der Reglung im folgenden Absatz. Wenn Sie uns eine rechtlich relevante Erkl\u00e4rung zum Vertragsverh\u00e4ltnis \u00fcbermitteln (z.B. Ticketkauf), ist Rechtsgrundlage f\u00fcr die Verarbeitung, unabh\u00e4ngig vom \u00dcbermittlungsweg, auch Artikel 6 Absatz 1 Buchstabe b DSGVO. In einem solchen Fall l\u00f6schen wir die mit Ihrer Erkl\u00e4rung zusammenh\u00e4ngenden Daten, sobald alle wechselseitigen Anspr\u00fcche aus dem Vertragsverh\u00e4ltnis endg\u00fcltig erledigt und die handels- und steuerrechtlichen Aufbewahrungsfristen sowie die Fristen der F\u00f6rdermittelgeberinnen abgelaufen sind.",
-        "id": "_gt0vn0ac4",
+        "content": "Jede betroffene Person hat das vom Europ\u00e4ischen Richtlinien- und Verordnungsgeber einger\u00e4umte Recht, von dem f\u00fcr die Verarbeitung Verantwortlichen eine Best\u00e4tigung dar\u00fcber zu verlangen, ob sie betreffende personenbezogene Daten verarbeitet werden. M\u00f6chte eine betroffene Person dieses Best\u00e4tigungsrecht in Anspruch nehmen, kann sie sich hierzu jederzeit an einen Mitarbeiter des f\u00fcr die Verarbeitung Verantwortlichen wenden.",
+        "id": "_6lccldk3l",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "b) Anmeldeformulare / Anmeldung Informations-Verteiler:",
-        "id": "_bfgvh3if7",
+        "content": "b) Recht auf Auskunft",
+        "id": "_f55qlonmn",
         "type": "h3"
     },
     {
         "attrs": [],
-        "content": "Bei Nutzung eines Anmeldeformulars, z.B. \u201eKontaktlehrerin\u201c oder der Anmeldung zu Informationsverteilerangeboten (z.B. \u201eSondernewsletter\u201c), werden ihre Daten (Welche personenbezogenen Daten dies sind ergibt sich aus der jeweiligen Eingabemaske, die f\u00fcr die Registrierung verwendet wird) nach erneuter Best\u00e4tigung (Double-Opt-In-Prinzip) oder Zusendung mit Unterschrift von uns f\u00fcr die beim Anmeldeformular bestimmten Zwecke gespeichert. (Art. 6 Abs. 1 lit. a DSGVO). Die von Ihnen im Kontaktformular eingegebenen Daten verbleiben bei uns, werden nicht an Dritte weitergegeben, bis Sie uns zur L\u00f6schung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck f\u00fcr die Datenspeicherung entf\u00e4llt.",
-        "id": "_hvt5qoaen",
+        "content": "Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europ\u00e4ischen Richtlinien- und Verordnungsgeber gew\u00e4hrte Recht, jederzeit von dem f\u00fcr die Verarbeitung Verantwortlichen unentgeltliche Auskunft \u00fcber die zu seiner Person gespeicherten personenbezogenen Daten und eine Kopie dieser Auskunft zu erhalten. Ferner hat der Europ\u00e4ische Richtlinien- und Verordnungsgeber der betroffenen Person Auskunft \u00fcber folgende Informationen zugestanden:",
+        "id": "_r4gbaks78",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "9) Bewerbungen",
-        "id": "_2mzo3e2hh",
+        "content": "Ferner steht der betroffenen Person ein Auskunftsrecht dar\u00fcber zu, ob personenbezogene Daten an ein Drittland oder an eine internationale Organisation \u00fcbermittelt wurden. Sofern dies der Fall ist, so steht der betroffenen Person im \u00dcbrigen das Recht zu, Auskunft \u00fcber die geeigneten Garantien im Zusammenhang mit der \u00dcbermittlung zu erhalten.<br>M\u00f6chte eine betroffene Person dieses Auskunftsrecht in Anspruch nehmen, kann sie sich hierzu jederzeit an einen Mitarbeiter des f\u00fcr die Verarbeitung Verantwortlichen wenden.",
+        "id": "_01e5wge0l",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "c) Recht auf Berichtigung",
+        "id": "_vwrpocdkd",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europ\u00e4ischen Richtlinien- und Verordnungsgeber gew\u00e4hrte Recht, die unverz\u00fcgliche Berichtigung sie betreffender unrichtiger personenbezogener Daten zu verlangen. Ferner steht der betroffenen Person das Recht zu, unter Ber\u00fccksichtigung der Zwecke der Verarbeitung, die Vervollst\u00e4ndigung unvollst\u00e4ndiger personenbezogener Daten \u2014 auch mittels einer erg\u00e4nzenden Erkl\u00e4rung \u2014 zu verlangen.<br>M\u00f6chte eine betroffene Person dieses Berichtigungsrecht in Anspruch nehmen, kann sie sich hierzu jederzeit an einen Mitarbeiter des f\u00fcr die Verarbeitung Verantwortlichen wenden.",
+        "id": "_92lsiavrx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "d) Recht auf L\u00f6schung (Recht auf Vergessen werden)",
+        "id": "_qvlrnil6q",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europ\u00e4ischen Richtlinien- und Verordnungsgeber gew\u00e4hrte Recht, von dem Verantwortlichen zu verlangen, dass die sie betreffenden personenbezogenen Daten unverz\u00fcglich gel\u00f6scht werden, sofern einer der folgenden Gr\u00fcnde zutrifft und soweit die Verarbeitung nicht erforderlich ist:",
+        "id": "_xwy78i9mc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Sofern einer der oben genannten Gr\u00fcnde zutrifft und eine betroffene Person die L\u00f6schung von personenbezogenen Daten, die bei der OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) gespeichert sind, veranlassen m\u00f6chte, kann sie sich hierzu jederzeit an einen Mitarbeiter des f\u00fcr die Verarbeitung Verantwortlichen wenden. Der Mitarbeiter der OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) wird veranlassen, dass dem L\u00f6schverlangen unverz\u00fcglich nachgekommen wird.<br>Wurden die personenbezogenen Daten von der OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) \u00f6ffentlich gemacht und ist unser Unternehmen als Verantwortlicher gem\u00e4\u00df Art. 17 Abs. 1 DS-GVO zur L\u00f6schung der personenbezogenen Daten verpflichtet, so trifft die OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) unter Ber\u00fccksichtigung der verf\u00fcgbaren Technologie und der Implementierungskosten angemessene Ma\u00dfnahmen, auch technischer Art, um andere f\u00fcr die Datenverarbeitung Verantwortliche, welche die ver\u00f6ffentlichten personenbezogenen Daten verarbeiten, dar\u00fcber in Kenntnis zu setzen, dass die betroffene Person von diesen anderen f\u00fcr die Datenverarbeitung Verantwortlichen die L\u00f6schung s\u00e4mtlicher Links zu diesen personenbezogenen Daten oder von Kopien oder Replikationen dieser personenbezogenen Daten verlangt hat, soweit die Verarbeitung nicht erforderlich ist. Der Mitarbeiter der OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) wird im Einzelfall das Notwendige veranlassen.",
+        "id": "_n5wod2ham",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "e) Recht auf Einschr\u00e4nkung der Verarbeitung",
+        "id": "_o6nse61r9",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europ\u00e4ischen Richtlinien- und Verordnungsgeber gew\u00e4hrte Recht, von dem Verantwortlichen die Einschr\u00e4nkung der Verarbeitung zu verlangen, wenn eine der folgenden Voraussetzungen gegeben ist:",
+        "id": "_oupmekcss",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Sofern eine der oben genannten Voraussetzungen gegeben ist und eine betroffene Person die Einschr\u00e4nkung von personenbezogenen Daten, die bei der OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) gespeichert sind, verlangen m\u00f6chte, kann sie sich hierzu jederzeit an einen Mitarbeiter des f\u00fcr die Verarbeitung Verantwortlichen wenden. Der Mitarbeiter der OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) wird die Einschr\u00e4nkung der Verarbeitung veranlassen.",
+        "id": "_6s0zj2z7i",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "f) Recht auf Daten\u00fcbertragbarkeit",
+        "id": "_n5tlso8n0",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europ\u00e4ischen Richtlinien- und Verordnungsgeber gew\u00e4hrte Recht, die sie betreffenden personenbezogenen Daten, welche durch die betroffene Person einem Verantwortlichen bereitgestellt wurden, in einem strukturierten, g\u00e4ngigen und maschinenlesbaren Format zu erhalten. Sie hat au\u00dferdem das Recht, diese Daten einem anderen Verantwortlichen ohne Behinderung durch den Verantwortlichen, dem die personenbezogenen Daten bereitgestellt wurden, zu \u00fcbermitteln, sofern die Verarbeitung auf der Einwilligung gem\u00e4\u00df Art. 6 Abs. 1 Buchstabe a DS-GVO oder Art. 9 Abs. 2 Buchstabe a DS-GVO oder auf einem Vertrag gem\u00e4\u00df Art. 6 Abs. 1 Buchstabe b DS-GVO beruht und die Verarbeitung mithilfe automatisierter Verfahren erfolgt, sofern die Verarbeitung nicht f\u00fcr die Wahrnehmung einer Aufgabe erforderlich ist, die im \u00f6ffentlichen Interesse liegt oder in Aus\u00fcbung \u00f6ffentlicher Gewalt erfolgt, welche dem Verantwortlichen \u00fcbertragen wurde.<br>Ferner hat die betroffene Person bei der Aus\u00fcbung ihres Rechts auf Daten\u00fcbertragbarkeit gem\u00e4\u00df Art. 20 Abs. 1 DS-GVO das Recht, zu erwirken, dass die personenbezogenen Daten direkt von einem Verantwortlichen an einen anderen Verantwortlichen \u00fcbermittelt werden, soweit dies technisch machbar ist und sofern hiervon nicht die Rechte und Freiheiten anderer Personen beeintr\u00e4chtigt werden.<br>Zur Geltendmachung des Rechts auf Daten\u00fcbertragbarkeit kann sich die betroffene Person jederzeit an einen Mitarbeiter der OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) wenden.",
+        "id": "_l1fjkqhvj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "g) Recht auf Widerspruch",
+        "id": "_hvuv8dazg",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europ\u00e4ischen Richtlinien- und Verordnungsgeber gew\u00e4hrte Recht, aus Gr\u00fcnden, die sich aus ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung sie betreffender personenbezogener Daten, die aufgrund von Art. 6 Abs. 1 Buchstaben e oder f DS-GVO erfolgt, Widerspruch einzulegen. Dies gilt auch f\u00fcr ein auf diese Bestimmungen gest\u00fctztes Profiling.<br>Die OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) verarbeitet die personenbezogenen Daten im Falle des Widerspruchs nicht mehr, es sei denn, wir k\u00f6nnen zwingende schutzw\u00fcrdige Gr\u00fcnde f\u00fcr die Verarbeitung nachweisen, die den Interessen, Rechten und Freiheiten der betroffenen Person \u00fcberwiegen, oder die Verarbeitung dient der Geltendmachung, Aus\u00fcbung oder Verteidigung von Rechtsanspr\u00fcchen.<br>Verarbeitet die OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) personenbezogene Daten, um Direktwerbung zu betreiben, so hat die betroffene Person das Recht, jederzeit Widerspruch gegen die Verarbeitung der personenbezogenen Daten zum Zwecke derartiger Werbung einzulegen. Dies gilt auch f\u00fcr das Profiling, soweit es mit solcher Direktwerbung in Verbindung steht. Widerspricht die betroffene Person gegen\u00fcber der OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) der Verarbeitung f\u00fcr Zwecke der Direktwerbung, so wird die OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) die personenbezogenen Daten nicht mehr f\u00fcr diese Zwecke verarbeiten.<br>Zudem hat die betroffene Person das Recht, aus Gr\u00fcnden, die sich aus ihrer besonderen Situation ergeben, gegen die sie betreffende Verarbeitung personenbezogener Daten, die bei der OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) zu wissenschaftlichen oder historischen Forschungszwecken oder zu statistischen Zwecken gem\u00e4\u00df Art. 89 Abs. 1 DS-GVO erfolgen, Widerspruch einzulegen, es sei denn, eine solche Verarbeitung ist zur Erf\u00fcllung einer im \u00f6ffentlichen Interesse liegenden Aufgabe erforderlich.<br>Zur Aus\u00fcbung des Rechts auf Widerspruch kann sich die betroffene Person direkt an jeden Mitarbeiter der OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) oder einen anderen Mitarbeiter wenden. Der betroffenen Person steht es ferner frei, im Zusammenhang mit der Nutzung von Diensten der Informationsgesellschaft, ungeachtet der Richtlinie 2002/58/EG, ihr Widerspruchsrecht mittels automatisierter Verfahren auszu\u00fcben, bei denen technische Spezifikationen verwendet werden.",
+        "id": "_3murf5ki8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "h) Automatisierte Entscheidungen im Einzelfall einschlie\u00dflich Profiling",
+        "id": "_12ywio8r2",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europ\u00e4ischen Richtlinien- und Verordnungsgeber gew\u00e4hrte Recht, nicht einer ausschlie\u00dflich auf einer automatisierten Verarbeitung \u2014 einschlie\u00dflich Profiling \u2014 beruhenden Entscheidung unterworfen zu werden, die ihr gegen\u00fcber rechtliche Wirkung entfaltet oder sie in \u00e4hnlicher Weise erheblich beeintr\u00e4chtigt, sofern die Entscheidung (1) nicht f\u00fcr den Abschluss oder die Erf\u00fcllung eines Vertrags zwischen der betroffenen Person und dem Verantwortlichen erforderlich ist, oder (2) aufgrund von Rechtsvorschriften der Union oder der Mitgliedstaaten, denen der Verantwortliche unterliegt, zul\u00e4ssig ist und diese Rechtsvorschriften angemessene Ma\u00dfnahmen zur Wahrung der Rechte und Freiheiten sowie der berechtigten Interessen der betroffenen Person enthalten oder (3) mit ausdr\u00fccklicher Einwilligung der betroffenen Person erfolgt.<br>Ist die Entscheidung (1) f\u00fcr den Abschluss oder die Erf\u00fcllung eines Vertrags zwischen der betroffenen Person und dem Verantwortlichen erforderlich oder (2) erfolgt sie mit ausdr\u00fccklicher Einwilligung der betroffenen Person, trifft die OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) angemessene Ma\u00dfnahmen, um die Rechte und Freiheiten sowie die berechtigten Interessen der betroffenen Person zu wahren, wozu mindestens das Recht auf Erwirkung des Eingreifens einer Person seitens des Verantwortlichen, auf Darlegung des eigenen Standpunkts und auf Anfechtung der Entscheidung geh\u00f6rt.<br>M\u00f6chte die betroffene Person Rechte mit Bezug auf automatisierte Entscheidungen geltend machen, kann sie sich hierzu jederzeit an einen Mitarbeiter des f\u00fcr die Verarbeitung Verantwortlichen wenden.",
+        "id": "_hno1rgrhl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "i) Recht auf Widerruf einer datenschutzrechtlichen Einwilligung",
+        "id": "_zrbu38ik5",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europ\u00e4ischen Richtlinien- und Verordnungsgeber gew\u00e4hrte Recht, eine Einwilligung zur Verarbeitung personenbezogener Daten jederzeit zu widerrufen.<br>M\u00f6chte die betroffene Person ihr Recht auf Widerruf einer Einwilligung geltend machen, kann sie sich hierzu jederzeit an einen Mitarbeiter des f\u00fcr die Verarbeitung Verantwortlichen wenden.",
+        "id": "_rrfs1722w",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "10. Datenschutz bei Bewerbungen und im Bewerbungsverfahren",
+        "id": "_l0hj9o3o",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "Wir verarbeiten die Daten, die uns im Zusammenhang mit Bewerbungen zugesendet wurden, um die pers\u00f6nliche Eignung der Einsenderinnen f\u00fcr die Stelle (oder ggf. andere offene Positionen bei uns) zu pr\u00fcfen und das Bewerbungsverfahren durchzuf\u00fchren. Rechtsgrundlage f\u00fcr die Verarbeitung der personenbezogenen Daten im Bewerbungsverfahren ist \u00a7 26 BDSG. Nach Abschluss des Bewerbungsverfahrens k\u00f6nnen wir diese Daten zur Wahrnehmung unserer berechtigten Interessen, z. B. Geltendmachung oder Abwehr von Anspr\u00fcchen, weiter speichern (Rechtsgrundlage: Art. 6 Absatz 1 Buchstabe f DSGVO). Daten von Bewerberinnen werden im Falle einer Absage, sp\u00e4testens 6 Monate nach Beendigung des Bewerbungsverfahrens gel\u00f6scht, wenn keine gegenteilige Genehmigung zur l\u00e4ngeren Aufbewahrung vorliegt. Im Falle einer Anstellung bei uns werden die f\u00fcr die Durchf\u00fchrung des Besch\u00e4ftigungsverh\u00e4ltnisses notwendigen Daten aus der erfolgreichen Bewerbung in unser Personalinformationssystem \u00fcberf\u00fchrt. Bei uns haben grunds\u00e4tzlich nur die Personen Zugriff auf die Bewerber*innendaten, die dies f\u00fcr den ordnungsgem\u00e4\u00dfen Ablauf unseres Bewerbungsverfahrens ben\u00f6tigen.",
-        "id": "_n3lLiKIBf",
+        "content": "Der f\u00fcr die Verarbeitung Verantwortliche erhebt und verarbeitet die personenbezogenen Daten von Bewerbern zum Zwecke der Abwicklung des Bewerbungsverfahrens. Die Verarbeitung kann auch auf elektronischem Wege erfolgen. Dies ist insbesondere dann der Fall, wenn ein Bewerber entsprechende Bewerbungsunterlagen auf dem elektronischen Wege, beispielsweise per E-Mail oder \u00fcber ein auf der Internetseite befindliches Webformular, an den f\u00fcr die Verarbeitung Verantwortlichen \u00fcbermittelt. Schlie\u00dft der f\u00fcr die Verarbeitung Verantwortliche einen Anstellungsvertrag mit einem Bewerber, werden die \u00fcbermittelten Daten zum Zwecke der Abwicklung des Besch\u00e4ftigungsverh\u00e4ltnisses unter Beachtung der gesetzlichen Vorschriften gespeichert. Wird von dem f\u00fcr die Verarbeitung Verantwortlichen kein Anstellungsvertrag mit dem Bewerber geschlossen, so werden die Bewerbungsunterlagen zwei Monate nach Bekanntgabe der Absageentscheidung automatisch gel\u00f6scht, sofern einer L\u00f6schung keine sonstigen berechtigten Interessen des f\u00fcr die Verarbeitung Verantwortlichen entgegenstehen. Sonstiges berechtigtes Interesse in diesem Sinne ist beispielsweise eine Beweispflicht in einem Verfahren nach dem Allgemeinen Gleichbehandlungsgesetz (AGG).",
+        "id": "_H3QCmWcdJ",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "10) Administration, Finanzbuchhaltung, B\u00fcroorganisation, Kontaktverwaltung",
-        "id": "_8je817wf4",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "Wir verarbeiten Daten im Rahmen von Verwaltungsaufgaben sowie Organisation unseres Betriebs unter Befolgung der gesetzlichen Pflichten, wie z.B. der Archivierung. Herbei verarbeiten wir dieselben Daten, die wir im Rahmen der Erbringung unserer vertraglichen Leistungen verarbeiten. Die Verarbeitungsgrundlagen sind Art. 6 Abs. 1 lit. b. DSGVO, Art. 6 Abs. 1 lit. c. DSGVO Art. 6 Abs. 1 lit. f., Art. 28 DSGVO. Von der Verarbeitung sind Betroffene: Kunden, Interessenten und Gesch\u00e4ftspartner. Der Zweck und unser Interesse an der Verarbeitung liegt in der Administration, Finanzbuchhaltung, B\u00fcroorganisation, Archivierung von Daten, also Aufgaben die der Aufrechterhaltung unserer Gesch\u00e4ftst\u00e4tigkeiten, Wahrnehmung unserer Aufgaben und Erbringung unserer Leistungen dienen. Wir offenbaren oder \u00fcbermitteln hierbei Daten an die Finanzverwaltung, Berater, wie z.B., Steuerberater oder Wirtschaftspr\u00fcfer sowie weitere Geb\u00fchrenstellen und Zahlungsdienstleister. Ferner speichern wir auf Grundlage unserer betriebswirtschaftlichen Interessen Angaben zu Lieferanten, Veranstaltern und sonstigen Gesch\u00e4ftspartnern, z.B. zwecks sp\u00e4terer Kontaktaufnahme. Diese mehrheitlich unternehmensbezogenen Daten, speichern wir bis zur Beendigung der Gesch\u00e4ftsbeziehungen. Rechnungen, Zahlungsinformationen und Vertr\u00e4ge m\u00fcssen wir f\u00fcr die Dauer von zehn Jahren zu Pr\u00fcfzwecken speichern. Die L\u00f6schung der Daten im Hinblick auf vertragliche Kommunikation entspricht den, bei diesen Verarbeitungst\u00e4tigkeiten genannten Angaben.",
-        "id": "_YBbqRuNSE",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "11) Einbindung von Diensten und Inhalten Dritter:",
-        "id": "_zz46yz5b4",
+        "content": "11. Rechtsgrundlage der Verarbeitung",
+        "id": "_anbq46qzx",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "a) Youtube",
-        "id": "_7t9f1ibzc",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "Im Rahmen unseres Onlineangebotes (Videoeinbindung) k\u00f6nnen Funktionen und Inhalte des Dienstes Youtube eingebunden werden. Diese werden angeboten durch die Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Insbesondere z\u00e4hlen hierzu Videos. Mittels Schaltfl\u00e4chen k\u00f6nnen Nutzer ihr Gefallen betreffend dem Inhalt mitteilen oder teilen. Zudem k\u00f6nnen Nutzer den Verfassern der Inhalte oder unsere Beitr\u00e4ge abonnieren. Insofern die Nutzer Mitglieder der Plattform Youtube sind, kann Youtube den Aufruf der Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen. Die Datenschutzerkl\u00e4rung finden des Anbieters Sie hier: https://www.google.com/policies/privacy/ Opt-Out: https://adssettings.google.com/authenticated",
-        "id": "_EtyLlDVi9",
+        "content": "Art. 6 I lit. a DS-GVO dient unserem Unternehmen als Rechtsgrundlage f\u00fcr Verarbeitungsvorg\u00e4nge, bei denen wir eine Einwilligung f\u00fcr einen bestimmten Verarbeitungszweck einholen. Ist die Verarbeitung personenbezogener Daten zur Erf\u00fcllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, erforderlich, wie dies beispielsweise bei Verarbeitungsvorg\u00e4ngen der Fall ist, die f\u00fcr eine Lieferung von Waren oder die Erbringung einer sonstigen Leistung oder Gegenleistung notwendig sind, so beruht die Verarbeitung auf Art. 6 I lit. b DS-GVO. Gleiches gilt f\u00fcr solche Verarbeitungsvorg\u00e4nge die zur Durchf\u00fchrung vorvertraglicher Ma\u00dfnahmen erforderlich sind, etwa in F\u00e4llen von Anfragen zur unseren Produkten oder Leistungen. Unterliegt unser Unternehmen einer rechtlichen Verpflichtung durch welche eine Verarbeitung von personenbezogenen Daten erforderlich wird, wie beispielsweise zur Erf\u00fcllung steuerlicher Pflichten, so basiert die Verarbeitung auf Art. 6 I lit. c DS-GVO. In seltenen F\u00e4llen k\u00f6nnte die Verarbeitung von personenbezogenen Daten erforderlich werden, um lebenswichtige Interessen der betroffenen Person oder einer anderen nat\u00fcrlichen Person zu sch\u00fctzen. Dies w\u00e4re beispielsweise der Fall, wenn ein Besucher in unserem Betrieb verletzt werden w\u00fcrde und daraufhin sein Name, sein Alter, seine Krankenkassendaten oder sonstige lebenswichtige Informationen an einen Arzt, ein Krankenhaus oder sonstige Dritte weitergegeben werden m\u00fcssten. Dann w\u00fcrde die Verarbeitung auf Art. 6 I lit. d DS-GVO beruhen. Letztlich k\u00f6nnten Verarbeitungsvorg\u00e4nge auf Art. 6 I lit. f DS-GVO beruhen. Auf dieser Rechtsgrundlage basieren Verarbeitungsvorg\u00e4nge, die von keiner der vorgenannten Rechtsgrundlagen erfasst werden, wenn die Verarbeitung zur Wahrung eines berechtigten Interesses unseres Unternehmens oder eines Dritten erforderlich ist, sofern die Interessen, Grundrechte und Grundfreiheiten des Betroffenen nicht \u00fcberwiegen. Solche Verarbeitungsvorg\u00e4nge sind uns insbesondere deshalb gestattet, weil sie durch den Europ\u00e4ischen Gesetzgeber besonders erw\u00e4hnt wurden. Er vertrat insoweit die Auffassung, dass ein berechtigtes Interesse anzunehmen sein k\u00f6nnte, wenn die betroffene Person ein Kunde des Verantwortlichen ist (Erw\u00e4gungsgrund 47 Satz 2 DS-GVO).",
+        "id": "_Wxm9JZfWG",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "b) Facebook",
-        "id": "_w5yglsyeu",
-        "type": "h3"
+        "content": "12. Berechtigte Interessen an der Verarbeitung, die von dem Verantwortlichen oder einem Dritten verfolgt werden",
+        "id": "_grst4hc0n",
+        "type": "h2"
     },
     {
         "attrs": [],
-        "content": "Im Rahmen unseres Onlineangebotes k\u00f6nnen Funktionen und Inhalte des Dienstes Facebook eingebunden werden, bzw. Verlinungen zu facebook. Diese werden angeboten durch Facebook Inc., 1 Hacker Way, Menlo Park, CA 94025, USA, bzw. falls Sie in der EU ans\u00e4ssig sind, Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland betrieben wird (\u201cFacebook\u201d). Facebook ist unter dem Privacy-Shield-Abkommen zertifiziert und garantiert hierdurch, das europ\u00e4ische Datenschutzrecht einzuhalten (https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active). weitere Informationen zur Datenerhebung: http://www.facebook.com/help/186325668085084, http://www.facebook.com/about/privacy/your-info-on-other#applications sowie http://www.facebook.com/about/privacy/your-info#everyoneinfo.",
-        "id": "_qvlEAyBkp",
+        "content": "Basiert die Verarbeitung personenbezogener Daten auf Artikel 6 I lit. f DS-GVO ist unser berechtigtes Interesse die Durchf\u00fchrung unserer Gesch\u00e4ftst\u00e4tigkeit zugunsten des Wohlergehens all unserer Mitarbeiter und unserer Anteilseigner.",
+        "id": "_pCXAe0p2l",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "13. Dauer, f\u00fcr die die personenbezogenen Daten gespeichert werden",
+        "id": "_b9lfcs76c",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Das Kriterium f\u00fcr die Dauer der Speicherung von personenbezogenen Daten ist die jeweilige gesetzliche Aufbewahrungsfrist. Nach Ablauf der Frist werden die entsprechenden Daten routinem\u00e4\u00dfig gel\u00f6scht, sofern sie nicht mehr zur Vertragserf\u00fcllung oder Vertragsanbahnung erforderlich sind.",
+        "id": "_CITGJdyUr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "15. Gesetzliche oder vertragliche Vorschriften zur Bereitstellung der personenbezogenen Daten; Erforderlichkeit f\u00fcr den Vertragsabschluss; Verpflichtung der betroffenen Person, die personenbezogenen Daten bereitzustellen; m\u00f6gliche Folgen der Nichtbereitstellung",
+        "id": "_2xvkdqyhx",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Wir kl\u00e4ren Sie dar\u00fcber auf, dass die Bereitstellung personenbezogener Daten zum Teil gesetzlich vorgeschrieben ist (z.B. Steuervorschriften) oder sich auch aus vertraglichen Regelungen (z.B. Angaben zum Vertragspartner) ergeben kann. Mitunter kann es zu einem Vertragsschluss erforderlich sein, dass eine betroffene Person uns personenbezogene Daten zur Verf\u00fcgung stellt, die in der Folge durch uns verarbeitet werden m\u00fcssen. Die betroffene Person ist beispielsweise verpflichtet uns personenbezogene Daten bereitzustellen, wenn unser Unternehmen mit ihr einen Vertrag abschlie\u00dft. Eine Nichtbereitstellung der personenbezogenen Daten h\u00e4tte zur Folge, dass der Vertrag mit dem Betroffenen nicht geschlossen werden k\u00f6nnte. Vor einer Bereitstellung personenbezogener Daten durch den Betroffenen muss sich der Betroffene an einen unserer Mitarbeiter wenden. Unser Mitarbeiter kl\u00e4rt den Betroffenen einzelfallbezogen dar\u00fcber auf, ob die Bereitstellung der personenbezogenen Daten gesetzlich oder vertraglich vorgeschrieben oder f\u00fcr den Vertragsabschluss erforderlich ist, ob eine Verpflichtung besteht, die personenbezogenen Daten bereitzustellen, und welche Folgen die Nichtbereitstellung der personenbezogenen Daten h\u00e4tte.",
+        "id": "_4jM6g1GOd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "14. Bestehen einer automatisierten Entscheidungsfindung",
+        "id": "_bogohscqa",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Als verantwortungsbewusstes Unternehmen verzichten wir auf eine automatische Entscheidungsfindung oder ein Profiling.",
+        "id": "_lyXkap7H9",
         "type": "paragraph"
     }
 ]

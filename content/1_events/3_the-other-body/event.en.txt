@@ -1,0 +1,91 @@
+Title: The other body?
+
+----
+
+Vorlage: Tanzkomplizen
+
+----
+
+Featured: true
+
+----
+
+Label: Conference on Dance and Racism
+
+----
+
+Author: Tanzkomplizen and Nora Amin
+
+----
+
+Date: 2020-03-13
+
+----
+
+Time: 14:00
+
+----
+
+Duration: 07:00
+
+----
+
+Location: Schillertheater-Werkstatt, Bismarckstr. 110
+
+----
+
+Tickets: tanzkomplizen@offensive-tanz.de
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>What does racism do to the body?<br>How does the body act to create racism-free thinking and feeling spaces?</strong>",
+        "id": "_h7N4YsUYB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Racism is controversial as a sociopolitical topic, but how is the theme processed on stage? As dance performers, we will ask ourselves in the conference what impact the experience of racism has on the body and how dance can react to it. In addition, the conference offers space for exchange about artistic formats on the topic of racism, about the own (political) attitude as a team and about possibilities of creative resistance.",
+        "id": "_x7v78VtpA",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists:
+
+- 
+  role: Concept
+  name: >
+    Nora Amin, choreographer, dancer and
+    author
+
+----
+
+Staffs: 
+
+----
+
+Subtext:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>The event is in English.</strong>",
+        "id": "_22pezrgmv",
+        "type": "paragraph"
+    }
+]

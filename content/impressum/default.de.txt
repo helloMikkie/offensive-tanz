@@ -7,44 +7,38 @@ Text:
 [
     {
         "attrs": [],
-        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o das programm GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin",
+        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o Studio36 GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin",
         "id": "_UKibqKSgZ",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "<a href=\"http://localhost:8888/info@offensive-tanz.de\">info[at]offensive-tanz.de</a>",
+        "content": "<a href=\"mailto:info@offensive-tanz.de\">info[at]offensive-tanz.de</a>",
         "id": "_un3QTTZzQ",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Vertreten durch die Gesch\u00e4ftsf\u00fchrung: <br>Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
+        "content": "<strong>Registergericht</strong>: Amtsgericht Berlin-Charlottenburg HRB 212825",
+        "id": "_oju8dhkl7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Vertreten durch die Gesch\u00e4ftsf\u00fchrung:</strong> <br>Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
         "id": "_gfrNJeqXf",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Redaktion",
-        "id": "_h6zq2qc8w",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "Katharina Neumann, Canan Erek",
-        "id": "_o35FMwwGW",
+        "content": "<strong>Redaktion: </strong>Katharina Neumann, Canan Erek",
+        "id": "_cd6hrognn",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Konzept und Gestaltung",
-        "id": "_tzke6v6w1",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "<a href=\"http://www.heimannundschwantes.de/\">Heimann + Schwantes</a>",
-        "id": "_kKZ0uWpNJ",
+        "content": "<strong>Konzept und Gestaltung: </strong><a href=\"http://www.heimannundschwantes.de/\">Heimann + Schwantes</a>",
+        "id": "_fajo5f963",
         "type": "paragraph"
     },
     {
@@ -85,7 +79,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Die Autorinnen sind bestrebt, in allen Publikationen die Urheberrechte der verwendeten Bilder, Grafiken, Tondokumente, Videosequenzen und Texte zu beachten, von ihnen selbst erstellte Bilder, Grafiken, Tondokumente, Videosequenzen und Texte zu nutzen oder auf lizenzfreie Grafiken, Tondokumente, Videosequenzen und Texte zur\u00fcckzugreifen. Alle innerhalb des Internetangebotes genannten und ggf. durch Dritte gesch\u00fctzten Marken- und Warenzeichen unterliegen uneingeschr\u00e4nkt den Bestimmungen des jeweils g\u00fcltigen Kennzeichenrechts und den Besitzrechten der jeweiligen eingetragenen Eigent\u00fcmer. Allein aufgrund der blo\u00dfen Nennung ist nicht der Schluss zu ziehen, dass Markenzeichen nicht durch Rechte Dritter gesch\u00fctzt sind! Das Copyright f\u00fcr ver\u00f6ffentlichte, von den Autorinnen selbst erstellte Objekte bleibt allein bei den Autorinnen der Seiten. Eine Vervielf\u00e4ltigung oder Verwendung solcher Grafiken, Tondokumente, Videosequenzen und Texte in anderen elektronischen oder gedruckten Publikationen ist ohne ausdr\u00fcckliche Zustimmung der Autor*innen nicht gestattet..",
+        "content": "Die Autorinnen sind bestrebt, in allen Publikationen die Urheberrechte der verwendeten Bilder, Grafiken, Tondokumente, Videosequenzen und Texte zu beachten, von ihnen selbst erstellte Bilder, Grafiken, Tondokumente, Videosequenzen und Texte zu nutzen oder auf lizenzfreie Grafiken, Tondokumente, Videosequenzen und Texte zur\u00fcckzugreifen. Alle innerhalb des Internetangebotes genannten und ggf. durch Dritte gesch\u00fctzten Marken- und Warenzeichen unterliegen uneingeschr\u00e4nkt den Bestimmungen des jeweils g\u00fcltigen Kennzeichenrechts und den Besitzrechten der jeweiligen eingetragenen Eigent\u00fcmer. Allein aufgrund der blo\u00dfen Nennung ist nicht der Schluss zu ziehen, dass Markenzeichen nicht durch Rechte Dritter gesch\u00fctzt sind! Das Copyright f\u00fcr ver\u00f6ffentlichte, von den Autorinnen selbst erstellte Objekte bleibt allein bei den Autorinnen der Seiten. Eine Vervielf\u00e4ltigung oder Verwendung solcher Grafiken, Tondokumente, Videosequenzen und Texte in anderen elektronischen oder gedruckten Publikationen ist ohne ausdr\u00fcckliche Zustimmung der Autor*innen nicht gestattet.",
         "id": "_tO4wUGzcz",
         "type": "paragraph"
     }

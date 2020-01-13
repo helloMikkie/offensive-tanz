@@ -1,0 +1,85 @@
+Title: Internationalität und Diversität <br> im Tanz für junges Publikum
+
+----
+
+Vorlage: Theater o.N.
+
+----
+
+Featured: true
+
+----
+
+Label: Symposium
+
+----
+
+Author: Offensive Tanz für junges Publikum Berlin
+
+----
+
+Date: 2020-04-25
+
+----
+
+Time: 
+
+----
+
+Duration: 
+
+----
+
+Location: Podewil Berlin, Klosterstraße 68
+
+----
+
+Tickets: accreditation@fratz-festival.de
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "Im Rahmen des Festivals FRATZ International (24.-29. April 2020), veranstaltet von Theater o.N., findet das erste von drei Symposien der Offensive Tanz f\u00fcr junges Publikum statt. Ziel ist die F\u00f6rderung des internationalen Austauschs \u00fcber gesellschaftlich-k\u00fcnstlerisch relevante Diskurse und die Weiterentwicklung der Kunstform.",
+        "id": "_RmZOKOqz4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "2020 fragen wir: Wie k\u00f6nnen wir die Internationalit\u00e4t im Tanz nutzbar machen, um eine gr\u00f6\u00dfere Diversit\u00e4t auf der B\u00fchne und im Zuschauerraum zu erreichen? Reproduzieren wir vorhandene Machtstrukturen, indem wir versuchen, sie aufzubrechen? Was bedeutet es, wenn wir von Tanz als universeller Sprache sprechen?",
+        "id": "_8qKz1jKH1",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext:
+
+[
+    {
+        "attrs": [],
+        "content": "In Kooperation mit FRATZ International: Begegnungen \u2013 Symposium \u2013 Festival <br>f\u00fcr die J\u00fcngsten vom 24.\u201329. April 2020, veranstaltet von Theater o.N., gef\u00f6rdert <br>von der Senatsverwaltung f\u00fcr Kultur und Europa des Landes Berlin im Rahmen der spartenoffenen F\u00f6rderung von stadtpolitisch relevanten Festivals 2020\u201323.",
+        "id": "_drl6ej1oi",
+        "type": "paragraph"
+    }
+]

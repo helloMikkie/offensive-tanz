@@ -59,7 +59,7 @@
                 ->children()
                 ->listed()
                 ->filterBy('featured', true)
-                ->sortBy('date', 'desc')
+                ->sortBy('date', 'asc')
                 ->limit(3)
         ]) ?>
     </section>
@@ -72,7 +72,7 @@
                 ->children()
                 ->listed()
                 ->filterBy('featured', true)
-                ->sortBy('date', 'desc')
+                ->sortBy('date', 'asc')
                 ->limit(3)
         ]) ?>
     </section>

@@ -13,7 +13,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Sie werden kein mehr E-Mail-Marketing von diese Liste erhalten.",
+        "content": "Sie werden kein E-Mail-Marketing mehr von dieser Liste erhalten.",
         "id": "_yssvj986t",
         "type": "paragraph"
     }

@@ -7,25 +7,31 @@ Text:
 [
     {
         "attrs": [],
-        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o das programm GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin",
+        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o Studio36 GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin",
         "id": "_xorxb4099",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "<a href=\"mailto: info@offensive-tanz.de\">info@offensive-tanz.de</a>",
+        "content": "<a href=\"mailto: info@offensive-tanz.de\">info[at]offensive-tanz.de</a>",
         "id": "_adq92sckt",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Vertreten durch die Gesch\u00e4ftsf\u00fchrung: Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
+        "content": "<strong>Registergericht:</strong> Amtsgericht Berlin-Charlottenburg HRB 212825",
+        "id": "_1j0da8pbt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Vertreten durch die Gesch\u00e4ftsf\u00fchrung:</strong> Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
         "id": "_21s1g0vk3",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Presse- und \u00d6ffentlichkeitsarbeit: <a href=\"mailto: k.neumann@offensive-tanz.de\">Katharina Neumann</a>",
+        "content": "<strong>Presse- und \u00d6ffentlichkeitsarbeit</strong>: <a href=\"mailto: k.neumann@offensive-tanz.de\">Katharina Neumann</a>",
         "id": "_2w3v8f2lv",
         "type": "paragraph"
     },

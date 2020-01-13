@@ -1,0 +1,114 @@
+Title: Kleine große Sprünge
+
+----
+
+Vorlage: Tanzkomplizen
+
+----
+
+Featured: true
+
+----
+
+Label: Tanzstück
+
+----
+
+Author: Jasmin İhraç
+
+----
+
+Date: 2020-04-23
+
+----
+
+Time: 10:00
+
+----
+
+Duration: 
+
+----
+
+Location: Schillertheater-Werkstatt, Bismarckstr. 110
+
+----
+
+Tickets: tickets@tanzkomplizen.de
+
+----
+
+Age: 6
+
+----
+
+Caption: The age recommendations given here are only guidelines. In general, we welcome visitors of all ages. A contact person of the respective partner will be happy to provide you with more information.
+
+----
+
+Scedule:
+
+- 
+  datum: 2020-04-24
+  zeit: 10:00
+- 
+  datum: 2020-04-25
+  zeit: 15:00
+- 
+  datum: 2020-04-26
+  zeit: 15:00
+- 
+  datum: 2020-04-28
+  zeit: 10:00
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "Four dancers and a musician dare to do something. They take a step, dare to take small big jumps, sometimes they hesitate and maybe discover something new about themselves.",
+        "id": "_tNVRKx8fW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "It's about obstacles, challenges and how to overcome them - or not. Everyone does this in their own way and faces different hurdles. Some obstacles are set by society, others arise in our head. What are obstacles anyway and how important is it to leave them behind? Do we find together more easily a solution to a problem that seems impossible for us alone?",
+        "id": "_kZHv4poLC",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists:
+
+- 
+  role: Tanz
+  name: >
+    Mbegne Kassé (Ben-J), Ana Laura Lozza,
+    N.N
+- 
+  role: Livemusik/Komposition
+  name: 'Ketan Bhatti '
+- 
+  role: Bühne/Kostüm
+  name: Giulia Paolucci
+
+----
+
+Staffs: 
+
+----
+
+Subtext:
+
+[
+    {
+        "attrs": [],
+        "content": "The presentation on 26.4. will be followed by a <strong>workshop for families</strong> on the topic of obstacles.",
+        "id": "_6y5ws3b81",
+        "type": "paragraph"
+    }
+]

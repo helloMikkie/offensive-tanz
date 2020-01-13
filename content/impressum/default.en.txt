@@ -7,44 +7,38 @@ Text:
 [
     {
         "attrs": [],
-        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o das programm GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin",
+        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o Studio36 GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin",
         "id": "_UKibqKSgZ",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "<a href=\"http://localhost:8888/info@offensive-tanz.de\">info[at]offensive-tanz.de</a>",
+        "content": "<a href=\"http://localhost:8888/info@offensive-tanz.de\">info[at]offensive-</a><a href=\"mailto:info@offensive-tanz.de\">tanz</a><a href=\"http://localhost:8888/info@offensive-tanz.de\">.de</a>",
         "id": "_un3QTTZzQ",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Represented by the management: <br>Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
+        "content": "<strong>Register Court: </strong>Amtsgericht Berlin-Charlottenburg HRB 212825",
+        "id": "_f9iby6ztz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Represented by Executive Board: </strong>Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
         "id": "_gfrNJeqXf",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "editorial staff",
-        "id": "_h6zq2qc8w",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "Katharina Neumann, Canan Erek",
-        "id": "_o35FMwwGW",
+        "content": "<strong>Editorial Work:</strong> Katharina Neumann, Canan Erek",
+        "id": "_1lp438e8x",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Concept and design",
-        "id": "_tzke6v6w1",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "<a href=\"http://www.heimannundschwantes.de/\">Heimann + Schwantes</a>",
-        "id": "_kKZ0uWpNJ",
+        "content": "<strong>Concept and design: </strong><a href=\"http://www.heimannundschwantes.de/\">Heimann + Schwantes</a>",
+        "id": "_e7a9of05l",
         "type": "paragraph"
     },
     {
@@ -55,37 +49,37 @@ Text:
     },
     {
         "attrs": [],
-        "content": "1. Content of the online offer",
+        "content": "1. Content of Website",
         "id": "_yOeG0lIIZ",
         "type": "h3"
     },
     {
         "attrs": [],
-        "content": "The authors assume no liability for the topicality, correctness, completeness or quality of the information provided. Liability claims against the authors, which refer to material or immaterial damage caused by the use or non-use of the information provided or by the use of incorrect and incomplete information, are fundamentally excluded, unless the authors can prove that they are intentional or grossly negligent All offers are subject to change and non-binding. The authors expressly reserve the right to change, add to, or delete parts of the pages or the entire offer or to temporarily or permanently cease publication without prior notice.",
+        "content": "The authors do not assume any liability for the topicality, correctness, completeness or quality of the information provided. Liability claims against the authors, which refer to material or non-material damage caused by the use or non-use of the information provided or by the use of incorrect or incomplete information, are excluded in principle, unless the authors are not demonstrably at fault due to intent or gross negligence. The authors expressly reserve the right to change, supplement or delete parts of the pages or the entire offer without special notice or to discontinue publication temporarily or permanently.",
         "id": "_P4BSwYlJZ",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "2. References and links",
+        "content": "2. References and Links",
         "id": "_eEEUfWNGy",
         "type": "h3"
     },
     {
         "attrs": [],
-        "content": "In the case of direct or indirect references to external websites (\"hyperlinks\") that lie outside the area of \u200b\u200bresponsibility of the authors, a liability obligation would only come into force if the authors were aware of the content and it was technically possible and reasonable for them to prevent use in the event of illegal content. The authors hereby expressly declare that at the time of linking, no illegal content was recognizable on the linked pages. The authors have no influence on the current and future design, content or authorship of the linked pages. Therefore, you hereby expressly distance yourself from all content of all linked / connected pages that were changed after the link was created. This statement applies to all links and references set within the company's own website as well as to third-party entries in guest books, discussion forums, link directories, mailing lists and all other forms of databases set up by the authors, whose content can be accessed externally. For illegal, incorrect or incomplete content and in particular for damage resulting from the use or non-use of information provided in this way, the provider of the page to which reference is made is solely liable, not the one who merely refers to the respective publication via links.",
+        "content": "The authors are not responsible for any contents linked or referred to from their pages - unless they have full knowledge of illegal contents and would be able to prevent the visitors of their site from viewing those pages. If any damage occurs by the use of information presented there, only the authors of the respective pages might be liable, not the one who has linked to these pages. The authors have no influence on the current and future design, content or authorship of the linked pages. Therefore, they hereby expressly distance themselves from all contents of all linked pages that have been changed since the link was created. This statement applies to all links and references set within their own Internet offer as well as to external entries in guest books, discussion forums, link directories, mailing lists and all other forms of databases set up by the authors, to whose content external write access is possible. For illegal, incorrect or incomplete contents and in particular for damages resulting from the use or non-use of such information, the provider of the site to which reference is made is solely liable, not the person who merely refers to the respective publication via links.",
         "id": "_hZI9FiGir",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "3. Copyright and trademark law",
-        "id": "_jAkNrZBk8",
+        "content": "3. Authorship and Acknowledgments",
+        "id": "_o0lnuxz1a",
         "type": "h3"
     },
     {
         "attrs": [],
-        "content": "The authors endeavor to observe the copyrights of the pictures, graphics, sound documents, video sequences and texts used in all publications, to use pictures, graphics, sound documents, video sequences and texts created by them or to use license-free graphics, sound documents, video sequences and texts All brands and trademarks mentioned on the website and possibly protected by third parties are subject without restriction to the provisions of the applicable trademark law and the ownership rights of the respective registered owner. The mere mentioning does not lead to the conclusion that trademarks are not protected by the rights of third parties! The copyright for published objects created by the authors remains solely with the authors of the pages. Duplication or use of such graphics, sound documents, video sequences and texts in other electronic or printed publications is not permitted without the express consent of the authors.",
+        "content": "The authors endeavour to observe the copyrights of the images, graphics, sound documents, video sequences and texts used in all publications, to use images, graphics, sound documents, video sequences and texts created by themselves or to use licence-free graphics, sound documents, video sequences and texts. All brand names and trademarks mentioned within the Internet offer and possibly protected by third parties are subject without restriction to the provisions of the respective valid trademark law and the ownership rights of the respective registered owners. The mere mention of a trademark does not imply that it is not protected by third party rights! The copyright for published objects created by the authors themselves remains solely with the authors of the pages. Any duplication or use of objects such as diagrams, sounds or texts in other electronic or printed publications is not permitted without the author's agreement.",
         "id": "_tO4wUGzcz",
         "type": "paragraph"
     }

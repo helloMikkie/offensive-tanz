@@ -2,7 +2,7 @@ Title: Purple
 
 ----
 
-Subtitle: International dance festival <br> for young audiences
+Subtitle: International Dance Festival <br> for a young audiences
 
 ----
 
@@ -11,37 +11,37 @@ Text:
 [
     {
         "attrs": [],
-        "content": "We warmly welcome everyone to watch and share contemporary dance for a young audience: school classes, families, parents, teachers, dance enthusiasts, newcomers to dance.",
+        "content": "We welcome everyone to come and watch contemporary dance for young audiences and to exchange ideas together: school classes, families, parents, teachers, dance enthusiasts, and dance newcomers.",
         "id": "_lD8MAmBdx",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Since 2017 it has been our goal to inspire children and young people to dance with our festival and to make them curious about contemporary performances. We want to address everyone, boys and girls alike, and this is the idea behind the name of the festival. Purple is not blue and not pink, purple has both colors in it and does not differentiate between boys and girls. Both genders are equal to one another. PURPLE is there for everyone.",
+        "content": "Since 2017, it has been our passion to inspire children and adolescents to find their own passion for dancing, and to make them curious about dance and modern performance. Our name reflects the fact that we don\u2019t want to reach boys or girls exclusively. Purple is neither pink nor is it blue, but a mixture between both colors, thereby forgoing the traditional color code and treating all genders as equal. PURPLE is for everybody.",
         "id": "_yV2fi8tAR",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "The mental preoccupation with dance as a spectator demands and promotes emotional and spatial perception and requires abstract thinking. Every year we put together a fun and dynamic stage program with various aesthetic approaches and content-related issues from the international, contemporary dance scene.",
+        "content": "By really engaging with a dance performance, audiences enhance their emotional and spatial perception, as it requires more abstract cognitive abilities than you might think. We curate a sensual and dynamic program every year, incorporating a number of different aesthetic approaches as well as addressing questions that are relevant in the international contemporary dance scene.",
         "id": "_IBYc9H37M",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "We not only want to sharpen the viewing habits of children and adolescents, we also want to encourage them to participate, empathize and think ahead. That is why, in addition to a professional stage program, we also offer a supporting program for each play and an additional dance workshop for young people at the weekend.",
+        "content": "Our goal is not only to sharpen the kids\u2019 perceptive abilities, but to encourage them to participate, to empathize and to reflect on what they have seen. This is why we not only offer performances, but also framework programs for every piece we show. In addition, there are dance workshops for adolescents on the weekends.",
         "id": "_eJ2IKXARS",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "We also give teachers and educators the opportunity to develop a basic understanding of contemporary dance. The free workshop is intended to encourage them to continue studying dance within their classes after visiting the festival.",
+        "content": "With us, school and kindergarten teachers can acquire a basic understanding of modern dance in a free of charge workshop. It\u2019s designed to encourage them to integrate dance in their everyday work with their class some more after attending the festival.",
         "id": "_Ysm6U01Sx",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "<a href=\"https://purple-tanzfestival.de/\">purple-tanzfestival</a>",
+        "content": "\u2192 <a href=\"https://purple-tanzfestival.de/en/dance-festival/\">Purple\u2013International Dance Festival for a young audience</a>",
         "id": "_bti91g9gt",
         "type": "paragraph"
     }

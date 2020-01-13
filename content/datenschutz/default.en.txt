@@ -1,4 +1,4 @@
-Title: Privacy
+Title: Privacy Policy
 
 ----
 
@@ -7,422 +7,680 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Angaben gem\u00e4\u00df \u00a7 5 TMG:<br>Verantwortlich f\u00fcr den Inhalt nach \u00a7 55 Abs. 2 RStV:<br>",
-        "id": "_95fKdEmpG",
+        "content": "We are very delighted that you have shown interest in our enterprise. Data protection is of a particularly high priority for the management of the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt). The use of the Internet pages of the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) is possible without any indication of personal data; however, if a data subject wants to use special enterprise services via our website, processing of personal data could become necessary. If the processing of personal data is necessary and there is no statutory basis for such processing, we generally obtain consent from the data subject.",
+        "id": "_mDdfvj9uu",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o das programm GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin",
-        "id": "_mq1zkrdae",
+        "content": "The processing of personal data, such as the name, address, e-mail address, or telephone number of a data subject shall always be in line with the General Data Protection Regulation (GDPR), and in accordance with the country-specific data protection regulations applicable to the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt). By means of this data protection declaration, our enterprise would like to inform the general public of the nature, scope, and purpose of the personal data we collect, use and process. Furthermore, data subjects are informed, by means of this data protection declaration, of the rights to which they are entitled.",
+        "id": "_nzBqOjfba",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Vertreten durch die Gesch\u00e4ftsf\u00fchrung: <br>Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
-        "id": "_ulRj42JGj",
+        "content": "As the controller, the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) has implemented numerous technical and organizational measures to ensure the most complete protection of personal data processed through this website. However, Internet-based data transmissions may in principle have security gaps, so absolute protection may not be guaranteed. For this reason, every data subject is free to transfer personal data to us via alternative means, e.g. by telephone.",
+        "id": "_UjLnCVvA5",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Kontakt:",
-        "id": "_kql5u5rhd",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "<a href=\"mailto:info@offensive-tanz.de\">info@offensive-tanz.de</a><br><br>Registereintrag:<br>Eintragung im Handelsregister. Registergericht:Amtsgericht Charlottenburg Registernummer: 135079<br>Steuernummer: 27/602/55947",
-        "id": "_cn3Y2cLx8",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.",
-        "id": "_4FCLxNNVR",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Datenschutzerkl\u00e4rung",
-        "id": "_2iqhhcoje",
+        "content": "1. Definitions",
+        "id": "_hphp2xcwj",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "1) Name und Anschrift des f\u00fcr die Verarbeitung Verantwortlichen",
-        "id": "_q33rrfve5",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "Wir freuen uns sehr \u00fcber Ihr Interesse an unserem Unternehmen. Der Schutz Ihrer personenbezogenen Daten ist uns wichtig, wir m\u00f6chten, dass Sie sich beim Besuch unserer Internetseiten sicher f\u00fchlen. Im Weiteren erl\u00e4utern wir Ihnen, welche Informationen wir beim Besuch unserer Webseiten oder bei Kontaktaufnahme erfassen und wie diese genutzt werden. Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare nat\u00fcrliche Person beziehen. Verantwortliche*r im Sinne der EU-Datenschutzgrundverordnung (DSGVO) ist diejenige nat\u00fcrliche oder juristische Person, die allein oder gemeinsam mit anderen \u00fcber die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet.<br>F\u00fcr personenbezogene Daten, die der Anbieter dieser Homepage verarbeitet, ist Verantwortlicher im Sinne der DSGVO:",
-        "id": "_pxKl5e2Wi",
+        "content": "The data protection declaration of the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) is based on the terms used by the European legislator for the adoption of the General Data Protection Regulation (GDPR). Our data protection declaration should be legible and understandable for the general public, as well as our customers and business partners. To ensure this, we would like to first explain the terminology used.",
+        "id": "_a5LSZQqtd",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o das programm GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin<br>E-Mail: <a href=\"mailto:info@offensive-tanz.de\">info@offensive-tanz.de</a><br>Website: <a href=\"https://offensive-tanz.de\">www.offensive-tanz.de</a>",
-        "id": "_evsjMi6Rs",
+        "content": "In this data protection declaration, we use, inter alia, the following terms:",
+        "id": "_gAJqA4KJ5",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "2) Begriffsbestimmungen",
-        "id": "_3olsdebyo",
+        "content": "a) Personal data",
+        "id": "_k2rvih999",
         "type": "h3"
     },
     {
         "attrs": [],
-        "content": "Die Datenschutzerkl\u00e4rung der OfTa Offensive Tanz Berlin gUG beruht auf den Begrifflichkeiten, die durch den Europ\u00e4ischen Richtlinien- und Verordnungsgeber beim Erlass der Datenschutz-Grundverordnung (DS-GVO) verwendet wurden. Unsere Datenschutzerkl\u00e4rung soll sowohl f\u00fcr die \u00d6ffentlichkeit als auch f\u00fcr unsere Kunden und Gesch\u00e4ftspartner einfach lesbar und verst\u00e4ndlich sein. Um dies zu gew\u00e4hrleisten, m\u00f6chten wir vorab die verwendeten Begrifflichkeiten erl\u00e4utern. Wir verwenden in dieser Datenschutzerkl\u00e4rung unter anderem die folgenden Begriffe:",
-        "id": "_IJoJby6qA",
+        "content": "Personal data means any information relating to an identified or identifiable natural person (\u201cdata subject\u201d). An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.",
+        "id": "_eDtJymzJ2",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "a) personenbezogene Daten",
-        "id": "_mryhlwovi",
+        "content": "b) Data subject",
+        "id": "_5tsm5gbyy",
         "type": "h3"
     },
     {
         "attrs": [],
-        "content": "Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare nat\u00fcrliche Person (im Folgenden \u201ebetroffene Person\u201c) beziehen. Als identifizierbar wird eine nat\u00fcrliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identit\u00e4t dieser nat\u00fcrlichen Person sind, identifiziert werden kann.",
-        "id": "_rm9JZbpqj",
+        "content": "Data subject is any identified or identifiable natural person, whose personal data is processed by the controller responsible for the processing.",
+        "id": "_XiOOLryQe",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "b) betroffene Person",
-        "id": "_eekb1rlsj",
+        "content": "c) Processing",
+        "id": "_67jyonvqj",
         "type": "h3"
     },
     {
         "attrs": [],
-        "content": "Betroffene Person ist jede identifizierte oder identifizierbare nat\u00fcrliche Person, deren personenbezogene Daten von dem f\u00fcr die Verarbeitung Verantwortlichen verarbeitet werden.",
-        "id": "_dDDW7aStK",
+        "content": "Processing is any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.",
+        "id": "_mEbuwvdQ2",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "c) Verarbeitung",
-        "id": "_or0vq92ic",
+        "content": "d) Restriction of processing",
+        "id": "_zu92legfg",
         "type": "h3"
     },
     {
         "attrs": [],
-        "content": "Verarbeitung ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgef\u00fchrte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung oder Ver\u00e4nderung, das Auslesen, das Abfragen, die Verwendung, die Offenlegung durch \u00dcbermittlung, Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder die Verkn\u00fcpfung, die Einschr\u00e4nkung, das L\u00f6schen oder die Vernichtung.",
-        "id": "_2cUCPf2a6",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "d) Einschr\u00e4nkung der Verarbeitung",
-        "id": "_1ozpbnwx9",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "Einschr\u00e4nkung der Verarbeitung ist die Markierung gespeicherter personenbezogener Daten mit dem Ziel, ihre k\u00fcnftige Verarbeitung einzuschr\u00e4nken.",
-        "id": "_6DdliSn8D",
+        "content": "Restriction of processing is the marking of stored personal data with the aim of limiting their processing in the future.",
+        "id": "_WnFPZBzoY",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "e) Profiling",
-        "id": "_ql245scd7",
+        "id": "_nla7b9zun",
         "type": "h3"
     },
     {
         "attrs": [],
-        "content": "Profiling ist jede Art der automatisierten Verarbeitung personenbezogener Daten, die darin besteht, dass diese personenbezogenen Daten verwendet werden, um bestimmte pers\u00f6nliche Aspekte, die sich auf eine nat\u00fcrliche Person beziehen, zu bewerten, insbesondere, um Aspekte bez\u00fcglich Arbeitsleistung, wirtschaftlicher Lage, Gesundheit, pers\u00f6nlicher Vorlieben, Interessen, Zuverl\u00e4ssigkeit, Verhalten, Aufenthaltsort oder Ortswechsel dieser nat\u00fcrlichen Person zu analysieren oder vorherzusagen.",
-        "id": "_PvtaJmtZc",
+        "content": "Profiling means any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyse or predict aspects concerning that natural person's performance at work, economic situation, health, personal preferences, interests, reliability, behaviour, location or movements.",
+        "id": "_37iHMbWqE",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "f) Pseudonymisierung",
-        "id": "_zm4jkvisw",
+        "content": "f) Pseudonymisation",
+        "id": "_qo2eqhkqi",
         "type": "h3"
     },
     {
         "attrs": [],
-        "content": "Pseudonymisierung ist die Verarbeitung personenbezogener Daten in einer Weise, auf welche die personenbezogenen Daten ohne Hinzuziehung zus\u00e4tzlicher Informationen nicht mehr einer spezifischen betroffenen Person zugeordnet werden k\u00f6nnen, sofern diese zus\u00e4tzlichen Informationen gesondert aufbewahrt werden und technischen und organisatorischen Ma\u00dfnahmen unterliegen, die gew\u00e4hrleisten, dass die personenbezogenen Daten nicht einer identifizierten oder identifizierbaren nat\u00fcrlichen Person zugewiesen werden.",
-        "id": "_45gg5vE4L",
+        "content": "Pseudonymisation is the processing of personal data in such a manner that the personal data can no longer be attributed to a specific data subject without the use of additional information, provided that such additional information is kept separately and is subject to technical and organisational measures to ensure that the personal data are not attributed to an identified or identifiable natural person.",
+        "id": "_hQ9GGWnTE",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "g) Verantwortlicher oder f\u00fcr die Verarbeitung Verantwortlicher",
-        "id": "_vewy7r2uk",
+        "content": "g) Controller or controller responsible for the processing",
+        "id": "_ek4kmo5g5",
         "type": "h3"
     },
     {
         "attrs": [],
-        "content": "Verantwortlicher oder f\u00fcr die Verarbeitung Verantwortlicher ist die nat\u00fcrliche oder juristische Person, Beh\u00f6rde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen \u00fcber die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet. Sind die Zwecke und Mittel dieser Verarbeitung durch das Unionsrecht oder das Recht der Mitgliedstaaten vorgegeben, so kann der Verantwortliche beziehungsweise k\u00f6nnen die bestimmten Kriterien seiner Benennung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten vorgesehen werden.",
-        "id": "_9ETco0Lgg",
+        "content": "Controller or controller responsible for the processing is the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law.",
+        "id": "_fMKUf0HYJ",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "h) Auftragsverarbeiter",
-        "id": "_195qn6zw9",
+        "content": "h) Processor",
+        "id": "_7o4asoa06",
         "type": "h3"
     },
     {
         "attrs": [],
-        "content": "Auftragsverarbeiter ist eine nat\u00fcrliche oder juristische Person, Beh\u00f6rde, Einrichtung oder andere Stelle, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet.",
-        "id": "_SAYGx9z36",
+        "content": "Processor is a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.",
+        "id": "_SUegTu500",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "i) Empf\u00e4nger",
-        "id": "_jdu9ytdno",
+        "content": "i) Recipient",
+        "id": "_mznqswmcg",
         "type": "h3"
     },
     {
         "attrs": [],
-        "content": "Empf\u00e4nger ist eine nat\u00fcrliche oder juristische Person, Beh\u00f6rde, Einrichtung oder andere Stelle, der personenbezogene Daten offengelegt werden, unabh\u00e4ngig davon, ob es sich bei ihr um einen Dritten handelt oder nicht. Beh\u00f6rden, die im Rahmen eines bestimmten Untersuchungsauftrags nach dem Unionsrecht oder dem Recht der Mitgliedstaaten m\u00f6glicherweise personenbezogene Daten erhalten, gelten jedoch nicht als Empf\u00e4nger.",
-        "id": "_sFrS0I1ZZ",
+        "content": "Recipient is a natural or legal person, public authority, agency or another body, to which the personal data are disclosed, whether a third party or not. However, public authorities which may receive personal data in the framework of a particular inquiry in accordance with Union or Member State law shall not be regarded as recipients; the processing of those data by those public authorities shall be in compliance with the applicable data protection rules according to the purposes of the processing.",
+        "id": "_WUpYaaTFl",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "j) Dritter",
-        "id": "_giejmcf9l",
+        "content": "j) Third party",
+        "id": "_zu9qb3rb8",
         "type": "h3"
     },
     {
         "attrs": [],
-        "content": "Dritter ist eine nat\u00fcrliche oder juristische Person, Beh\u00f6rde, Einrichtung oder andere Stelle au\u00dfer der betroffenen Person, dem Verantwortlichen, dem Auftragsverarbeiter und den Personen, die unter der unmittelbaren Verantwortung des Verantwortlichen oder des Auftragsverarbeiters befugt sind, die personenbezogenen Daten zu verarbeiten.",
-        "id": "_ckst2lk3b",
+        "content": "Third party is a natural or legal person, public authority, agency or body other than the data subject, controller, processor and persons who, under the direct authority of the controller or processor, are authorised to process personal data.",
+        "id": "_4WpdWYd9D",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "k) Einwilligung",
-        "id": "_nvfrrpgc3",
+        "content": "k) Consent",
+        "id": "_71kaxfxa2",
         "type": "h3"
     },
     {
         "attrs": [],
-        "content": "Einwilligung ist jede von der betroffenen Person freiwillig f\u00fcr den bestimmten Fall in informierter Weise und unmissverst\u00e4ndlich abgegebene Willensbekundung in Form einer Erkl\u00e4rung oder einer sonstigen eindeutigen best\u00e4tigenden Handlung, mit der die betroffene Person zu verstehen gibt, dass sie mit der Verarbeitung der sie betreffenden personenbezogenen Daten einverstanden ist.",
-        "id": "_a0xNHrP2n",
+        "content": "Consent of the data subject is any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.",
+        "id": "_sYMtpl0rq",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "3) Rechtm\u00e4\u00dfigkeit der Verarbeitung",
-        "id": "_qgb04b726",
+        "content": "2. Name and Address of the controller",
+        "id": "_h8cmxdijl",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "Die Verarbeitung personenbezogener Daten ist nur rechtm\u00e4\u00dfig, wenn f\u00fcr die Verarbeitung eine Rechtsgrundlage besteht. Rechtsgrundlage f\u00fcr die Verarbeitung k\u00f6nnen gem\u00e4\u00df Artikel 6 Abs. 1 lit. a \u2013 f DSGVO insbesondere sein:",
-        "id": "_w19d323n8",
+        "content": "Controller for the purposes of the General Data Protection Regulation (GDPR), other data protection laws applicable in Member states of the European Union and other provisions related to data protection is:",
+        "id": "_ZSuTml8gd",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "a. Die betroffene Person hat ihre Einwilligung zu der Verarbeitung der sie betreffenden personenbezogenen Daten f\u00fcr einen oder mehrere bestimmte Zwecke gegeben;",
-        "id": "_ou8rh1489",
-        "type": "ul"
+        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)",
+        "id": "_H9XfxdiPp",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "b. die Verarbeitung ist f\u00fcr die Erf\u00fcllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, oder zur Durchf\u00fchrung vorvertraglicher Ma\u00dfnahmen erforderlich, die auf Anfrage der betroffenen Person erfolgen;",
-        "id": "_43ni4sg4t",
-        "type": "ul"
+        "content": "Oranienstra\u00dfe 183 c/o das programm GmbH",
+        "id": "_pWmtWVTY7",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "c. die Verarbeitung ist zur Erf\u00fcllung einer rechtlichen Verpflichtung erforderlich, der der Verantwortliche unterliegt;",
-        "id": "_q7k1k54mw",
-        "type": "ul"
+        "content": "10999 Berlin",
+        "id": "_tMreOxwJa",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "d. die Verarbeitung ist erforderlich, um lebenswichtige Interessen der betroffenen Person oder einer anderen nat\u00fcrlichen Person zu sch\u00fctzen;",
-        "id": "_d5hcu56az",
-        "type": "ul"
+        "content": "Deutschland",
+        "id": "_Uc3pe0Jup",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "e. die Verarbeitung ist f\u00fcr die Wahrnehmung einer Aufgabe erforderlich, die im \u00f6ffentlichen Interesse liegt oder in Aus\u00fcbung \u00f6ffentlicher Gewalt erfolgt, die dem Verantwortlichen \u00fcbertragen wurde;",
-        "id": "_w03gvnft6",
-        "type": "ul"
+        "content": "Email: info@offensive-tanz.de",
+        "id": "_1yN9XNzlj",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "f. die Verarbeitung ist zur Wahrung der berechtigten Interessen des Verantwortlichen oder eines Dritten erforderlich, sofern nicht die Interessen oder Grundrechte und Grundfreiheiten der betroffenen Person, die den Schutz personenbezogener Daten erfordern, \u00fcberwiegen, insbesondere dann, wenn es sich bei der betroffenen Person um ein Kind handelt.",
-        "id": "_6z5xkclha",
-        "type": "ul"
+        "content": "Website: www.offensive-tanz.de",
+        "id": "_ChEY0QtRD",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "4) Erhebung personenbezogener Daten bei Besuch unserer Website",
-        "id": "_3fpnqnqi6",
+        "content": "3. Cookies",
+        "id": "_t08s1e97h",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "Bei der blo\u00df informatorischen Nutzung der Website, also wenn Sie sich nicht registrieren oder uns anderweitig Informationen \u00fcbermitteln, erheben wir nur die personenbezogenen Daten, die Ihr Browser an unseren Server \u00fcbermittelt. Wenn Sie unsere Website betrachten m\u00f6chten, erheben wir die folgenden Daten, die f\u00fcr uns technisch erforderlich sind, um Ihnen unsere Website anzuzeigen und die Stabilit\u00e4t und Sicherheit zu gew\u00e4hrleisten (Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DSGVO):",
-        "id": "_tr5w39mnw",
+        "content": "The Internet pages of the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) use cookies. Cookies are text files that are stored in a computer system via an Internet browser.",
+        "id": "_qIT5QsNAl",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "IP-Adresse \u2022 Datum und Uhrzeit der Anfrage",
-        "id": "_jlni9riey",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "Zeitzonendifferenz zur Greenwich Mean Time (GMT)",
-        "id": "_q9zkz8gwd",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "Inhalt der Anforderung (konkrete Seite)",
-        "id": "_602bhbprw",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "Zugriffsstatus/HTTP-Statuscode",
-        "id": "_vkd82ckye",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "jeweils \u00fcbertragene Datenmenge",
-        "id": "_h93v37qmg",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "Website, von der die Anforderung kommt",
-        "id": "_1zgksbjs8",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "Browser \u2022 Betriebssystem und dessen Oberfl\u00e4che",
-        "id": "_p7i1q6sox",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "Sprache und Version der Browsersoftware.",
-        "id": "_02zmdoylp",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "Sonstige Zwecke der Verarbeitung sind u.a. die Beantwortung von Kontaktanfragen, Kommunikation mit Nutzern und Kunden, Anbahnung und Bearbeitung von Ticketbuchungen, Workshops und anderen Angeboten, Anmeldung f\u00fcr Newsletter. Die jeweiligen Zwecke sind den einzelnen Abs\u00e4tzen zu entnehmen.",
-        "id": "_jg2b57j7u",
+        "content": "Many Internet sites and servers use cookies. Many cookies contain a so-called cookie ID. A cookie ID is a unique identifier of the cookie. It consists of a character string through which Internet pages and servers can be assigned to the specific Internet browser in which the cookie was stored. This allows visited Internet sites and servers to differentiate the individual browser of the dats subject from other Internet browsers that contain other cookies. A specific Internet browser can be recognized and identified using the unique cookie ID.",
+        "id": "_gy6wslNhW",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "5) Hosting-Dienstleister",
-        "id": "_9zq4zdg8g",
+        "content": "Through the use of cookies, the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) can provide the users of this website with more user-friendly services that would not be possible without the cookie setting.",
+        "id": "_VtRtekPbx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "By means of a cookie, the information and offers on our website can be optimized with the user in mind. Cookies allow us, as previously mentioned, to recognize our website users. The purpose of this recognition is to make it easier for users to utilize our website. The website user that uses cookies, e.g. does not have to enter access data each time the website is accessed, because this is taken over by the website, and the cookie is thus stored on the user's computer system. Another example is the cookie of a shopping cart in an online shop. The online store remembers the articles that a customer has placed in the virtual shopping cart via a cookie.",
+        "id": "_QmCGGBOh7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The data subject may, at any time, prevent the setting of cookies through our website by means of a corresponding setting of the Internet browser used, and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. If the data subject deactivates the setting of cookies in the Internet browser used, not all functions of our website may be entirely usable.",
+        "id": "_5OPXzap5D",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "4. Collection of general data and information",
+        "id": "_4vull2mlu",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "Als technische Dienstleistung f\u00fcr den Betrieb unserer Homepage im Internet nehmen wir die Leistungen von Strato AG - Pascalstra\u00dfe 10 - 10587 Berlin als Auftragsverarbeiter gem\u00e4\u00df Artikel 28 DSGVO in Anspruch: (link: https://www.strato.de/datenschutz/ text: https://www.strato.de/datenschutz/)",
-        "id": "_DLXB8jALo",
+        "content": "The website of the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) collects a series of general data and information when a data subject or automated system calls up the website. This general data and information are stored in the server log files. Collected may be (1) the browser types and versions used, (2) the operating system used by the accessing system, (3) the website from which an accessing system reaches our website (so-called referrers), (4) the sub-websites, (5) the date and time of access to the Internet site, (6) an Internet protocol address (IP address), (7) the Internet service provider of the accessing system, and (8) any other similar data and information that may be used in the event of attacks on our information technology systems.",
+        "id": "_A1iyHjUw6",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "6 ) Nutzung unseres Ticketbuchungssystems",
-        "id": "_h7p3rsxy5",
-        "type": "h2"
-    },
-    {
-        "attrs": [],
-        "content": "(1) Wir setzen das Buchungssystem des Anbieters \u201eBilleto\u201c - Billeto GmbH, Richardplatz 1, 12055 Berlin - auf Grundlage unserer berechtigten Interessen (effiziente und schnelle Bearbeitung der Ticketbuchungen) ein. Dies bedeutet, dass Sie vor einem Bestellprozess zu diesem Anbieter weitergeleitet werden um Ihre Bestellung auszuf\u00fchren. Weitere Informationen zu den Datenschutzbestimmungen von Billeto finden Sie hier: http://www.billeto.net<br>(2) Wenn Sie in unserem Webshop Tickets oder Gutscheine f\u00fcr Veranstaltungen bestellen m\u00f6chten, ist es f\u00fcr den Vertragsabschluss erforderlich, dass Sie Ihre pers\u00f6nlichen Daten angeben, die wir f\u00fcr die Abwicklung Ihrer Bestellung ben\u00f6tigen. F\u00fcr die Abwicklung der Vertr\u00e4ge notwendige Pflichtangaben sind gesondert markiert, weitere Angaben sind freiwillig. Die von Ihnen angegebenen Daten verarbeitet Billeto zur Abwicklung Ihrer Bestellung und werden f\u00fcr die Buchung betreffende relevante Kontaktaufnahmen (z.B. Veranstaltungsausfall, Beantwortung ihrer Anfragen im Bemerkungsfeld, Korrektur von Preiskategorien, Spielort\u00e4nderungen u.\u00e4.) von Mitarbeitern der Offensive Tanz f\u00fcr junges Publikum Berlin genutzt. Rechtsgrundlage hierf\u00fcr ist Art. 6 Abs. 1 S. 1 lit. b DSGVO.<br>(3) Wir sind aufgrund handels- und steuerrechtlicher Vorgaben verpflichtet, Ihre Adress-, Zahlungs- und Bestelldaten f\u00fcr die Dauer von zehn Jahren zu speichern.",
-        "id": "_Zbr6m6NKy",
+        "content": "When using these general data and information, the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) does not draw any conclusions about the data subject. Rather, this information is needed to (1) deliver the content of our website correctly, (2) optimize the content of our website as well as its advertisement, (3) ensure the long-term viability of our information technology systems and website technology, and (4) provide law enforcement authorities with the information necessary for criminal prosecution in case of a cyber-attack. Therefore, the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) analyzes anonymously collected data and information statistically, with the aim of increasing the data protection and data security of our enterprise, and to ensure an optimal level of protection for the personal data we process. The anonymous data of the server log files are stored separately from all personal data provided by a data subject.",
+        "id": "_Cwgek8EyB",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "7) Newsletter",
-        "id": "_wy9m62aw3",
+        "content": "5. Registration on our website",
+        "id": "_8qqbte3uz",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "Abonnement unseres Newsletters: Auf unserer Internetseite wird den Benutzern die M\u00f6glichkeit einger\u00e4umt, einen oder mehrere Newsletter zu abonnieren. Als Newslettersystem wird das System kulturkurier.de der data kulturlink ag (Berlin) verwendet. Hierbei wird zur rechtssicheren und datenschutzkonformen Gestaltung das sog. double-optin Verfahren eingesetzt. Hierbei erh\u00e4lt der potentielle Empf\u00e4nger zun\u00e4chst eine E-Mail mit einem Best\u00e4tigungslink. Erst nach erfolgter Best\u00e4tigung wird die Adresse in den Verteiler aufgenommen. Die Einwilligung in die Speicherung Ihrer Daten sowie die Nutzung Ihrer Adresse f\u00fcr den Versand k\u00f6nnen Sie \u00fcber den \u201eAbmelden Link\u201c am Ende jedes Newsletters widerrufen. Weitere Informationen finden Sie hier: http://hilfe.kulturkurier.de/kulturnewsletter/ Welche personenbezogenen Daten bei der Bestellung des Newsletters an den f\u00fcr die Verarbeitung Verantwortlichen \u00fcbermittelt werden, ergibt sich aus der hierzu verwendeten Eingabemaske. Bei der Anmeldung zum Newsletter speichern wir ferner die vom Internet-Service-Provider (ISP) vergebene IP-Adresse des von der betroffenen Person zum Zeitpunkt der Anmeldung verwendeten Computersystems sowie das Datum und die Uhrzeit der Anmeldung. Die Erhebung dieser Daten ist erforderlich, um den (m\u00f6glichen) Missbrauch der E-Mail-Adresse einer betroffenen Person zu einem sp\u00e4teren Zeitpunkt nachvollziehen zu k\u00f6nnen und dient deshalb der rechtlichen Absicherung des f\u00fcr die Verarbeitung Verantwortlichen. Die im Rahmen einer Anmeldung zum Newsletter erhobenen personenbezogenen Daten werden ausschlie\u00dflich zum Versand unseres Newsletters verwendet. Ferner k\u00f6nnten Abonnenten des Newsletters per E-Mail informiert werden, sofern dies f\u00fcr den Betrieb des Newsletter-Dienstes oder eine diesbez\u00fcgliche Registrierung erforderlich ist, wie dies im Falle von \u00c4nderungen am Newsletterangebot oder bei der Ver\u00e4nderung der technischen Gegebenheiten der Fall sein k\u00f6nnte. Es erfolgt keine Weitergabe der im Rahmen des Newsletter-Dienstes erhobenen personenbezogenen Daten an Dritte. F\u00fcr das Tracking von \u00d6ffnungs- und Klickraten setzen wir im Newsletter (nicht aber in den Systemmails zur An- und Abmelung) sog. tracking codes ein, um das \u00d6ffnen der Newsletter und das Aufrufen von Weblinks zu erfassen. Die Erfassung wird dabei in einer pseudoynmisierten Speicherung vorgenommen, indem wir alle pers\u00f6nlichen Daten (z.B. die E-Mail Adresse) durch eine Kennzahl (Pseudonym) ersetzen. Dadurch speichern wir keine pers\u00f6nlichen Daten zusammen mit den Nutzungsdaten wie der \u00d6ffnung der Newsletter oder das Aufrufen von Weblinks. Ferner ist sichergestellt, dass eine Zusammenf\u00fchrung dieser Daten auch sp\u00e4ter nicht erfolgen kann. Wenn Sie als Empf\u00e4nger diesem pseudoynmisierten tracking widersprechen m\u00f6chten, k\u00f6nnen Sie sich \u00fcber den opt-out link am Ende jedes Newsletters von der Liste austragen.",
-        "id": "_1b1YzsPrV",
+        "content": "The data subject has the possibility to register on the website of the controller with the indication of personal data. Which personal data are transmitted to the controller is determined by the respective input mask used for the registration. The personal data entered by the data subject are collected and stored exclusively for internal use by the controller, and for his own purposes. The controller may request transfer to one or more processors (e.g. a parcel service) that also uses personal data for an internal purpose which is attributable to the controller.",
+        "id": "_PcgLmhl6W",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "8) Kontaktformular/ Anmeldeformular / Kontaktaufnahme",
-        "id": "_jhojacw3y",
+        "content": "By registering on the website of the controller, the IP address\u2014assigned by the Internet service provider (ISP) and used by the data subject\u2014date, and time of the registration are also stored. The storage of this data takes place against the background that this is the only way to prevent the misuse of our services, and, if necessary, to make it possible to investigate committed offenses. Insofar, the storage of this data is necessary to secure the controller. This data is not passed on to third parties unless there is a statutory obligation to pass on the data, or if the transfer serves the aim of criminal prosecution.",
+        "id": "_5uEGAdsq9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The registration of the data subject, with the voluntary indication of personal data, is intended to enable the controller to offer the data subject contents or services that may only be offered to registered users due to the nature of the matter in question. Registered persons are free to change the personal data specified during the registration at any time, or to have them completely deleted from the data stock of the controller.",
+        "id": "_hqK6NPqIF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The data controller shall, at any time, provide information upon request to each data subject as to what personal data are stored about the data subject. In addition, the data controller shall correct or erase personal data at the request or indication of the data subject, insofar as there are no statutory storage obligations. The entirety of the controller\u2019s employees are available to the data subject in this respect as contact persons.",
+        "id": "_upkrQ4C5e",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "6. Subscription to our newsletters",
+        "id": "_f7pmakltr",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "a) Kontakt per E-Mail / Kontaktformular:",
-        "id": "_96f1jb4xf",
+        "content": "On the website of the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt), users are given the opportunity to subscribe to our enterprise's newsletter. The input mask used for this purpose determines what personal data are transmitted, as well as when the newsletter is ordered from the controller.",
+        "id": "_WDIMLbF4t",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) informs its customers and business partners regularly by means of a newsletter about enterprise offers. The enterprise's newsletter may only be received by the data subject if (1) the data subject has a valid e-mail address and (2) the data subject registers for the newsletter shipping. A confirmation e-mail will be sent to the e-mail address registered by a data subject for the first time for newsletter shipping, for legal reasons, in the double opt-in procedure. This confirmation e-mail is used to prove whether the owner of the e-mail address as the data subject is authorized to receive the newsletter.",
+        "id": "_fgQj72TIY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "During the registration for the newsletter, we also store the IP address of the computer system assigned by the Internet service provider (ISP) and used by the data subject at the time of the registration, as well as the date and time of the registration. The collection of this data is necessary in order to understand the (possible) misuse of the e-mail address of a data subject at a later date, and it therefore serves the aim of the legal protection of the controller.",
+        "id": "_AKePNmSTN",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The personal data collected as part of a registration for the newsletter will only be used to send our newsletter. In addition, subscribers to the newsletter may be informed by e-mail, as long as this is necessary for the operation of the newsletter service or a registration in question, as this could be the case in the event of modifications to the newsletter offer, or in the event of a change in technical circumstances. There will be no transfer of personal data collected by the newsletter service to third parties. The subscription to our newsletter may be terminated by the data subject at any time. The consent to the storage of personal data, which the data subject has given for shipping the newsletter, may be revoked at any time. For the purpose of revocation of consent, a corresponding link is found in each newsletter. It is also possible to unsubscribe from the newsletter at any time directly on the website of the controller, or to communicate this to the controller in a different way.",
+        "id": "_OKFOgqvSE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "7. Newsletter-Tracking",
+        "id": "_febxxjtup",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "The newsletter of the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) contains so-called tracking pixels. A tracking pixel is a miniature graphic embedded in such e-mails, which are sent in HTML format to enable log file recording and analysis. This allows a statistical analysis of the success or failure of online marketing campaigns. Based on the embedded tracking pixel, the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) may see if and when an e-mail was opened by a data subject, and which links in the e-mail were called up by data subjects.",
+        "id": "_qoSjmzha8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Such personal data collected in the tracking pixels contained in the newsletters are stored and analyzed by the controller in order to optimize the shipping of the newsletter, as well as to adapt the content of future newsletters even better to the interests of the data subject. These personal data will not be passed on to third parties. Data subjects are at any time entitled to revoke the respective separate declaration of consent issued by means of the double-opt-in procedure. After a revocation, these personal data will be deleted by the controller. The OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) automatically regards a withdrawal from the receipt of the newsletter as a revocation.",
+        "id": "_RTtzEZw95",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "8. Routine erasure and blocking of personal data",
+        "id": "_317jg8bbf",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "The data controller shall process and store the personal data of the data subject only for the period necessary to achieve the purpose of storage, or as far as this is granted by the European legislator or other legislators in laws or regulations to which the controller is subject to.",
+        "id": "_WRZjE3J1J",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "If the storage purpose is not applicable, or if a storage period prescribed by the European legislator or another competent legislator expires, the personal data are routinely blocked or erased in accordance with legal requirements.",
+        "id": "_A7z1WPYV2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "9. Rights of the data subject",
+        "id": "_1myk2n7yp",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "a) Right of confirmation",
+        "id": "_yupuu8p0p",
         "type": "h3"
     },
     {
         "attrs": [],
-        "content": "Wenn Sie uns eine Nachricht per E-Mail oder Kontaktformular schicken, speichern wir Ihre Nachricht mit den damit \u00fcbermittelten Absenderdaten und im Kontaktformular eingegebenen Daten (Name, E-Mail-Adresse und ggf. weitere von Ihrem E-Mail-Programm hinzugef\u00fcgte Informationen, Angaben laut Eingabemaske), um Ihre Nachricht zu beantworten und auch auf eventuelle Folgefragen von Ihnen reagieren zu k\u00f6nnen (Rechtsgrundlage: Artikel 6 Absatz 1 Buchstabe f DSGVO). F\u00fcr den Empfang, die Speicherung und den Versand von E-Mails nutzen wir die Leistungen von Strato AG - Pascalstra\u00dfe 10 - 10587 Berlin-, die f\u00fcr uns als Auftragsverarbeiter im Einklang mit Artikel 28 DSGVO t\u00e4tig wird. Wir l\u00f6schen die mit Ihrer Nachricht erhobenen Daten sp\u00e4testens sechs Monate nach der letzten mit Ihnen gef\u00fchrten Kommunikation zu Ihrem Anliegen, vorbehaltlich der Reglung im folgenden Absatz. Wenn Sie uns eine rechtlich relevante Erkl\u00e4rung zum Vertragsverh\u00e4ltnis \u00fcbermitteln (z.B. Ticketkauf), ist Rechtsgrundlage f\u00fcr die Verarbeitung, unabh\u00e4ngig vom \u00dcbermittlungsweg, auch Artikel 6 Absatz 1 Buchstabe b DSGVO. In einem solchen Fall l\u00f6schen wir die mit Ihrer Erkl\u00e4rung zusammenh\u00e4ngenden Daten, sobald alle wechselseitigen Anspr\u00fcche aus dem Vertragsverh\u00e4ltnis endg\u00fcltig erledigt und die handels- und steuerrechtlichen Aufbewahrungsfristen sowie die Fristen der F\u00f6rdermittelgeberinnen abgelaufen sind.",
-        "id": "_gt0vn0ac4",
+        "content": "Each data subject shall have the right granted by the European legislator to obtain from the controller the confirmation as to whether or not personal data concerning him or her are being processed. If a data subject wishes to avail himself of this right of confirmation, he or she may, at any time, contact any employee of the controller.",
+        "id": "_iTEu0MxDy",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "<br>b) Anmeldeformulare / Anmeldung Informations-Verteiler:<br>Bei Nutzung eines Anmeldeformulars, z.B. \u201eKontaktlehrerin\u201c oder der Anmeldung zu Informationsverteilerangeboten (z.B. \u201eSondernewsletter\u201c), werden ihre Daten (Welche personenbezogenen Daten dies sind ergibt sich aus der jeweiligen Eingabemaske, die f\u00fcr die Registrierung verwendet wird) nach erneuter Best\u00e4tigung (Double-Opt-In-Prinzip) oder Zusendung mit Unterschrift von uns f\u00fcr die beim Anmeldeformular bestimmten Zwecke gespeichert. (Art. 6 Abs. 1 lit. a DSGVO). Die von Ihnen im Kontaktformular eingegebenen Daten verbleiben bei uns, werden nicht an Dritte weitergegeben, bis Sie uns zur L\u00f6schung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck f\u00fcr die Datenspeicherung entf\u00e4llt.",
-        "id": "_hvt5qoaen",
+        "content": "b) Right of access",
+        "id": "_q4c3dbtus",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Each data subject shall have the right granted by the European legislator to obtain from the controller free information about his or her personal data stored at any time and a copy of this information. Furthermore, the European directives and regulations grant the data subject access to the following information:",
+        "id": "_lK9uaahgc",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "9) Bewerbungen",
-        "id": "_4o5K68rXh",
+        "content": "the purposes of the processing;",
+        "id": "_ouvipskqo",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Wir verarbeiten die Daten, die uns im Zusammenhang mit Bewerbungen zugesendet wurden, um die pers\u00f6nliche Eignung der Einsenderinnen f\u00fcr die Stelle (oder ggf. andere offene Positionen bei uns) zu pr\u00fcfen und das Bewerbungsverfahren durchzuf\u00fchren. Rechtsgrundlage f\u00fcr die Verarbeitung der personenbezogenen Daten im Bewerbungsverfahren ist \u00a7 26 BDSG. Nach Abschluss des Bewerbungsverfahrens k\u00f6nnen wir diese Daten zur Wahrnehmung unserer berechtigten Interessen, z. B. Geltendmachung oder Abwehr von Anspr\u00fcchen, weiter speichern (Rechtsgrundlage: Art. 6 Absatz 1 Buchstabe f DSGVO). Daten von Bewerberinnen werden im Falle einer Absage, sp\u00e4testens 6 Monate nach Beendigung des Bewerbungsverfahrens gel\u00f6scht, wenn keine gegenteilige Genehmigung zur l\u00e4ngeren Aufbewahrung vorliegt. Im Falle einer Anstellung bei uns werden die f\u00fcr die Durchf\u00fchrung des Besch\u00e4ftigungsverh\u00e4ltnisses notwendigen Daten aus der erfolgreichen Bewerbung in unser Personalinformationssystem \u00fcberf\u00fchrt. Bei uns haben grunds\u00e4tzlich nur die Personen Zugriff auf die Bewerber*innendaten, die dies f\u00fcr den ordnungsgem\u00e4\u00dfen Ablauf unseres Bewerbungsverfahrens ben\u00f6tigen.",
-        "id": "_n3lLiKIBf",
+        "content": "the categories of personal data concerned;",
+        "id": "_tYFVUqL09",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "10) Administration, Finanzbuchhaltung, B\u00fcroorganisation, Kontaktverwaltung",
-        "id": "_QXtTwFPgB",
+        "content": "the recipients or categories of recipients to whom the personal data have been or will be disclosed, in particular recipients in third countries or international organisations;",
+        "id": "_gHECplp5l",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Wir verarbeiten Daten im Rahmen von Verwaltungsaufgaben sowie Organisation unseres Betriebs unter Befolgung der gesetzlichen Pflichten, wie z.B. der Archivierung. Herbei verarbeiten wir dieselben Daten, die wir im Rahmen der Erbringung unserer vertraglichen Leistungen verarbeiten. Die Verarbeitungsgrundlagen sind Art. 6 Abs. 1 lit. b. DSGVO, Art. 6 Abs. 1 lit. c. DSGVO Art. 6 Abs. 1 lit. f., Art. 28 DSGVO. Von der Verarbeitung sind Betroffene: Kunden, Interessenten und Gesch\u00e4ftspartner. Der Zweck und unser Interesse an der Verarbeitung liegt in der Administration, Finanzbuchhaltung, B\u00fcroorganisation, Archivierung von Daten, also Aufgaben die der Aufrechterhaltung unserer Gesch\u00e4ftst\u00e4tigkeiten, Wahrnehmung unserer Aufgaben und Erbringung unserer Leistungen dienen. Wir offenbaren oder \u00fcbermitteln hierbei Daten an die Finanzverwaltung, Berater, wie z.B., Steuerberater oder Wirtschaftspr\u00fcfer sowie weitere Geb\u00fchrenstellen und Zahlungsdienstleister. Ferner speichern wir auf Grundlage unserer betriebswirtschaftlichen Interessen Angaben zu Lieferanten, Veranstaltern und sonstigen Gesch\u00e4ftspartnern, z.B. zwecks sp\u00e4terer Kontaktaufnahme. Diese mehrheitlich unternehmensbezogenen Daten, speichern wir bis zur Beendigung der Gesch\u00e4ftsbeziehungen. Rechnungen, Zahlungsinformationen und Vertr\u00e4ge m\u00fcssen wir f\u00fcr die Dauer von zehn Jahren zu Pr\u00fcfzwecken speichern. Die L\u00f6schung der Daten im Hinblick auf vertragliche Kommunikation entspricht den, bei diesen Verarbeitungst\u00e4tigkeiten genannten Angaben.",
-        "id": "_YBbqRuNSE",
+        "content": "where possible, the envisaged period for which the personal data will be stored, or, if not possible, the criteria used to determine that period;",
+        "id": "_YTsWqCE93",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "11) Einbindung von Diensten und Inhalten Dritter:",
-        "id": "_ilmbGVvTt",
+        "content": "the existence of the right to request from the controller rectification or erasure of personal data, or restriction of processing of personal data concerning the data subject, or to object to such processing;",
+        "id": "_kJMoM2ytw",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "a) Youtube<br>Im Rahmen unseres Onlineangebotes (Videoeinbindung) k\u00f6nnen Funktionen und Inhalte des Dienstes Youtube eingebunden werden. Diese werden angeboten durch die Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Insbesondere z\u00e4hlen hierzu Videos. Mittels Schaltfl\u00e4chen k\u00f6nnen Nutzer ihr Gefallen betreffend dem Inhalt mitteilen oder teilen. Zudem k\u00f6nnen Nutzer den Verfassern der Inhalte oder unsere Beitr\u00e4ge abonnieren. Insofern die Nutzer Mitglieder der Plattform Youtube sind, kann Youtube den Aufruf der Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen. Die Datenschutzerkl\u00e4rung finden des Anbieters Sie hier: https://www.google.com/policies/privacy/ Opt-Out: https://adssettings.google.com/authenticated",
-        "id": "_EtyLlDVi9",
+        "content": "the existence of the right to lodge a complaint with a supervisory authority;",
+        "id": "_LkwewbHCc",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "b) Facebook<br>Im Rahmen unseres Onlineangebotes k\u00f6nnen Funktionen und Inhalte des Dienstes Facebook eingebunden werden, bzw. Verlinungen zu facebook. Diese werden angeboten durch Facebook Inc., 1 Hacker Way, Menlo Park, CA 94025, USA, bzw. falls Sie in der EU ans\u00e4ssig sind, Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland betrieben wird (\u201cFacebook\u201d). Facebook ist unter dem Privacy-Shield-Abkommen zertifiziert und garantiert hierdurch, das europ\u00e4ische Datenschutzrecht einzuhalten (https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active). weitere Informationen zur Datenerhebung: http://www.facebook.com/help/186325668085084, http://www.facebook.com/about/privacy/your-info-on-other#applications sowie http://www.facebook.com/about/privacy/your-info#everyoneinfo.",
-        "id": "_qvlEAyBkp",
+        "content": "where the personal data are not collected from the data subject, any available information as to their source;",
+        "id": "_mWkyijs7p",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) of the GDPR and, at least in those cases, meaningful information about the logic involved, as well as the significance and envisaged consequences of such processing for the data subject.",
+        "id": "_poqgtPabC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Furthermore, the data subject shall have a right to obtain information as to whether personal data are transferred to a third country or to an international organisation. Where this is the case, the data subject shall have the right to be informed of the appropriate safeguards relating to the transfer.<br>If a data subject wishes to avail himself of this right of access, he or she may, at any time, contact any employee of the controller.",
+        "id": "_7HKCXhV9h",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "c) Right to rectification",
+        "id": "_36ubjcmo1",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Each data subject shall have the right granted by the European legislator to obtain from the controller without undue delay the rectification of inaccurate personal data concerning him or her. Taking into account the purposes of the processing, the data subject shall have the right to have incomplete personal data completed, including by means of providing a supplementary statement.<br>If a data subject wishes to exercise this right to rectification, he or she may, at any time, contact any employee of the controller.",
+        "id": "_4JMenfbY6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "d) Right to erasure (Right to be forgotten)",
+        "id": "_g0504s5z4",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Each data subject shall have the right granted by the European legislator to obtain from the controller the erasure of personal data concerning him or her without undue delay, and the controller shall have the obligation to erase personal data without undue delay where one of the following grounds applies, as long as the processing is not necessary:",
+        "id": "_WWaNm6u0O",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed.",
+        "id": "_PyOrTezRd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The data subject withdraws consent to which the processing is based according to point (a) of Article 6(1) of the GDPR, or point (a) of Article 9(2) of the GDPR, and where there is no other legal ground for the processing.",
+        "id": "_53HK7RIF3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The data subject objects to the processing pursuant to Article 21(1) of the GDPR and there are no overriding legitimate grounds for the processing, or the data subject objects to the processing pursuant to Article 21(2) of the GDPR.",
+        "id": "_qvv1pLvqp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The personal data have been unlawfully processed.",
+        "id": "_RsOUDi2TG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The personal data must be erased for compliance with a legal obligation in Union or Member State law to which the controller is subject.",
+        "id": "_67MnCT8f6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The personal data have been collected in relation to the offer of information society services referred to in Article 8(1) of the GDPR.",
+        "id": "_ZOfZGQFvo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "If one of the aforementioned reasons applies, and a data subject wishes to request the erasure of personal data stored by the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt), he or she may, at any time, contact any employee of the controller. An employee of OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) shall promptly ensure that the erasure request is complied with immediately.<br>Where the controller has made personal data public and is obliged pursuant to Article 17(1) to erase the personal data, the controller, taking account of available technology and the cost of implementation, shall take reasonable steps, including technical measures, to inform other controllers processing the personal data that the data subject has requested erasure by such controllers of any links to, or copy or replication of, those personal data, as far as processing is not required. An employees of the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) will arrange the necessary measures in individual cases.",
+        "id": "_5YElpcXSn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "e) Right of restriction of processing",
+        "id": "_f8yrnb6a8",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Each data subject shall have the right granted by the European legislator to obtain from the controller restriction of processing where one of the following applies:",
+        "id": "_ulmAYgv55",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The accuracy of the personal data is contested by the data subject, for a period enabling the controller to verify the accuracy of the personal data.",
+        "id": "_MLbhq1pF5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The processing is unlawful and the data subject opposes the erasure of the personal data and requests instead the restriction of their use instead.",
+        "id": "_gmoJJq9tY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The controller no longer needs the personal data for the purposes of the processing, but they are required by the data subject for the establishment, exercise or defence of legal claims.",
+        "id": "_1cZNF4Xjm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The data subject has objected to processing pursuant to Article 21(1) of the GDPR pending the verification whether the legitimate grounds of the controller override those of the data subject.",
+        "id": "_11YlXBetC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "If one of the aforementioned conditions is met, and a data subject wishes to request the restriction of the processing of personal data stored by the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt), he or she may at any time contact any employee of the controller. The employee of the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) will arrange the restriction of the processing.",
+        "id": "_8JfXTwAS7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "f) Right to data portability",
+        "id": "_v10kokkqn",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Each data subject shall have the right granted by the European legislator, to receive the personal data concerning him or her, which was provided to a controller, in a structured, commonly used and machine-readable format. He or she shall have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided, as long as the processing is based on consent pursuant to point (a) of Article 6(1) of the GDPR or point (a) of Article 9(2) of the GDPR, or on a contract pursuant to point (b) of Article 6(1) of the GDPR, and the processing is carried out by automated means, as long as the processing is not necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller.<br>Furthermore, in exercising his or her right to data portability pursuant to Article 20(1) of the GDPR, the data subject shall have the right to have personal data transmitted directly from one controller to another, where technically feasible and when doing so does not adversely affect the rights and freedoms of others.<br>In order to assert the right to data portability, the data subject may at any time contact any employee of the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt).",
+        "id": "_kbx8px242",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "g) Right to object",
+        "id": "_uv46hkywm",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Each data subject shall have the right granted by the European legislator to object, on grounds relating to his or her particular situation, at any time, to processing of personal data concerning him or her, which is based on point (e) or (f) of Article 6(1) of the GDPR. This also applies to profiling based on these provisions.<br>The OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) shall no longer process the personal data in the event of the objection, unless we can demonstrate compelling legitimate grounds for the processing which override the interests, rights and freedoms of the data subject, or for the establishment, exercise or defence of legal claims.<br>If the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) processes personal data for direct marketing purposes, the data subject shall have the right to object at any time to processing of personal data concerning him or her for such marketing. This applies to profiling to the extent that it is related to such direct marketing. If the data subject objects to the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) to the processing for direct marketing purposes, the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) will no longer process the personal data for these purposes.<br>In addition, the data subject has the right, on grounds relating to his or her particular situation, to object to processing of personal data concerning him or her by the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) for scientific or historical research purposes, or for statistical purposes pursuant to Article 89(1) of the GDPR, unless the processing is necessary for the performance of a task carried out for reasons of public interest.<br>In order to exercise the right to object, the data subject may contact any employee of the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt). In addition, the data subject is free in the context of the use of information society services, and notwithstanding Directive 2002/58/EC, to use his or her right to object by automated means using technical specifications.",
+        "id": "_q8w63o9on",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "h) Automated individual decision-making, including profiling",
+        "id": "_zu1xnfua2",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Each data subject shall have the right granted by the European legislator not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her, or similarly significantly affects him or her, as long as the decision (1) is not is necessary for entering into, or the performance of, a contract between the data subject and a data controller, or (2) is not authorised by Union or Member State law to which the controller is subject and which also lays down suitable measures to safeguard the data subject's rights and freedoms and legitimate interests, or (3) is not based on the data subject's explicit consent.<br>If the decision (1) is necessary for entering into, or the performance of, a contract between the data subject and a data controller, or (2) it is based on the data subject's explicit consent, the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) shall implement suitable measures to safeguard the data subject's rights and freedoms and legitimate interests, at least the right to obtain human intervention on the part of the controller, to express his or her point of view and contest the decision.<br>If the data subject wishes to exercise the rights concerning automated individual decision-making, he or she may, at any time, contact any employee of the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt).",
+        "id": "_GFZ5ODrL6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "i) Right to withdraw data protection consent",
+        "id": "_ncog784lp",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Each data subject shall have the right granted by the European legislator to withdraw his or her consent to processing of his or her personal data at any time. <br>If the data subject wishes to exercise the right to withdraw the consent, he or she may, at any time, contact any employee of the OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt).",
+        "id": "_mfxFvND9P",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "10. Data protection for applications and the application procedures",
+        "id": "_nis4plrrb",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "The data controller shall collect and process the personal data of applicants for the purpose of the processing of the application procedure. The processing may also be carried out electronically. This is the case, in particular, if an applicant submits corresponding application documents by e-mail or by means of a web form on the website to the controller. If the data controller concludes an employment contract with an applicant, the submitted data will be stored for the purpose of processing the employment relationship in compliance with legal requirements. If no employment contract is concluded with the applicant by the controller, the application documents shall be automatically erased two months after notification of the refusal decision, provided that no other legitimate interests of the controller are opposed to the erasure. Other legitimate interest in this relation is, e.g. a burden of proof in a procedure under the General Equal Treatment Act (AGG).",
+        "id": "_4F7gQGGPR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "11. Legal basis for the processing",
+        "id": "_rovqboaf6",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Art. 6(1) lit. a GDPR serves as the legal basis for processing operations for which we obtain consent for a specific processing purpose. If the processing of personal data is necessary for the performance of a contract to which the data subject is party, as is the case, for example, when processing operations are necessary for the supply of goods or to provide any other service, the processing is based on Article 6(1) lit. b GDPR. The same applies to such processing operations which are necessary for carrying out pre-contractual measures, for example in the case of inquiries concerning our products or services. Is our company subject to a legal obligation by which processing of personal data is required, such as for the fulfillment of tax obligations, the processing is based on Art. 6(1) lit. c GDPR. In rare cases, the processing of personal data may be necessary to protect the vital interests of the data subject or of another natural person. This would be the case, for example, if a visitor were injured in our company and his name, age, health insurance data or other vital information would have to be passed on to a doctor, hospital or other third party. Then the processing would be based on Art. 6(1) lit. d GDPR. Finally, processing operations could be based on Article 6(1) lit. f GDPR. This legal basis is used for processing operations which are not covered by any of the abovementioned legal grounds, if processing is necessary for the purposes of the legitimate interests pursued by our company or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data. Such processing operations are particularly permissible because they have been specifically mentioned by the European legislator. He considered that a legitimate interest could be assumed if the data subject is a client of the controller (Recital 47 Sentence 2 GDPR).",
+        "id": "_9L9R9K0J3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "12. The legitimate interests pursued by the controller or by a third party",
+        "id": "_3ot47ktt5",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Where the processing of personal data is based on Article 6(1) lit. f GDPR our legitimate interest is to carry out our business in favor of the well-being of all our employees and the shareholders.",
+        "id": "_KgrCKLKn0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "13. Period for which the personal data will be stored",
+        "id": "_s2mrektmr",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "The criteria used to determine the period of storage of personal data is the respective statutory retention period. After expiration of that period, the corresponding data is routinely deleted, as long as it is no longer necessary for the fulfillment of the contract or the initiation of a contract.",
+        "id": "_ZVWHXUu5i",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "14. Provision of personal data as statutory or contractual requirement; Requirement necessary to enter into a contract; Obligation of the data subject to provide the personal data; possible consequences of failure to provide such data",
+        "id": "_2wdvjg4fo",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "We clarify that the provision of personal data is partly required by law (e.g. tax regulations) or can also result from contractual provisions (e.g. information on the contractual partner). Sometimes it may be necessary to conclude a contract that the data subject provides us with personal data, which must subsequently be processed by us. The data subject is, for example, obliged to provide us with personal data when our company signs a contract with him or her. The non-provision of the personal data would have the consequence that the contract with the data subject could not be concluded. Before personal data is provided by the data subject, the data subject must contact any employee. The employee clarifies to the data subject whether the provision of the personal data is required by law or contract or is necessary for the conclusion of the contract, whether there is an obligation to provide the personal data and the consequences of non-provision of the personal data.",
+        "id": "_PmxXkhUCL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "15. Existence of automated decision-making",
+        "id": "_jrjmcyzza",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "As a responsible company, we do not use automatic decision-making or profiling.",
+        "id": "_Ie4DfeFTf",
         "type": "paragraph"
     }
 ]

@@ -16,19 +16,19 @@ About:
 [
     {
         "attrs": [],
-        "content": "Who we are",
+        "content": "Who We Are",
         "id": "_rps22wyly",
         "type": "h1"
     },
     {
         "attrs": [],
-        "content": "The Offensive Dance for Young Audience Berlin develops innovative dance formats for young audiences between the ages of two and 18, focusing primarily on production, networking and mediation. The two-year project is a union of four local, national and international partners from the contemporary dance and theater scene for children and adolescents: PURPLE - International Dance Festival for Young Audiences, DANCE COMPLICATES, Theater STRAHL and Theater o.N. By bundling their professional competencies and creating sustainable artistic collaborations, dance for young audiences gains a stronger presence in the Berlin public and is permanently established as an art form.",
+        "content": "The <strong>Offensive Tanz f\u00fcr junges Publikum</strong> develops innovative dance formats for young audiences between the ages of zero and 18, focusing primarily on production, networking and mediation. The two-year project is an association of four local, national and international partners from the contemporary dance and theatre scene for children and young people: PURPLE - International Dance Festival for a Young Audience, TANZKOMPLIZEN, Theater STRAHL and Theater o.N. By bundling their professional competences and creating sustainable artistic cooperations, dance for young audiences gains a stronger presence in the Berlin public and is established as a sustainable art form.",
         "id": "_Tq7ExzUVy",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "A total of six productions, each with their own focus, will be developed over the project period. A research-based approach and high artistic standards form the common basis of the productions. A central element of the project is professional networking with relevant institutions, training centers, schools, scenes and festivals. In this context, three symposia on different topics act as a platform for a lively exchange between artists, experts and young viewers. Various workshops also offer teachers, parents and educators the opportunity to learn more about dance art. Visitor surveys and audience research underpin the project's aspiration to make dance for young audiences sustainable as an art form and to establish it sustainably in the Berlin public.",
+        "content": "Over the course of the project, a total of six productions will be developed, each with its own thematic focus. A research-based approach as well as high artistic standards form the common basis of the productions. A central element of the project is professional networking with relevant institutions, training centres, schools, scenes and festivals. In this context, three symposia, each with a different focus of subject, act as a platform for lively exchange between artists, professionals and young viewers. In addition, various workshops offer teachers, parents and educators the opportunity to further educate themselves in the art of dancing. Furthermore, the possibilities of an inclusive approach are explored with different formats such as a specialist day on the topic of racism as well as mobile productions. The aim is to initiate a design process in which diverse social and aesthetic perspectives coexist and which enables joint action in different spaces of play and reception. Visitor surveys and audience research underpin the project's claim to make dance for young audiences sustainable as an art form.",
         "id": "_y4aybPq30",
         "type": "paragraph"
     }
@@ -47,25 +47,25 @@ Mission:
     },
     {
         "attrs": [],
-        "content": "With the help of numerous initiatives and projects as well as intensive networking, the art form of dance is becoming increasingly present in the public eye. Movement and awareness of one's own body have also become increasingly important for children and adolescents in recent years. The pure watching, the perception of dance is still rather unpopular, which is due, among other things, to misunderstandings about the art form of dance and the resulting fear of contact.",
+        "content": "With the help of numerous initiatives and projects as well as intensive networking, dance as an art form is increasingly gaining a presence in public perception. For children and young people, too, movement and awareness of their own bodies have become increasingly important in recent years. However, the mere watching and perception of dance is still rather unpopular, which is due, among other things, to misunderstandings about the art form of dance and the resulting fear of contact.",
         "id": "_O5ZRh9jS6",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Against this background, the offensive dance for young audiences in Berlin has set itself the task of breaking down barriers, creating new approaches, positively connotating dance as an art form and thus providing theater and valuable aesthetic experience for children and young people between two and 18 years of age establish - beyond language barriers and regardless of educational background.",
+        "content": "Against this background, the <strong>Offensive Tanz f\u00fcr junges Publikum Berlin</strong> has set itself the task of breaking down barriers, creating new approaches, giving dance a positive connotation as an art form and thus establishing it as a theatre offering and valuable aesthetic experience for children and young people between the ages of zero and 18 - beyond language barriers and regardless of educational background.",
         "id": "_ouof3T1Js",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Through the development of innovative formats, the Offensive Dance for Young Audience Berlin enables a critical examination of body images: what can the body do on stage and what can its own? The focus is on sensitizing perception and strengthening intuition. In addition, the free-spirited interpretation, questioning and democratic thinking is stimulated: Each individual sees and feels something different when watching, whereby all these interpretations are justified.",
+        "content": "Through the development of innovative formats, the <strong>Offensive Tanz f\u00fcr junges Publikum Berlin </strong>makes it possible for young audiences to critically examine body images: What can the body do on stage and what can its own? The focus is on sensitizing perception and strengthening intuition. In addition, free-spiritual interpretation, questioning and democratic thinking is encouraged: each individual sees and feels something different while watching, whereby all these interpretations have their justification.",
         "id": "_xuRbWXIEL",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Dance as a universal form of expression stands for openness in thinking and perception. The offensive dance for young audiences in Berlin enables a mutual exchange about what has been seen and creates protected spaces for this. We position ourselves clearly against any form of discrimination and support the plurality of society and the freedom of art (see also \u201cDeclaration of the Many\u201d).",
+        "content": "Dance as a universal form of expression stands for openness in thinking and perception. The <strong>Offensive Tanz f\u00fcr junges Publikum Berlin</strong> enables a joint exchange about what is seen and creates protected spaces for this. We take a clear position against any form of discrimination and support the plurality of society and the freedom of the arts (see also \"Declaration of the Many\").",
         "id": "_UFOebUaw8",
         "type": "paragraph"
     }
@@ -78,13 +78,13 @@ Partners:
 [
     {
         "attrs": [],
-        "content": "Project Partners",
+        "content": "The Project Partners",
         "id": "_ef94p2syw",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "Four local, national and international partners from the contemporary dance and theater scene for children and young people have come together for the offensive dance for young audiences in Berlin:",
+        "content": "Four local, national and international partners from the contemporary dance and theatre scene for children and young people have joined forces for the <strong>Offensive Tanz f\u00fcr junges Publikum Berlin:</strong>",
         "id": "_5jkqaz4fp",
         "type": "paragraph"
     }
@@ -97,19 +97,19 @@ Sponsors:
 [
     {
         "attrs": [],
-        "content": "Sponsors Modell and Sponsors",
+        "content": "Funding Model and Sponsors",
         "id": "_jv4fuk3yv",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "The Offensive Dance for Young Audience Berlin is a cooperation project between four Berlin partners from the dance and theater scene for children and young people: PURPLE - International Dance Festival for Young Audiences, DANCE COMPLICATES, Theater STRAHL and Theater o.N. It is funded by TANZPAKT Stadt-Land-Bund from the Federal Government Commissioner for Culture and the Media and the State of Berlin from the Senate Department for Culture and Europe.",
+        "content": "The <strong>Offensive Tanz f\u00fcr junges Publikum Berlin</strong> is a cooperation project of four Berlin based partners from the dance and theatre scene for children and young people: PURPLE - International Dance Festival for a Young Audience, TANZKOMPLIZEN, Theater STRAHL and Theater o.N. It is supported by TANZPAKT Stadt-Land-Bund with funds from the Federal Government Commissioner for Culture and the Media as well as the State of Berlin with funds from the Senate Department for Culture and Europe.",
         "id": "_9GDysLnXj",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "TANZPAKT Stadt-Land-Bund is a joint initiative of municipalities, federal states and the Federal Government Commissioner for Culture and the Media to promote excellence in dance. In March 2019, the jury selected seven projects from a total of 29 project entries from 10 federal states, thus enabling the offensive dance for young audiences in Berlin to start the two-year project.",
+        "content": "TANZPAKT Stadt-Land-Bund is a joint initiative of municipalities, federal states and the Federal Government Commissioner for Culture and the Media to promote excellence in dance. In March 2019, the jury selected seven projects for funding from a total of 29 project entries from 10 federal states, thus enabling the <strong>Offensive Tanz f\u00fcr junges Publikum Berlin</strong> to start the two-year project.",
         "id": "_aSAMxZltN",
         "type": "paragraph"
     }

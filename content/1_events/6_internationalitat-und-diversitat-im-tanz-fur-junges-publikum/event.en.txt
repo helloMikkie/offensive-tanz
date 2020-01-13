@@ -1,0 +1,85 @@
+Title: Internationality and Diversity in Dance <br> for a Young Audience
+
+----
+
+Vorlage: Theater o.N.
+
+----
+
+Featured: true
+
+----
+
+Label: Symposium
+
+----
+
+Author: Offensive Tanz für junges Publikum Berlin
+
+----
+
+Date: 2020-04-25
+
+----
+
+Time: 
+
+----
+
+Duration: 
+
+----
+
+Location: Podewil Berlin, Klosterstraße 68
+
+----
+
+Tickets: theater-on@offensive-tanz.de
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "Within the framework of the festival FRATZ International (April 24-29, 2020), organized by Theater o.N., the first of three symposia of the Offensive Tanz f\u00fcr junges Publikum will take place. The aim is to promote international exchange on socially and artistically relevant discourses and the further development of the art form.",
+        "id": "_RmZOKOqz4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In 2020 we ask: How can we use internationality in dance to achieve greater diversity on stage and in the auditorium? Do we reproduce existing power structures by trying to break them up? What does it mean when we speak of dance as a universal language?",
+        "id": "_8qKz1jKH1",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext:
+
+[
+    {
+        "attrs": [],
+        "content": "In cooperation with FRATZ International: Meetings - Symposium - Festival for the youngest from 24\u201329 April 2020, organised by Theater o.N., sponsored by the Senate Department for Culture and Europe of the State of Berlin within the framework of the open funding of festivals relevant to urban policy 2020-23.",
+        "id": "_5t5d1VgTb",
+        "type": "paragraph"
+    }
+]

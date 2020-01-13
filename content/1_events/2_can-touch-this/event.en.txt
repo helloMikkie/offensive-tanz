@@ -1,0 +1,184 @@
+Title: Can touch this
+
+----
+
+Vorlage: Theater Strahl
+
+----
+
+Featured: true
+
+----
+
+Label: Premiere
+
+----
+
+Author: Theater Strahl and performing:group
+
+----
+
+Date: 2020-01-21
+
+----
+
+Time: 19:30
+
+----
+
+Duration: 
+
+----
+
+Location: Die Weiße Rose, Martin-Luther-Str. 77, 10825 Berlin
+
+----
+
+Tickets: strahl@offensive-tanz.de
+
+----
+
+Age: 12
+
+----
+
+Caption: The age recommendations given here are only guidelines. In general, we welcome visitors of all ages. A contact person of the respective partner will be happy to provide you with more information.
+
+----
+
+Scedule:
+
+- 
+  datum: 2020-01-22
+  zeit: 11:00
+- 
+  datum: 2020-01-23
+  zeit: 11:00
+- 
+  datum: 2020-01-23
+  zeit: 18:00
+- 
+  datum: 2020-01-24
+  zeit: 10:00
+- 
+  datum: 2020-03-03
+  zeit: 11:00
+- 
+  datum: 2020-03-03
+  zeit: 19:30
+- 
+  datum: 2020-03-04
+  zeit: 11:00
+- 
+  datum: 2020-03-05
+  zeit: 11:00
+- 
+  datum: 2020-03-06
+  zeit: 10:00
+- 
+  datum: 2020-04-21
+  zeit: 18:00
+- 
+  datum: 2020-04-22
+  zeit: 11:00
+- 
+  datum: 2020-04-23
+  zeit: 11:00
+- 
+  datum: 2020-04-24
+  zeit: 10:00
+- 
+  datum: 2020-06-03
+  zeit: 11:00
+- 
+  datum: 2020-06-04
+  zeit: 11:00
+- 
+  datum: 2020-06-04
+  zeit: 19:30
+- 
+  datum: 2020-06-05
+  zeit: 10:00
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "To touch is provocation. To touch is beautiful. To touch is inappropriate. To touch is vital. Culture and traditions determine whether a touch is pleasant or embarrassing. Or are we the ones who decide that?",
+        "id": "_sT5zggorg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We want to be seen, we want to be loved, we want to be wanted. But please don\u2019t touch!",
+        "id": "_eajQUvuvV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Five actors examine this dilemma of modern life: We long to be touched, and yet we also want to be safe from harm. The performers allow closeness and lose control. They push their own and others\u2019 boundaries, they touch and experience lust. They blunder and stumble over cultural barriers, cause embarrassment \u2013 and then they gently take the audience back to a safe place.",
+        "id": "_WwHptTkBp",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists:
+
+- 
+  role: Cooperation
+  name: performing:group
+- 
+  role: Regie/Choreografie
+  name: ' Leandro Kees'
+- 
+  role: Co-Regie
+  name: Daniel Mathéus
+- 
+  role: Dramaturgie
+  name: Julia Mota Carvalho
+- 
+  role: Music
+  name: Martin Rascher
+- 
+  role: Theaterpädagogik
+  name: Laura Cadio, Caroline Schließmann
+- 
+  role: Play
+  name: >
+    Rebekka E. Böhme, Jana Heilmann,
+    Michael Kaddu, Michele Meloni, Balázs
+    Posgay
+
+----
+
+Staffs: 
+
+----
+
+Subtext:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>A cooperation</strong> of Theater Strahl and performing:group Cologne. Theater Strahl is a partner of Offensive Tanz f\u00fcr junges Publikum Berlin. Supported by TANZPAKT Stadt-Land-Bund with funds from the Federal Government Commissioner for Culture and the Media, Ministry of Culture and Science of the State of North Rhine-Westphalia, North Rhine-Westphalia State Office for the Independent Performing Arts",
+        "id": "_pf34wbp9d",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Free performance</strong> for teachers and parent representatives on Thursday, 23 January, 18:00 h. Following the performance, there will be a discussion with our drama teachers.",
+        "id": "_mo79hn55f",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Registration:</strong> <a href=\"mailto:strahl@offensive-tanz.de\">strahl[at]offensive-tanz.de</a>",
+        "id": "_uzpt33hli",
+        "type": "paragraph"
+    }
+]

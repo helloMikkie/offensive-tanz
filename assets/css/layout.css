@@ -226,6 +226,7 @@
   flex-wrap: wrap;
   background:var(--color-ultrawhite); 
   padding: 0.3rem; 
+  min-height: 16rem; 
 }
 
 .card > * {

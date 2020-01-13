@@ -2,7 +2,7 @@ Title: Tanzkomplizen
 
 ----
 
-Subtitle: for young audiences
+Subtitle: for a young audience
 
 ----
 
@@ -11,19 +11,25 @@ Text:
 [
     {
         "attrs": [],
-        "content": "TANZKOMPLIZEN is the only venue in Berlin that exclusively and continuously shows dance for young audiences - currently in the Schillertheater workshop. As part of the TanzZeit association, which offers dance as a subject in over 60 school classes, TANZKOMPLIZEN complements the unique model project with the aesthetic perception when watching professional dance pieces. The repertoire currently comprises eleven pieces for different age groups, which are shown for school classes as well as for family audiences. The performances are flanked by a wide range of mediation offers.",
+        "content": "TANZKOMPLIZEN is the only venue in Berlin that exclusively and continuously shows dance for a young audience - currently at the Schillertheater-Werkstatt. As part of the TanzZeit association, which offers dance as a subject in more than 60 school classes every year, TANZKOMPLIZEN complements this unique model project with aesthetic perception while watching professional dance pieces. The repertoire currently comprises eleven pieces for different age groups, which are shown for school classes as well as for family audiences. The performances are flanked by a broad range of educational activities.",
         "id": "_5AFnV6Yr5",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "As part of the Dance for Young Audience offensive, we ask ourselves the following questions: What does diversity mean as a level of consideration and inclusion as a goal for our work as a Berlin venue in the area of \u200b\u200b\"Dance for young audiences\"? TANZKOMPLIZEN wants to reflect on its own structures and artistic decisions: Who is on stage as a dancer? Which topics are set or arise from them? And what \u201cwe\u201d make decisions and execute them? Through research phases with numerous interviews with artists, institutions and consulting organizations, we define fields of action for the overall project and for our two planned in-house productions. The first production, which will premiere in April 2020, deals with the topics of obstacles, limits and how to overcome them. Furthermore, we will explore the possibilities and limits of an inclusive approach with various participative formats such as a specialist day on dance and racism and mobile productions in order to make diversity visible as a valuable resource of society. The aim is to get a design process going, in which diverse social and aesthetic perspectives coexist and which enables joint action in different play and reception spaces.",
+        "content": "As part of the Offensive Tanz f\u00fcr junges Publikum, we are asking ourselves the following questions:",
+        "id": "_ssgotmubs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "What does diversity mean as a level of observation and inclusion as a goal for our work as a Berlin venue in the area of \"dance for young audiences\"? TANZKOMPLIZEN wants to reflect on its own structures and artistic decisions: Who is on stage as a dancer? Which subjects are set or do arise from them? And which \"we\" makes decisions and carries them out? Through research phases with numerous interviews with artists, institutions, and consulting organisations we define fields of action for the overall project and for our two planned own productions. The first production which will premiere in April 2020 deals with the topics of obstacles, boundaries and how to overcome them. Furthermore, we will explore the possibilities and limits of an inclusive approach with different participatory formats such as a symposium on dance and racism and mobile productions in order to make diversity visible as a valuable resource of society. The aim is to initiate a design process in which diverse social and aesthetic perspectives coexist and which enables joint action in different spaces of play and reception.",
         "id": "_E74o3GTcJ",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "<a href=\"https://tanzkomplizen.de/\">tanzkomplizen.de</a>",
+        "content": "\u2192 <a href=\"https://tanzkomplizen.de/\">Tanzkomplizen</a>",
         "id": "_sn57pj6fm",
         "type": "paragraph"
     }

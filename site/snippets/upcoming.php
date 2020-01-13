@@ -6,7 +6,7 @@
             <div class="card purple">
                 <?php if ($event->images()->isNotEmpty()) : ?>
                     <div class="card-image">
-                        <?= $event->image()->resize(1200) ?>
+                        <?= $event->image()->crop(1200, 800) ?>
                         <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
                     </div>
                 <?php endif ?>
@@ -16,9 +16,11 @@
                     <p><?= $event->author() ?></p>
                     <h3 class="text-purple"><?= $event->date()->toDate('%a, %e.%m.%Y') ?></h3>
                     <p><?= $event->location() ?></p>
-                    <div class="card-content-batch">
-                        <p><?= $event->age() ?>+</p>
-                    </div>
+                    <?php if ($event->age()->isNotEmpty()) : ?>
+                        <div class="card-content-batch">
+                            <p><?= $event->age() ?>+</p>
+                        </div>
+                    <?php endif ?>
                 </article>
             </div>
         </a>
@@ -30,7 +32,7 @@
             <div class="card tanzkomplizen">
                 <?php if ($event->images()->isNotEmpty()) : ?>
                     <div class="card-image">
-                        <?= $event->image()->resize(1200) ?>
+                        <?= $event->image()->crop(1200, 800) ?>
                         <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
                     </div>
                 <?php endif ?>
@@ -40,9 +42,11 @@
                     <p><?= $event->author() ?></p>
                     <h3 class="text-tanzkomplizen"><?= $event->date()->toDate('%a, %e.%m.%Y') ?></h3>
                     <p><?= $event->location() ?></p>
-                    <div class="card-content-batch">
-                        <p><?= $event->age() ?>+</p>
-                    </div>
+                    <?php if ($event->age()->isNotEmpty()) : ?>
+                        <div class="card-content-batch">
+                            <p><?= $event->age() ?>+</p>
+                        </div>
+                    <?php endif ?>
                 </article>
             </div>
         </a>
@@ -54,7 +58,7 @@
             <div class="card theater_strahl">
                 <?php if ($event->images()->isNotEmpty()) : ?>
                     <div class="card-image">
-                        <?= $event->image()->resize(1200) ?>
+                        <?= $event->image()->crop(1200, 800) ?>
                         <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
                     </div>
                 <?php endif ?>
@@ -64,9 +68,11 @@
                     <p><?= $event->author() ?></p>
                     <h3 class="text-theater_strahl"><?= $event->date()->toDate('%a, %e.%m.%Y') ?></h3>
                     <p><?= $event->location() ?></p>
-                    <div class="card-content-batch">
-                        <p><?= $event->age() ?>+</p>
-                    </div>
+                    <?php if ($event->age()->isNotEmpty()) : ?>
+                        <div class="card-content-batch">
+                            <p><?= $event->age() ?>+</p>
+                        </div>
+                    <?php endif ?>
                 </article>
             </div>
         </a>
@@ -78,7 +84,7 @@
             <div class="card theater_oN">
                 <?php if ($event->images()->isNotEmpty()) : ?>
                     <div class="card-image">
-                        <?= $event->image()->resize(1200) ?>
+                        <?= $event->image()->crop(1200, 800) ?>
                         <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
                     </div>
                 <?php endif ?>
@@ -88,9 +94,11 @@
                     <p><?= $event->author() ?></p>
                     <h3 class="text-theater_oN"><?= $event->date()->toDate('%a, %e.%m.%Y') ?></h3>
                     <p><?= $event->location() ?></p>
-                    <div class="card-content-batch">
-                        <p><?= $event->age() ?>+</p>
-                    </div>
+                    <?php if ($event->age()->isNotEmpty()) : ?>
+                        <div class="card-content-batch">
+                            <p><?= $event->age() ?>+</p>
+                        </div>
+                    <?php endif ?>
                 </article>
             </div>
         </a>
@@ -101,7 +109,7 @@
             <div class="card neutral">
                 <?php if ($event->images()->isNotEmpty()) : ?>
                     <div class="card-image">
-                        <?= $event->image()->resize(1200) ?>
+                        <?= $event->image()->crop(1200, 800) ?>
                         <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
                     </div>
                 <?php endif ?>
@@ -111,9 +119,11 @@
                     <p><?= $event->author() ?></p>
                     <h3 class="text-neutral"><?= $event->date()->toDate('%a, %e.%m.%Y') ?></h3>
                     <p><?= $event->location() ?></p>
-                    <div class="card-content-batch">
-                        <p><?= $event->age() ?>+</p>
-                    </div>
+                    <?php if ($event->age()->isNotEmpty()) : ?>
+                        <div class="card-content-batch">
+                            <p><?= $event->age() ?>+</p>
+                        </div>
+                    <?php endif ?>
                 </article>
             </div>
         </a>

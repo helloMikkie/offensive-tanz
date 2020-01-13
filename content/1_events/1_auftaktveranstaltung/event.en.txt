@@ -1,0 +1,76 @@
+Title: Launch Event
+
+----
+
+Vorlage: Purple
+
+----
+
+Featured: true
+
+----
+
+Label: Event
+
+----
+
+Author: Offensive Tanz für junges Publikum
+
+----
+
+Date: 2020-01-19
+
+----
+
+Time: 18:30
+
+----
+
+Duration: 02:30
+
+----
+
+Location: Uferstudios Wedding, Badstr. 41a, Tor 1
+
+----
+
+Tickets: 
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "On 19.01.2020 the cooperation project <strong>Offensive Tanz f\u00fcr junges Publikum</strong> will officially start within the framework of PURPLE - International Dance Festival for a Young Audience. Interested parties are cordially invited to the public event from 18:30 h on in Studio 1 of Uferstudios in Berlin-Wedding (Badstr. 41a, Tor 1 or Uferstr. 8/23, Tor 2). After the project presentation and the website launch there will be a get-together for exchange.",
+        "id": "_wMU5Pi7bn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "All partners of the \"Offensive Tanz f\u00fcr junges Publikum\" will be part of PURPLE - International Dance Festival for young Audience; the production <em>Can touch this</em> by Theater Strahl, which is funded by the initiative, will be premiered on January 21. Further performances will be given by TANZKOMPLIZEN with <em>Normen, Normen, Normen</em>! as well as <em>flying&amp;falling</em> by Theater o.N.",
+        "id": "_aoTht49oZ",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

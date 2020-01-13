@@ -9,12 +9,13 @@
                 </div>
             <?php endif ?>
             <article class="stack card-content centered">
+                <p><?= $article->date()->toDate('%e.%m.%Y') ?></p>
                 <h2 class="text-neutral"><?= $article->title() ?></h2>
                 <?php if ($article->subtitle()->isNotEmpty()) : ?>
-                    <p><?= $article->subtitle() ?></p>
+                    <h3><?= $article->subtitle() ?></h3>
                 <?php endif ?>
                 <p><?= $article->author() ?></p>
-                <p><?= $article->date()->toDate('%e.%m.%Y') ?></p>
+                
             </article>
         </div>
     </a>

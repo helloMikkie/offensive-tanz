@@ -63,6 +63,7 @@ columns:
             default: "45"
           location:
             label: Veranstaltungsort
+            required: true
             type: text
             width: 1/2
           tickets:

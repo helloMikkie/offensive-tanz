@@ -7,13 +7,7 @@ Intro:
 [
     {
         "attrs": [],
-        "content": "Service",
-        "id": "_mubkgizox",
-        "type": "h1"
-    },
-    {
-        "attrs": [],
-        "content": "Here you will find information about our events. Also our printed matter for download and our press releases. Contact us for any further questions that we would be happy to answer.",
+        "content": "Here you will find information about our events. In addition, you can download our printed materials and press releases. <a href=\"mailto:info@offensive-tanz.de\">Contact us</a> for further questions, we will be happy to assist.",
         "id": "_aqmf16z5h",
         "type": "paragraph"
     }
@@ -32,7 +26,7 @@ Tickets:
     },
     {
         "attrs": [],
-        "content": "The purchase of tickets is only possible via the websites of the individual partners. The direct contact information for this can be viewed on the corresponding event page.",
+        "content": "The purchase of tickets is only possible via the websites of the individual partners. The direct contact information for this can be found on the corresponding event page.",
         "id": "_FDzJ19TgN",
         "type": "paragraph"
     }
@@ -43,11 +37,13 @@ Tickets:
 Ticketlinks:
 
 - 
-  name: Purple Dance Festival
+  name: >
+    Purple – International Dance Festival
+    for young audience
   link: >
     https://purple-tanzfestival.de/en/ticketpreise/
 - 
-  name: Tanzkomplizen for Young Audience
+  name: Tanzkomplizen
   link: https://tanzkomplizen.de/tickets
 - 
   name: Theater Strahl Berlin
@@ -64,13 +60,13 @@ Feedback:
 [
     {
         "attrs": [],
-        "content": "Your feedback is required",
+        "content": "Your feedback is requested",
         "id": "_PKbnMXezh",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "Support us with your suggestion or criticism!",
+        "content": "Support us with your suggestions or criticism!",
         "id": "_Ns1vHPLSn",
         "type": "paragraph"
     }
@@ -83,13 +79,13 @@ Download:
 [
     {
         "attrs": [],
-        "content": "Further Informations",
+        "content": "Further Information",
         "id": "_syuusjnws",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "Here you will find our event programs and further information to download.",
+        "content": "Here you will find our event programs and further information for download.",
         "id": "_xqgu5k6vz",
         "type": "paragraph"
     }
@@ -102,13 +98,13 @@ Press:
 [
     {
         "attrs": [],
-        "content": "Press Service",
+        "content": "Press Contact",
         "id": "_avg4328cc",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "Here you can download our press releases",
+        "content": "Here you will find our press releases for download.",
         "id": "_a7378w6rm",
         "type": "paragraph"
     }
@@ -121,7 +117,7 @@ Presscontact:
 [
     {
         "attrs": [],
-        "content": "<a href=\"mailto: k.neumann@offensive-tanz.de\">Katharina Neumann</a> will be happy to answer any press inquiries",
+        "content": "For press inquiries please contact <a href=\"mailto:k.neumann@offensive-tanz.de\">Katharina Neumann</a>",
         "id": "_bwcz1tnwe",
         "type": "paragraph"
     }
@@ -140,7 +136,7 @@ Contact:
     },
     {
         "attrs": [],
-        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o das programm GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin",
+        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o Studio36 GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin",
         "id": "_vehAPtICN",
         "type": "paragraph"
     },
@@ -152,7 +148,13 @@ Contact:
     },
     {
         "attrs": [],
-        "content": "<strong>Management:</strong> Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
+        "content": "<strong>Register Court:</strong> Amtsgericht Berlin-Charlottenburg HRB 212825",
+        "id": "_uaoav3ncl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Executive Board Members: </strong>Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
         "id": "_ntPWEBt0Y",
         "type": "paragraph"
     }

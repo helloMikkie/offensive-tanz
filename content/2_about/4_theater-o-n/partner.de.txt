@@ -77,14 +77,20 @@ Text:
     },
     {
         "attrs": [],
-        "content": "\u00bbWas diese Spieler im Inneren bewegt, wo sie sich an der Welt reiben, was ihnen unter die Haut geht, \u00fcbersetzen sie mit materiellen und immateriellen Dingen, oft mit profanen Gegenst\u00e4nden, die jeder durch seinen allt\u00e4glichen Gebrauch kennt. Sie l\u00f6sen die Dinge aus der gewohnten Umgebung, verwandeln sie und entdecken auf diese Weise, was in ihnen steckt. Sie nehmen ihre Zuschauer auf diese Entdeckungsfahrt mit und erleben mit ihnen wie eine Komposition entsteht, die die Phantasie der Zuschauer \u2013 gleich welchen Alters, herausfordert.",
-        "id": "_aIDBylOkq",
+        "content": "Was diese Spieler im Inneren bewegt, wo sie sich an der Welt reiben, was ihnen unter die Haut geht, \u00fcbersetzen sie mit materiellen und immateriellen Dingen, oft mit profanen Gegenst\u00e4nden, die jeder durch seinen allt\u00e4glichen Gebrauch kennt. Sie l\u00f6sen die Dinge aus der gewohnten Umgebung, verwandeln sie und entdecken auf diese Weise, was in ihnen steckt. Sie nehmen ihre Zuschauer auf diese Entdeckungsfahrt mit und erleben mit ihnen wie eine Komposition entsteht, die die Phantasie der Zuschauer \u2013 gleich welchen Alters, herausfordert.<br>Wobei \u2013 wer will es leugnen \u2013 dieses Verhalten der K\u00fcnstler und das der Kinder \u2013 Peter Hacks nennt sie die \u201epoetischen Menschen\u201c sich \u00e4hneln, wenn nicht sich sogar entsprechen. Die Kunst, die durch dieses Zusammenspiel entsteht, hat sehr viel mit Ber\u00fchrung zu tun.",
+        "id": "_v9hlhqnqo",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Christel Hoffmann</strong>",
+        "id": "_osrqjzdix",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Wobei \u2013 wer will es leugnen \u2013 dieses Verhalten der K\u00fcnstler und das der Kinder \u2013 Peter Hacks nennt sie die \u201epoetischen Menschen\u201c sich \u00e4hneln, wenn nicht sich sogar entsprechen. Die Kunst, die durch dieses Zusammenspiel entsteht, hat sehr viel mit Ber\u00fchrung zu tun.\u00ab",
-        "id": "_Q9pQMXP2f",
+        "content": "\u2192 <a href=\"https://www.theater-on.de/de/aktuell/\">Theater o.N.</a>",
+        "id": "_18zj3kn34",
         "type": "paragraph"
     }
 ]
