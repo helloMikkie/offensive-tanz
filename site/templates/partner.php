@@ -12,7 +12,7 @@
                     <p class="credit"><span>© </span><?= $page->image()->credit() ?></p>
                 </div>
             <?php endif ?>
-            <article class="stack card-content centered">
+            <article class="stack-small card-content centered">
                 <h2 class="text-purple"><?= $page->title() ?></h2>
                 <?php if ($page->subtitle()->isNotEmpty()) : ?>
                     <p><?= $page->subtitle() ?></p>
@@ -29,7 +29,7 @@
                     <p class="credit"><span>© </span><?= $page->image()->credit() ?></p>
                 </div>
             <?php endif ?>
-            <article class="stack card-content centered">
+            <article class="stack-small card-content centered">
                 <h2 class="text-tanzkomplizen"><?= $page->title() ?></h2>
                 <?php if ($page->subtitle()->isNotEmpty()) : ?>
                     <p><?= $page->subtitle() ?></p>
@@ -45,7 +45,7 @@
                     <p class="credit"><span>© </span><?= $page->image()->credit() ?></p>
                 </div>
             <?php endif ?>
-            <article class="stack card-content centered">
+            <article class="stack-small card-content centered">
                 <h2 class="text-theater_strahl"><?= $page->title() ?></h2>
                 <?php if ($page->subtitle()->isNotEmpty()) : ?>
                     <p><?= $page->subtitle() ?></p>
@@ -61,7 +61,7 @@
                     <p class="credit"><span>© </span><?= $page->image()->credit() ?></p>
                 </div>
             <?php endif ?>
-            <article class="stack card-content centered">
+            <article class="stack-small card-content centered">
                 <h2 class="text-theater_oN"><?= $page->title() ?></h2>
                 <?php if ($page->subtitle()->isNotEmpty()) : ?>
                     <p><?= $page->subtitle() ?></p>
@@ -74,12 +74,14 @@
 
 
     <!-- Text -->
-    <section class="stack">
-        <?= $page->text()->blocks() ?>
-    </section>
+    <div class="wrapper-medium">
+
+        <section class="stack-medium">
+            <?= $page->text()->blocks() ?>
+        </section>
     <!-- Events der einzelnen Partner -->
 
-    <section class="stack">
+    <section class="wrapper-large stack-medium">
         <h2 class="heading"><?= t('events') ?></h2>
         
         <?php if ($page->title() == "Purple") : ?>
@@ -100,6 +102,8 @@
             </div>
         <?php endif ?>
     </section>
+
+        </div>
 </main>
 
 <?php snippet('footer') ?>

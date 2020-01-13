@@ -28,8 +28,8 @@ slideArea.addEventListener("click", function() {
 // Hover Transition mit Random transform-translate
 slideArea.addEventListener("mouseover", function() {
   slides.forEach(item => {
-    const x = 100 * Math.random() - 50;
-    const y = 100 * Math.random() - 50;
+    const x = 60 * Math.random() - 20;
+    const y = 60 * Math.random() - 20;
     item.style.transform = `translate(${x}px, ${y}px)`; 
   });
 });

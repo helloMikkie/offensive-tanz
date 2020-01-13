@@ -20,26 +20,26 @@ Text:
     {
         "attrs": [],
         "content": "<strong>Register Court: </strong>Amtsgericht Berlin-Charlottenburg HRB 212825",
-        "id": "_f9iby6ztz",
-        "type": "paragraph"
+        "id": "_f1i80jac6",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "<strong>Represented by Executive Board: </strong>Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
-        "id": "_gfrNJeqXf",
-        "type": "paragraph"
+        "id": "_5gn3roj3p",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "<strong>Editorial Work:</strong> Katharina Neumann, Canan Erek",
-        "id": "_1lp438e8x",
-        "type": "paragraph"
+        "id": "_7p6a1sfs8",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "<strong>Concept and design: </strong><a href=\"http://www.heimannundschwantes.de/\">Heimann + Schwantes</a>",
-        "id": "_e7a9of05l",
-        "type": "paragraph"
+        "id": "_539kq4ouc",
+        "type": "ul"
     },
     {
         "attrs": [],

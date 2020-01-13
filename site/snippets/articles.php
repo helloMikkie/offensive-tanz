@@ -8,13 +8,15 @@
                     <p class="credit"><span>© </span><?= $article->image()->credit() ?></p>
                 </div>
             <?php endif ?>
-            <article class="stack card-content centered">
-                <p><?= $article->date()->toDate('%e.%m.%Y') ?></p>
+            <article class="stack-small card-content">
+                <p><?= $article->author() ?></p>
                 <h2 class="text-neutral"><?= $article->title() ?></h2>
                 <?php if ($article->subtitle()->isNotEmpty()) : ?>
                     <h3><?= $article->subtitle() ?></h3>
                 <?php endif ?>
-                <p><?= $article->author() ?></p>
+                <div class="card-content-date">
+                    <p><?= $article->date()->toDate('%e.%m.%Y') ?></p>
+                </div>
                 
             </article>
         </div>

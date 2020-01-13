@@ -53,6 +53,4 @@ fields:
     allowed: 
       - h2
       - paragraph
-
-
-            
+      - ul

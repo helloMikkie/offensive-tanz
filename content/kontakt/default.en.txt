@@ -20,20 +20,20 @@ Text:
     {
         "attrs": [],
         "content": "<strong>Register Court:</strong> Amtsgericht Berlin-Charlottenburg HRB 212825",
-        "id": "_jt8wg7j19",
-        "type": "paragraph"
+        "id": "_7zi6861qy",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "<strong>Represented by Executive Board: </strong>Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
-        "id": "_21s1g0vk3",
-        "type": "paragraph"
+        "id": "_7hi7xn8tg",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "<strong>Press and public relations</strong>: <a href=\"mailto: k.neumann@offensive-tanz.de\">Katharina Neumann</a>",
-        "id": "_2w3v8f2lv",
-        "type": "paragraph"
+        "id": "_qlt5snw7q",
+        "type": "ul"
     },
     {
         "attrs": [],
@@ -44,25 +44,25 @@ Text:
     {
         "attrs": [],
         "content": "<a href=\"https://purple-tanzfestival.de/\">PURPLE \u2013 Internationales Tanzfestival f\u00fcr junges Publikum</a>",
-        "id": "_m0sipvd1n",
-        "type": "paragraph"
+        "id": "_7n6oethgf",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "<a href=\"https://tanzkomplizen.de/\">Tanzkomplizen</a>",
-        "id": "_xe0zyvdpw",
-        "type": "paragraph"
+        "id": "_2krrlii0x",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "<a href=\"https://www.theater-strahl.de/\">Theater Strahl</a>",
-        "id": "_3buv8omg8",
-        "type": "paragraph"
+        "id": "_cjr58mfhs",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "<a href=\"https://www.theater-on.de/aktuell/\">Theater o.N.</a>",
-        "id": "_7r1w0sipy",
-        "type": "paragraph"
+        "id": "_tyt18upp2",
+        "type": "ul"
     }
 ]

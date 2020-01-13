@@ -2,13 +2,15 @@
 
 <main>
 
-  <section class="stack wrapper wrapper-large">
+  <section class="stack-medium wrapper wrapper-large">
     <?= $page->intro()->blocks() ?>
+  </section>
 
-        <!-- Tickets -->
+  <!-- Tickets -->
+  <section class="stack-medium wrapper wrapper-large">
     <?= $page->tickets()->blocks() ?>
 
-    <ul class="stack">
+    <ul class="stack-medium">
       <?php foreach ($page->ticketlinks()->toStructure() as $link) : ?>
         <a href="<?= $link->link() ?>" class="service">
           <li><?= $link->name() ?> ⇢</li>
@@ -24,7 +26,7 @@
   </section>
 
 
-  <section class="wrapper stack">
+  <section class="wrapper wrapper-medium stack-medium">
 
     <!-- Download   -->
 
@@ -36,7 +38,7 @@
           <div class="card download">
             <?php if ($download->images()->isNotEmpty()) : ?>
               <div class="card-image">
-                <?= $download->image()->crop(600, 300) ?>
+                <?= $download->image()->crop(1200, 800) ?>
                 <p class="credit"><span>© </span><?= $download->image()->credit() ?></p>
               </div>
             <?php endif ?>
@@ -48,15 +50,15 @@
       <?php endforeach ?>
     </section>
 
+  </section>
 
-
-    <!-- Presse -->
-
+  <!-- Presse -->
+  <section class="wrapper wrapper-large stack-medium">
     <?= $page->press()->blocks() ?>
-    
 
- <ul>
-    
+
+    <ul>
+
       <?php foreach ($page->documents()->filterBy('filename', '*=', 'press') as $pdf) : ?>
         <li class="presse">
           <a href="<?= $pdf->url() ?>" target="_blank">
@@ -65,13 +67,17 @@
           </a>
         </li>
       <?php endforeach ?>
-    </ul>   
-
-<!-- Kontakt -->
+    </ul>
 
     <?= $page->pressContact()->blocks() ?>
-    <!-- Kontakt -->
-    <?= $page->contact()->blocks() ?>
+
+  </section>
+
+  <!-- Kontakt -->
+
+  <section class="wrapper wrapper-large stack-medium">
+
+  <?= $page->contact()->blocks() ?>
 
   </section>
 

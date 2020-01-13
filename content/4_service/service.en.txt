@@ -149,13 +149,13 @@ Contact:
     {
         "attrs": [],
         "content": "<strong>Register Court:</strong> Amtsgericht Berlin-Charlottenburg HRB 212825",
-        "id": "_uaoav3ncl",
+        "id": "_jjql3qjgb",
         "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "<strong>Executive Board Members: </strong>Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
-        "id": "_ntPWEBt0Y",
+        "id": "_99dhv2zpk",
         "type": "paragraph"
     }
 ]

@@ -3,60 +3,74 @@
 <main>
 
 
-<?php if ($page->vorlage() == 'Purple') : ?>
-            <?php snippet('event-slides/blue') ?>
-<?php endif ?>
-<?php if ($page->vorlage() == 'Tanzkomplizen') : ?>
-            <?php snippet('event-slides/red') ?>
-<?php endif ?>
-<?php if ($page->vorlage() == 'Theater Strahl') : ?>
-            <?php snippet('event-slides/green') ?>
-<?php endif ?>
-<?php if ($page->vorlage() == 'Theater o.N.') : ?>
-            <?php snippet('event-slides/yellow') ?>
-<?php endif ?>
-<?php if ($page->vorlage() == 'Neutral.') : ?>
-            <?php snippet('event-slides/black') ?>
-<?php endif ?>
+    <?php if ($page->vorlage() == 'Purple') : ?>
+        <?php snippet('event-slides/blue') ?>
+    <?php endif ?>
+    <?php if ($page->vorlage() == 'Tanzkomplizen') : ?>
+        <?php snippet('event-slides/red') ?>
+    <?php endif ?>
+    <?php if ($page->vorlage() == 'Theater Strahl') : ?>
+        <?php snippet('event-slides/green') ?>
+    <?php endif ?>
+    <?php if ($page->vorlage() == 'Theater o.N.') : ?>
+        <?php snippet('event-slides/yellow') ?>
+    <?php endif ?>
+    <?php if ($page->vorlage() == 'Neutral.') : ?>
+        <?php snippet('event-slides/black') ?>
+    <?php endif ?>
 
 
-    <section class="stack wrapper wrapper-large">
+    <section class="stack-medium wrapper wrapper-large">
 
         <!-- Event-Header -->
 
         <?php if ($page->vorlage() == 'Purple') : ?>
             <?php snippet('event-header/blue') ?>
-            <?php snippet('event-dates/blue') ?>
-        
+            <div class="stack">
+                <?php snippet('event-dates/blue') ?>
+            </div>
 
         <?php elseif ($page->vorlage() == "Tanzkomplizen") : ?>
             <?php snippet('event-header/red') ?>
-            <?php snippet('event-dates/red') ?>
+            <div class="stack">
+                <?php snippet('event-dates/red') ?>
+            </div>
 
         <?php elseif ($page->vorlage() == "Theater Strahl") : ?>
             <?php snippet('event-header/green') ?>
-            <?php snippet('event-dates/green') ?>
+            <div class="stack">
+                <?php snippet('event-dates/green') ?>
+            </div>
+
 
         <?php elseif ($page->vorlage() == "Theater o.N.") : ?>
             <?php snippet('event-header/yellow') ?>
-            <?php snippet('event-dates/yellow') ?>
+            <div class="stack">
+                <?php snippet('event-dates/yellow') ?>
+            </div>
 
         <?php elseif ($page->vorlage() == "Neutral") : ?>
             <?php snippet('event-header/black') ?>
-            <?php snippet('event-dates/neutral') ?>
+            <div class="stack">
+                <?php snippet('event-dates/neutral') ?>
+            </div>
 
         <?php endif ?>
 
-        <!-- Text Content  -->
+    </section>
+
+    <!-- Text Content  -->
+    <section class="stack-medium wrapper wrapper-large">
 
         <h1 class="heading"><?= $page->title() ?></h1>
+        <?= $page->description()->blocks() ?>
+    </section>
 
-        <p><?= $page->description()->blocks() ?></p>
+    <!-- CONTENT: Artists List -->
 
-        <!-- CONTENT: Artists List -->
 
         <?php if ($page->artists()->isNotEmpty()) : ?>
-            <section>
+            <section class="stack-medium wrapper wrapper-large">
                 <h2 class="heading"><?= t('kuenstler') ?></h2>
                 <ul>
                     <?php foreach ($page->artists()->toStructure() as $artist) : ?>
@@ -66,10 +80,11 @@
             </section>
         <?php endif ?>
 
+
         <!-- CONTENT: Staff List -->
 
         <?php if ($page->staffs()->isNotEmpty()) : ?>
-            <section>
+            <section class="stack-medium wrapper wrapper-large">
                 <h2 class="heading"><?= t('mitarbeiter') ?></h2>
                 <ul>
                     <?php foreach ($page->staffs()->toStructure() as $staff) : ?>
@@ -82,10 +97,11 @@
         <!-- CONTENT: Subtext -->
 
         <?php if ($page->subtext()->isNotEmpty()) : ?>
-            <p><?= $page->subtext()->blocks() ?></p>
+            <section class="stack-medium wrapper wrapper-large">
+                <?= $page->subtext()->blocks() ?>
+            </section>
         <?php endif ?>
 
-    </section>
 
 </main>
 

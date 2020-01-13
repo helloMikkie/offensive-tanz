@@ -1,16 +1,17 @@
 <?php snippet('header') ?>
 
-<main class="stack wrapper wrapper-large">  
+<main class="wrapper wrapper-large"> 
+
+    <section class="stack-medium event-list">
     <h2 class="heading"><?= t('upcoming')?></h2>
-    <section class="stack event-list">
-         <?php snippet('upcoming', ['upcoming' => $upcomingEvents]) ?>
+        <?php snippet('upcoming', ['upcoming' => $upcomingEvents]) ?>
     </section>
 
-
+    <section class="wrapper-medium stack-medium event-list">
     <h2 class="heading"><?= t('past')?></h2>
-    <section class="stack event-list">
         <?php snippet('past', ['past' => $pastEvents]) ?>
     </section>  
+
 
 </main>
 

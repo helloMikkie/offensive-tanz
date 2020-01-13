@@ -20,26 +20,26 @@ Text:
     {
         "attrs": [],
         "content": "<strong>Registergericht</strong>: Amtsgericht Berlin-Charlottenburg HRB 212825",
-        "id": "_oju8dhkl7",
-        "type": "paragraph"
+        "id": "_htfb639o7",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "<strong>Vertreten durch die Gesch\u00e4ftsf\u00fchrung:</strong> <br>Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
-        "id": "_gfrNJeqXf",
-        "type": "paragraph"
+        "id": "_1qwcsj2fc",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "<strong>Redaktion: </strong>Katharina Neumann, Canan Erek",
-        "id": "_cd6hrognn",
-        "type": "paragraph"
+        "id": "_al4iy3p3e",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "<strong>Konzept und Gestaltung: </strong><a href=\"http://www.heimannundschwantes.de/\">Heimann + Schwantes</a>",
-        "id": "_fajo5f963",
-        "type": "paragraph"
+        "id": "_rif4fflb4",
+        "type": "ul"
     },
     {
         "attrs": [],
@@ -67,8 +67,14 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Bei direkten oder indirekten Verweisen auf fremde Webseiten (\u201eHyperlinks\u201c), die au\u00dferhalb des Verantwortungsbereiches der Autorinnen liegen, w\u00fcrde eine Haftungsverpflichtung ausschlie\u00dflich in dem Fall in Kraft treten, in dem die Autorinnen von den Inhalten Kenntnis haben und es ihnen technisch m\u00f6glich und zumutbar w\u00e4re, die Nutzung im Falle rechtswidriger Inhalte zu verhindern.<br>Die Autorinnen erkl\u00e4ren hiermit ausdr\u00fccklich, dass zum Zeitpunkt der Linksetzung keine illegalen Inhalte auf den zu verlinkenden Seiten erkennbar waren. Auf die aktuelle und zuk\u00fcnftige Gestaltung, die Inhalte oder die Urheberschaft der verlinkten/verkn\u00fcpften Seiten haben die Autorinnen keinerlei Einfluss. Deshalb distanzieren sie sich hiermit ausdr\u00fccklich von allen Inhalten aller verlinkten /verkn\u00fcpften Seiten, die nach der Linksetzung ver\u00e4ndert wurden. Diese Feststellung gilt f\u00fcr alle innerhalb des eigenen Internetangebotes gesetzten Links und Verweise sowie f\u00fcr Fremdeintr\u00e4ge in von den Autor*innen eingerichteten G\u00e4steb\u00fcchern, Diskussionsforen, Linkverzeichnissen, Mailinglisten und in allen anderen Formen von Datenbanken, auf deren Inhalt externe Schreibzugriffe m\u00f6glich sind. F\u00fcr illegale, fehlerhafte oder unvollst\u00e4ndige Inhalte und insbesondere f\u00fcr Sch\u00e4den, die aus der Nutzung oder Nichtnutzung solcherart dargebotener Informationen entstehen, haftet allein der Anbieter der Seite, auf welche verwiesen wurde, nicht derjenige, der \u00fcber Links auf die jeweilige Ver\u00f6ffentlichung lediglich verweist.",
+        "content": "Bei direkten oder indirekten Verweisen auf fremde Webseiten (\u201eHyperlinks\u201c), die au\u00dferhalb des Verantwortungsbereiches der Autorinnen liegen, w\u00fcrde eine Haftungsverpflichtung ausschlie\u00dflich in dem Fall in Kraft treten, in dem die Autorinnen von den Inhalten Kenntnis haben und es ihnen technisch m\u00f6glich und zumutbar w\u00e4re, die Nutzung im Falle rechtswidriger Inhalte zu verhindern.",
         "id": "_hZI9FiGir",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die Autorinnen erkl\u00e4ren hiermit ausdr\u00fccklich, dass zum Zeitpunkt der Linksetzung keine illegalen Inhalte auf den zu verlinkenden Seiten erkennbar waren. Auf die aktuelle und zuk\u00fcnftige Gestaltung, die Inhalte oder die Urheberschaft der verlinkten/verkn\u00fcpften Seiten haben die Autorinnen keinerlei Einfluss. Deshalb distanzieren sie sich hiermit ausdr\u00fccklich von allen Inhalten aller verlinkten /verkn\u00fcpften Seiten, die nach der Linksetzung ver\u00e4ndert wurden. Diese Feststellung gilt f\u00fcr alle innerhalb des eigenen Internetangebotes gesetzten Links und Verweise sowie f\u00fcr Fremdeintr\u00e4ge in von den Autor*innen eingerichteten G\u00e4steb\u00fcchern, Diskussionsforen, Linkverzeichnissen, Mailinglisten und in allen anderen Formen von Datenbanken, auf deren Inhalt externe Schreibzugriffe m\u00f6glich sind. F\u00fcr illegale, fehlerhafte oder unvollst\u00e4ndige Inhalte und insbesondere f\u00fcr Sch\u00e4den, die aus der Nutzung oder Nichtnutzung solcherart dargebotener Informationen entstehen, haftet allein der Anbieter der Seite, auf welche verwiesen wurde, nicht derjenige, der \u00fcber Links auf die jeweilige Ver\u00f6ffentlichung lediglich verweist.",
+        "id": "_nv7sc4s7s",
         "type": "paragraph"
     },
     {

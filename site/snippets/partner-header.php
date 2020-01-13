@@ -11,7 +11,7 @@
                             <p class="credit"><span>© </span><?= $partner->image()->credit() ?></p>
                         </div>
                     <?php endif ?>
-                    <article class="stack card-content centered">
+                    <article class="stack-small card-content centered">
                         <h2 class="text-purple"><?= $partner->title() ?></h2>
                         <?php if ($partner->subtitle()->isNotEmpty()) : ?>
                             <p><?= $partner->subtitle() ?></p>
@@ -30,7 +30,7 @@
                     <p class="credit"><span>© </span><?= $partner->image()->credit() ?></p>
                 </div>
             <?php endif ?>
-            <article class="stack card-content centered">
+            <article class="stack-small card-content centered">
 
                 <h2 class="text-tanzkomplizen"><?= $partner->title() ?></h2>
                 <?php if ($partner->subtitle()->isNotEmpty()) : ?>
@@ -49,7 +49,7 @@
                     <p class="credit"><span>© </span><?= $partner->image()->credit() ?></p>
                 </div>
             <?php endif ?>
-            <article class="stack card-content centered">
+            <article class="stack-small card-content centered">
 
                 <h2 class="text-theater_strahl"><?= $partner->title() ?></h2>
                 <?php if ($partner->subtitle()->isNotEmpty()) : ?>
@@ -68,7 +68,7 @@
                     <p class="credit"><span>© </span><?= $partner->image()->credit() ?></p>
                 </div>
             <?php endif ?>
-            <article class="stack card-content centered">
+            <article class="stack-small card-content centered">
 
                 <h2 class="text-theater_oN"><?= $partner->title() ?></h2>
                 <?php if ($partner->subtitle()->isNotEmpty()) : ?>

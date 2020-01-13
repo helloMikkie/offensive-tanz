@@ -188,38 +188,38 @@ Text:
     {
         "attrs": [],
         "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)",
-        "id": "_m9gzeZfCx",
-        "type": "paragraph"
+        "id": "_o4huwtgxe",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "Oranienstra\u00dfe 183 c/o das programm GmbH",
-        "id": "_Abi8uDqEW",
-        "type": "paragraph"
+        "id": "_bl1li69w8",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "10999 Berlin",
-        "id": "_NgvruWCZt",
-        "type": "paragraph"
+        "id": "_gcidybzfv",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "Deutschland",
-        "id": "_ECXmRSN5O",
-        "type": "paragraph"
+        "id": "_3i96ll41z",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "<strong>E-Mail:</strong> info@offensive-tanz.de",
-        "id": "_k9cGINE4x",
-        "type": "paragraph"
+        "id": "_at1jfd6w8",
+        "type": "ul"
     },
     {
         "attrs": [],
         "content": "<strong>Website</strong>: www.offensive-tanz.de",
-        "id": "_yL2yZW9fL",
-        "type": "paragraph"
+        "id": "_ae02056do",
+        "type": "ul"
     },
     {
         "attrs": [],
@@ -487,8 +487,20 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europ\u00e4ischen Richtlinien- und Verordnungsgeber gew\u00e4hrte Recht, nicht einer ausschlie\u00dflich auf einer automatisierten Verarbeitung \u2014 einschlie\u00dflich Profiling \u2014 beruhenden Entscheidung unterworfen zu werden, die ihr gegen\u00fcber rechtliche Wirkung entfaltet oder sie in \u00e4hnlicher Weise erheblich beeintr\u00e4chtigt, sofern die Entscheidung (1) nicht f\u00fcr den Abschluss oder die Erf\u00fcllung eines Vertrags zwischen der betroffenen Person und dem Verantwortlichen erforderlich ist, oder (2) aufgrund von Rechtsvorschriften der Union oder der Mitgliedstaaten, denen der Verantwortliche unterliegt, zul\u00e4ssig ist und diese Rechtsvorschriften angemessene Ma\u00dfnahmen zur Wahrung der Rechte und Freiheiten sowie der berechtigten Interessen der betroffenen Person enthalten oder (3) mit ausdr\u00fccklicher Einwilligung der betroffenen Person erfolgt.<br>Ist die Entscheidung (1) f\u00fcr den Abschluss oder die Erf\u00fcllung eines Vertrags zwischen der betroffenen Person und dem Verantwortlichen erforderlich oder (2) erfolgt sie mit ausdr\u00fccklicher Einwilligung der betroffenen Person, trifft die OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) angemessene Ma\u00dfnahmen, um die Rechte und Freiheiten sowie die berechtigten Interessen der betroffenen Person zu wahren, wozu mindestens das Recht auf Erwirkung des Eingreifens einer Person seitens des Verantwortlichen, auf Darlegung des eigenen Standpunkts und auf Anfechtung der Entscheidung geh\u00f6rt.<br>M\u00f6chte die betroffene Person Rechte mit Bezug auf automatisierte Entscheidungen geltend machen, kann sie sich hierzu jederzeit an einen Mitarbeiter des f\u00fcr die Verarbeitung Verantwortlichen wenden.",
+        "content": "Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europ\u00e4ischen Richtlinien- und Verordnungsgeber gew\u00e4hrte Recht, nicht einer ausschlie\u00dflich auf einer automatisierten Verarbeitung \u2014 einschlie\u00dflich Profiling \u2014 beruhenden Entscheidung unterworfen zu werden, die ihr gegen\u00fcber rechtliche Wirkung entfaltet oder sie in \u00e4hnlicher Weise erheblich beeintr\u00e4chtigt, sofern die Entscheidung (1) nicht f\u00fcr den Abschluss oder die Erf\u00fcllung eines Vertrags zwischen der betroffenen Person und dem Verantwortlichen erforderlich ist, oder (2) aufgrund von Rechtsvorschriften der Union oder der Mitgliedstaaten, denen der Verantwortliche unterliegt, zul\u00e4ssig ist und diese Rechtsvorschriften angemessene Ma\u00dfnahmen zur Wahrung der Rechte und Freiheiten sowie der berechtigten Interessen der betroffenen Person enthalten oder (3) mit ausdr\u00fccklicher Einwilligung der betroffenen Person erfolgt.",
         "id": "_hno1rgrhl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ist die Entscheidung (1) f\u00fcr den Abschluss oder die Erf\u00fcllung eines Vertrags zwischen der betroffenen Person und dem Verantwortlichen erforderlich oder (2) erfolgt sie mit ausdr\u00fccklicher Einwilligung der betroffenen Person, trifft die OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) angemessene Ma\u00dfnahmen, um die Rechte und Freiheiten sowie die berechtigten Interessen der betroffenen Person zu wahren, wozu mindestens das Recht auf Erwirkung des Eingreifens einer Person seitens des Verantwortlichen, auf Darlegung des eigenen Standpunkts und auf Anfechtung der Entscheidung geh\u00f6rt.",
+        "id": "_w2qapnsnt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "M\u00f6chte die betroffene Person Rechte mit Bezug auf automatisierte Entscheidungen geltend machen, kann sie sich hierzu jederzeit an einen Mitarbeiter des f\u00fcr die Verarbeitung Verantwortlichen wenden.",
+        "id": "_w4z1yg8fy",
         "type": "paragraph"
     },
     {

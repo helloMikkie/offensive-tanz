@@ -45,46 +45,73 @@
   /* TYPOGRAPHY */
   --font-bold: "raisonne-bold";
   /* : Typesize */
-  --fs-large: 2rem; 
-  --fs-medium: 1.4rem; 
-  --fs-base: 1.125rem; 
-  --fs-small: 0.8rem; 
+  --fs-large: 1.6rem; 
+  --fs-medium: 1.2rem; 
+  --fs-base: 0.875rem; 
+  --fs-small: 0.6rem; 
   /*  : Line-height */
   --lh-small: 1.25; 
   --lh-base: 1.5;
-  --lh-madium: 1.8;
+  --lh-medium: 1.8;
 
   /* SPACES */
   --s-x-large: 6rem;
-  --s-large: 4rem; 
-  --s-medium: 1rem;
+  --s-large: 4rem;
+  --s-medium: 2.5rem;
   --s-base: 0.8rem; 
   --s-small: 0.3rem;
   --s-x-small: 0.1rem;  
 }
 
-@media (min-width: 50rem) {
+@media (min-width: 30rem) {
 
   :root{
     --scale: 1.125;
 
-    --fs-large: calc(var(--scale) * 2rem); 
-    --fs-medium: calc(var(--scale) * 1.4rem); 
-    --fs-base:calc(var(--scale) * 1.125rem) ; 
-    --fs-small: calc(var(--scale) * 0.8rem); 
+    --fs-large: calc(var(--scale) * 1.6rem); 
+    --fs-medium: calc(var(--scale) * 1.2rem); 
+    --fs-base:calc(var(--scale) * 0.875rem) ; 
+    --fs-small: calc(var(--scale) * 0.6rem); 
 
     --lh-small: calc(var(--scale) * 1.25); 
     --lh-base: calc(var(--scale) * 1.5);
-    --lh-madium: calc(var(--scale) * 1.8);
+    --lh-medium: calc(var(--scale) * 1.8);
 
-    --s-x-large: 10rem;
-    --s-large: 6rem; 
-    --s-medium: 2rem;
-    --s-base: 1rem; 
-    --s-small: 0.5rem;
-    --s-x-small: 0.2rem;  
+    --s-x-large: calc(var(--scale) * 6rem);
+    --s-large: calc(var(--scale) * 4rem); 
+    --s-medium: calc(var(--scale) * 2.5rem);
+    --s-base: calc(var(--scale) * 0.8rem); 
+    --s-small: calc(var(--scale) * 0.3rem);
+    --s-x-small: calc(var(--scale)0.1rem);  
   }
 }
+
+@media (min-width: 60rem) {
+
+  :root{
+    --scale: 1.4;
+
+    --fs-large: calc(var(--scale) * 1.6rem); 
+    --fs-medium: calc(var(--scale) * 1.2rem); 
+    --fs-base:calc(var(--scale) * 0.875rem) ; 
+    --fs-small: calc(var(--scale) * 0.6rem); 
+
+    --lh-small: calc(var(--scale) * 1.25); 
+    --lh-base: calc(var(--scale) * 1.5);
+    --lh-medium: calc(var(--scale) * 1.8);
+
+    --s-x-large: calc(var(--scale) * 6rem);
+    --s-large: calc(var(--scale) * 4rem); 
+    --s-medium: calc(var(--scale) * 2.5rem);
+    --s-base: calc(var(--scale) * 0.8rem); 
+    --s-small: calc(var(--scale) * 0.3rem);
+    --s-x-small: calc(var(--scale)0.1rem);  
+  }
+}
+
+ 
+}
+
 
 
 /* # # # # # #  RESET  # # # # # #  */

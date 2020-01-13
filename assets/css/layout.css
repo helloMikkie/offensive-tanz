@@ -11,10 +11,38 @@
   margin-top: var(--s-base);
 }
 
+.wrapper-medium{
+  margin-top: var(--s-medium);
 
+}
 .wrapper-large{
   margin-top: var(--s-x-large);
 }
+
+
+
+/* # # # # # #  STACK  # # # # # #  */
+
+.stack, .stack-small, .stack-medium {
+  display: flex;
+  flex-direction: column;
+}
+
+.stack > *, .stack-small > *, .stack-medium > * {
+  margin-top: 0;
+}
+
+.stack > * + *  {
+  margin-top: var(--s-large);
+}
+
+.stack-small > * + *{
+  margin-top: var(--s-small);
+}
+.stack-medium > * + * {
+  margin-top: var(--s-medium);
+}
+
 
 /* LIST CARDS */
 
@@ -28,6 +56,7 @@
 }
 
 /* CONTAINER  */
+
 .container {
   max-width: 60rem;
   margin-top: var(--s-medium);
@@ -51,11 +80,9 @@
 
 /* # # # # # #  LAYOUTS  # # # # # #  */
 
-/* # # # # # #  Switcher  # # # # # #  */
+/* # # # # # #  SWITCHER  # # # # # #  */
 
 .switcher {
-  /* --bp-basis: 40rem; 
-    --space_small: 1rem; */
   overflow: hidden;
 }
 
@@ -71,7 +98,7 @@
   flex-basis: calc((60rem - (100% - var(--s-base))) * 999);
 }
 
-/* # # # # # #  Cluster  # # # # # #  */
+/* # # # # # #  CLUSTER  # # # # # #  */
 
 .cluster {
   overflow: hidden;
@@ -85,33 +112,12 @@
   margin: calc(var(--s-base) / 2 * -1);
 }
 .cluster > * > * {
-  /* flex-grow: 1;  */
   margin: calc(var(--s-base) / 2);
 }
 
 /* Modifier: cluster */
 
 .cluster-small{
-    --s-base: var(--s-x-small);
-}
-
-/* # # # # # #  Stack  # # # # # #  */
-
-.stack {
-  display: flex;
-  flex-direction: column;
-  
-}
-
-.stack > * {
-  margin-top: 0;
-}
-
-.stack > * + * {
-  margin-top: var(--s-base);
-}
-/* Modifier: stack */
-.stack-small{
     --s-base: var(--s-x-small);
 }
 
@@ -160,12 +166,9 @@
     width: 100%;
     
   }
-  /* .badge{
-    transform: translateX(-100px);
-  } */
 }
 
-/* Subscription */
+/*  Subscription: Background Image */
 
 .subscription{
   background-position: center bottom;
@@ -197,7 +200,7 @@
     border-right: 1px solid var(--color-white);
 }
 .slide:nth-child(even){
-  transform: translate(-20px, 20px);
+  transform: translate(-10px, 10px);
 }
 
 @keyframes fade{
@@ -210,7 +213,7 @@
     padding: 0; 
   }
     slide:nth-child(even){
-      transform: translate(-50px, 50px);
+      transform: translate(-10px, 10px);
     }
 
 }
@@ -221,7 +224,6 @@
   text-decoration: none;
 }
 .card {
-
   display: flex;
   flex-wrap: wrap;
   background:var(--color-ultrawhite); 
@@ -257,11 +259,21 @@
 }
 .card-content > h2,
 .card-content > h3 {
-  font-size: var(--fs-large);
-  letter-spacing: -0.03rem;
   text-align: left;
   text-transform: none;
 }
+
+.card-content > h2{
+  font-size: var(--fs-large);
+  letter-spacing: -0.03rem;
+}
+
+.card-content > h3{
+  font-size: var(--fs-large);
+  font-family: "raisonne-bold";
+  letter-spacing: 0.03rem;
+}
+
 
 .card-content-batch {
   display: flex;
@@ -278,6 +290,23 @@
 }
 .card-content-batch > p {
   font-size: var(--fs-large);
+}
+
+.card-content-date{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  background: var(--color-text);
+  text-align: center;
+  padding: 0.15rem 0.8rem; 
+  color: var(--color-white);;
+  margin-top: auto;
+  align-self: flex-end;
+  border-radius: 999px; 
+}
+
+.card-content-date > p {
+  font-size: var(--fs-small);
 }
 /* Modifier:  Card Layout Components */
 
@@ -300,6 +329,7 @@
 }
 .download-list{
   border-bottom: 10px solid var(--color-text); 
+
 }
 
 /* # # # # # #  EVENT INFO  # # # # # #  */
@@ -307,7 +337,7 @@
 .event-info-container{
   border-top: 10px solid var(--color-red);
   padding-top: 1rem; 
- 
+
 }
 .event-info > * {
   color: #000;
@@ -316,37 +346,16 @@
   padding: var(--s-small);
   border-bottom: 1px dotted #000; 
 }
-/* 
-.event-info-purple > li{
-  background: var(--color-blue); 
-}
-.event-info-tanzkomplizen > li{
-  background: var(--color-red); 
-}
-.event-info-theater_strahl > li{
-  background: var(--color-green); 
-}
-.event-info-theater_oN > li{
-  background: var(--color-yellow); 
-}
-.event-info-neutral > li{
-  background: var(--color-text); 
-  color:var(--color-gray); 
-} */
 
 .event-info > * > span {
   font-family: "raisonne-book";
   text-transform: uppercase;
   letter-spacing: 0.2rem;
-  /* color: var(--color-white); */
   margin-right: var(--s-small);
 }
 
-
 .event-info-caption {
   font-size: var(--fs-small);
-  /* max-width: 70ch; */
-  /* margin-left: var(--s-medium); */
   line-height: 1.4;
 }
 
@@ -374,6 +383,8 @@
   text-transform: uppercase;
   letter-spacing: 0.1rem;
 }
+
+
 /* # # # # # #  IMAGE CREDIT  # # # # # #  */
 
 .hero-slides div .credit,
@@ -411,4 +422,25 @@
 }
 .service:last-child {
   color: var(--color-yellow);
+}
+
+/* # # # # # #  Service Downloads, pdf iframe Preview # # # # # #  */
+
+.pdf-preview{
+  display: block; 
+  margin-top: 10rem; 
+  margin-left: 1rem; 
+  margin-right: 1rem;  
+  width:calc(100% - 2rem); 
+  height: 100vh;
+}
+
+/* # # # # # #  Default # # # # # #  */
+
+.default h2{
+  margin-top: var(--s-large); 
+}
+
+.default ul li{
+  border-bottom: 1px solid var(--color-text);
 }

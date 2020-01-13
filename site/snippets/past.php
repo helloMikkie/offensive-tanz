@@ -10,7 +10,7 @@
                         <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
                     </div>
                 <?php endif ?>
-                <article class="stack stack-small card-content ">
+                <article class="stack-small card-content ">
                     <p><?= t($event->label()->value(), ucfirst($event->label()->html())) ?></p>
                     <!-- <p><?= $event->label() ?></p> -->
                     <h2 class="text-purple"><?= $event->title() ?></h2>
@@ -37,7 +37,7 @@
                         <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
                     </div>
                 <?php endif ?>
-                <article class="stack stack-small card-content">
+                <article class="stack-small card-content">
                     <p><?= t($event->label()->value(), ucfirst($event->label()->html())) ?></p>
                     <h2 class="text-tanzkomplizen"><?= $event->title() ?></h2>
                     <p><?= $event->author() ?></p>
@@ -63,7 +63,7 @@
                         <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
                     </div>
                 <?php endif ?>
-                <article class="stack stack-small card-content">
+                <article class="stack-small card-content">
                     <p><?= t($event->label()->value(), ucfirst($event->label()->html())) ?></p>
                     <h2 class="text-theater_strahl"><?= $event->title() ?></h2>
                     <p><?= $event->author() ?></p>
@@ -89,7 +89,7 @@
                         <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
                     </div>
                 <?php endif ?>
-                <article class="stack stack-small card-content">
+                <article class="stack-small card-content">
                     <p><?= t($event->label()->value(), ucfirst($event->label()->html())) ?></p>
                     <h2 class="text-theater_oN"><?= $event->title() ?></h2>
                     <p><?= $event->author() ?></p>
@@ -114,7 +114,7 @@
                         <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
                     </div>
                 <?php endif ?>
-                <article class="stack stack-small card-content">
+                <article class="stack-small card-content">
                     <p><?= t($event->label()->value(), ucfirst($event->label()->html())) ?></p>
                     <h2 class="text-neutral"><?= $event->title() ?></h2>
                     <p><?= $event->author() ?></p>

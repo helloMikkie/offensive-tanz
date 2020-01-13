@@ -17,7 +17,7 @@
 
 <!-- Introtext -->
 
-<section class="wrapper stack wrapper-small">
+<section class="wrapper stack stack-medium wrapper-small">
     <?= $page->introtext()->blocks() ?>
 </section>
 
@@ -48,12 +48,14 @@
     <?php endforeach ?>
 </section> -->
 
-<main class="wrapper wrapper-large">
+<main class="wrapper">
 
+    <div class="wrapper-large">
     <!--  Featured Events:  Limited by 3 -->
 
+   
+    <section class="stack-medium event-list">
     <h2 class="heading"><?= t('events') ?></h2>
-    <section class="stack event-list">
         <?php snippet('upcoming', [
             'upcomingEvents' => page('events')
                 ->children()
@@ -63,10 +65,13 @@
                 ->limit(3)
         ]) ?>
     </section>
+    </div>
 
+    <div class="stack-medium wrapper-large">
 <!--  Featured Articles:  Limited by 3 -->
-    <h2 class="heading"><?= t('articles') ?></h2>
-    <section class="stack event-list download-list">
+<h2 class="heading"><?= t('articles') ?></h2>
+    <section class="event-list download-list">
+   
         <?php snippet('articles', [
             'article' => page('articles')
                 ->children()
@@ -77,7 +82,7 @@
         ]) ?>
     </section>
 
-
+    </div>
 </main>
 
 <!-- Feedback -->
