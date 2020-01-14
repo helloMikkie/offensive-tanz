@@ -24,7 +24,7 @@
 
 
 <!-- Header -->
-<section class="hero-slides wrapper-large " style="background-image: url('/assets/img/bg-slides-c.svg')">
+<section class="hero-slides wrapper-large " style="background-image: url('<?= url('assets/img/bg-slides-c.svg') ?>'">
 
     <?php foreach ($page->images()->sortBy('sort', 'desc') as $image) : ?>
         <div class="slide">

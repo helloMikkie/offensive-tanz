@@ -2,7 +2,7 @@
 
 
 
-    <div class="container-large subscription" style="background-image:url('/assets/img/bg-subscription.svg')">
+    <div class="container-large subscription" style="background-image:url('<?= url('assets/img/bg-subscription.svg') ?>'">
         <div class="centered">
 
         <?= $page->text()->blocks() ?>
