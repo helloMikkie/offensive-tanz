@@ -1,7 +1,8 @@
 
 const scrollTag = document.querySelector('.badge')
 
-scrollTag.addEventListener('click', function(event){
+if (scrollTag) {
+  scrollTag.addEventListener('click', function(event){
     event.preventDefault()
 
     const href = this.getAttribute('href')
@@ -9,4 +10,5 @@ scrollTag.addEventListener('click', function(event){
     window.scroll({
       top: topElement, behavior: 'smooth'
     })
-})
+  })
+}
