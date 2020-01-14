@@ -325,11 +325,13 @@
   background: none; 
   padding: 0; 
   border-top: 10px solid var(--color-text); 
-
 }
 .download-list{
   border-bottom: 10px solid var(--color-text); 
+}
 
+.gray{
+  color: var(--color-dark-gray);
 }
 
 /* # # # # # #  EVENT INFO  # # # # # #  */

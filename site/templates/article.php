@@ -13,7 +13,7 @@
         
             <h2 class="text-neutral"><?= $page->title() ?></h2>
             <?php if ($page->subtitle()->isNotEmpty()) : ?>
-                <h3><?= $page->subtitle() ?></h3>
+                <h3 class="gray"><?= $page->subtitle() ?></h3>
             <?php endif ?>
             <div class="card-content-date">
                 <p><?= $page->date()->toDate('%e.%m.%Y') ?></p>

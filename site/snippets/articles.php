@@ -12,7 +12,7 @@
                 <p><?= $article->author() ?></p>
                 <h2 class="text-neutral"><?= $article->title() ?></h2>
                 <?php if ($article->subtitle()->isNotEmpty()) : ?>
-                    <h3><?= $article->subtitle() ?></h3>
+                    <h3 class="gray"><?= $article->subtitle() ?></h3>
                 <?php endif ?>
                 <div class="card-content-date">
                     <p><?= $article->date()->toDate('%e.%m.%Y') ?></p>

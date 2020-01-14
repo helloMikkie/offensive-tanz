@@ -29,6 +29,7 @@
 :root {
   /* colors */
   --color-text: #222222;
+  --color-dark-gray: #7a7a7a;
   --color-gray: #a5a5a5;
   --color-ultrawhite: #ffffff;
 
@@ -77,12 +78,12 @@
     --lh-base: calc(var(--scale) * 1.5);
     --lh-medium: calc(var(--scale) * 1.8);
 
-    --s-x-large: 6rem;
-    --s-large: 4rem;
-    --s-medium: 2.5rem;
-    --s-base: 0.8rem; 
-    --s-small: 0.3rem;
-    --s-x-small: 0.1rem;   
+    --s-x-large: 8rem;
+    --s-large: 3rem;
+    --s-medium: 2rem;
+    --s-base: 1rem; 
+    --s-small: 0.5rem;
+    --s-x-small: 0.2rem;   
   }
 }
 
@@ -103,9 +104,9 @@
     --s-x-large: 10rem;
     --s-large: 4rem;
     --s-medium: 2.5rem;
-    --s-base: 0.8rem; 
-    --s-small: 0.3rem;
-    --s-x-small: 0.1rem;  
+    --s-base: 1.2rem; 
+    --s-small: 0.5rem;
+    --s-x-small: 0.25rem;  
   }
 }
 
@@ -268,7 +269,7 @@ em{
 }
 
 blockquote{
-  color: #525252; 
+  color: var(--color-dark-gray); 
   font-family: "raisonne-bold";
   font-size: var(--fs-medium);
   letter-spacing: 0.01rem; 
@@ -295,10 +296,20 @@ blockquote + p > strong{
   letter-spacing: 0.1rem; 
   font-family: "raisonne-book";
   text-transform: uppercase;
-
-  
 }
 
+figure{
+  padding-bottom: var(--s-small);
+  border-bottom: 10px solid var(--color-text);
+}
+figcaption{
+  max-width: 65ch; 
+  margin-top: var(--s-x-small);
+   font-size: var(--fs-small);
+  letter-spacing: 0.03rem; 
+  line-height: var(--lh-small);
+
+}
 /* # # # # # #  HELPER CLASSES  # # # # # #  */
 
 /* # # # # # #  Purple  # # # # # #  */

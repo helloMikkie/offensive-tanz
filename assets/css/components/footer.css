@@ -10,9 +10,9 @@
 .newsletter-datenschutz{
     font-size: var(--fs-small);
     align-self: flex-end;
-    margin-right: var(--s-medium); 
+    margin-right: var(--s-base); 
     margin-top: var(--s-large); 
-    margin-bottom: var(--s-medium); 
+    margin-bottom: var(--s-base); 
 }
 
 .newsletter-content{
@@ -42,7 +42,7 @@ input[type="submit"]{
     letter-spacing: 0.1rem; 
     border: 2px solid var(--color-white); 
     padding: 0.2rem 0.8rem;
-    margin-left: var(--s-small);
+    margin-left: var(--s-base);
     transition: all 0.2s ease-in-out;  
 }
 input[type="submit"]:hover{
@@ -52,13 +52,13 @@ input[type="submit"]:hover{
 .white{
     background: var(--color-white); 
     color: #000; 
-    padding: var(--s-medium); 
+    padding: 1rem; 
 }
 
 .black{
     background: var(--color-text); 
     color: #fff; 
-    padding: var(--s-medium);
+    padding: 1rem;
 }
 
 
