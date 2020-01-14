@@ -298,7 +298,8 @@
   justify-content: flex-end;
   background: var(--color-text);
   text-align: center;
-  padding: 0.15rem 0.8rem; 
+  padding: 0.2rem 0.8rem 0.1rem; 
+  /* line-height: 1; */
   color: var(--color-white);;
   margin-top: auto;
   align-self: flex-end;
@@ -332,6 +333,7 @@
 
 .gray{
   color: var(--color-dark-gray);
+  margin-bottom: 1rem; 
 }
 
 /* # # # # # #  EVENT INFO  # # # # # #  */
@@ -365,12 +367,13 @@
 
 .event-dates {
   flex-basis: 100%;
-  color: var(--color-white);;
+  color: var(--color-white);
   font-size: var(--fs-base);
   letter-spacing: 0.1rem;
-  padding: 0 var(--s-small);
+  /* padding: 0.2rem  var(--s-small) 0rem; */
+  padding: 0.2rem  0.5rem 0rem;
+  white-space: nowrap;
 }
-
 
 @media (min-width: 42rem) {
   .event-dates {
