@@ -59,8 +59,10 @@
 
 
     <ul>
-            
-      <?php foreach ($page->documents()->filterBy('filename', '*=', 'en') as $pdf) : ?>
+      <?php
+        // select files with current language and with no language set
+        $pdfs = array_merge($page->files()->filterBy('lang', $kirby->language()->code()), $page->files()->filterBy('lang', ''));
+        foreach ($pdfs as $pdf) : ?>
         <li class="presse">
           <a href="<?= $pdf->url() ?>" target="_blank">
             <?= $pdf->filename() ?>
