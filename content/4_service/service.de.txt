@@ -110,14 +110,6 @@ Press:
 
 ----
 
-Release:
-
-- >
-  beyondtellerrand-berlin-2019-ticket-vckl-1.pdf
-- de-press-release.pdf
-
-----
-
 Presscontact:
 
 [
@@ -165,6 +157,33 @@ Contact:
         "type": "paragraph"
     }
 ]
+
+----
+
+Release:
+
+- 
+  filename: de-press-release.pdf
+  dragText: '(file: de-press-release.pdf)'
+  icon:
+    type: file-document
+    ratio: 3/2
+    back: pattern
+    color: '#d16464'
+    cover: false
+  id: service/de-press-release.pdf
+  image:
+    ratio: 3/2
+    back: pattern
+    cover: false
+  info: ""
+  link: >
+    /pages/service/files/de-press-release.pdf
+  text: de-press-release.pdf
+  type: document
+  url: >
+    http://localhost:8888/media/pages/service/1016593870-1579079209/de-press-release.pdf
+  uuid: de-press-release.pdf
 
 ----
 

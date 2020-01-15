@@ -42,8 +42,6 @@ fields:
     allowed: 
       - h2
       - paragraph
-  release:
-    type: files
   pressContact:
     label: Presse Kontakt
     type: editor
