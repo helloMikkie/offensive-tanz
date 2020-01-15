@@ -1,0 +1,26 @@
+/* Cookie Consent */
+
+.cc-revoke,
+.cc-window,
+.cc-link,
+.cc-btn,
+.cc-revoke {
+  font-size: var(--fs-small);
+  letter-spacing: 0.03rem;
+  line-height: var(--lh-small);
+  font-family: raisonne-book, Arial, Helvetica, sans-serif;
+  color: #fff !important;
+  background: #000;
+  border-radius: 6px;
+}
+
+.cc-link {
+  padding: 0;
+}
+
+.cc-revoke {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  text-decoration: none !important;
+  transform: translateY(0);
+}

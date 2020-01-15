@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="<?= $kirby->language()->code() ?>">
 
 <head>
   <meta charset="UTF-8">
@@ -10,12 +10,14 @@
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 
   <?= css([
+    'assets/js/vendor/cookieconsent/cookieconsent.min.css',
     'assets/css/index.css',
     'assets/css/layout.css',
     'assets/css/components/header.css',
     'assets/css/components/footer.css',
     'assets/css/components/badge.css',
     'assets/css/components/feedback.css',
+    'assets/css/components/cookie-consent.css',
     '@auto'
   ]) ?>
 
