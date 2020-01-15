@@ -69,6 +69,7 @@ input[type="submit"]:hover{
     font-size: var(--fs-base);
     font-family: 'raisonne-bold';
     text-transform: uppercase; 
+    margin-bottom: 2rem;
 
 }
 .footer-links a{

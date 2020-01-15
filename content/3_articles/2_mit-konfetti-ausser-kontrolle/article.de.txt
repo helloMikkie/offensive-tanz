@@ -2,6 +2,10 @@ Title: Mit Konfetti außer Kontrolle
 
 ----
 
+Subtitle: Wenn es weiter geht dann geht es weiter
+
+----
+
 Featured: true
 
 ----
@@ -11,10 +15,6 @@ Author: Clement Layes , ONONON
 ----
 
 Date: 2020-08-22
-
-----
-
-Subtitle: Wenn es weiter geht dann geht es weiter
 
 ----
 
@@ -103,7 +103,7 @@ Text:
         "attrs": [],
         "content": "Pflanzen k\u00f6nnen tanzen",
         "id": "_5oj96z8ku",
-        "type": "ul"
+        "type": "paragraph"
     },
     {
         "attrs": {
@@ -111,7 +111,7 @@ Text:
         },
         "content": "ein Stapel Papppakete kreist um sich selbst",
         "id": "_jvntpwd8e",
-        "type": "ul"
+        "type": "paragraph"
     },
     {
         "attrs": {
@@ -119,24 +119,13 @@ Text:
         },
         "content": "Per\u00fccken kriechen wie von Geisterhand \u00fcber den Boden",
         "id": "_c5cl4a46k",
-        "type": "ul"
+        "type": "paragraph"
     },
     {
         "attrs": [],
         "content": "Wie ist das m\u00f6glich? Welcher Trick steckt wohl dahinter?",
         "id": "_kw1hsxlky",
         "type": "h2"
-    },
-    {
-        "attrs": {
-            "src": "http://localhost:8888/media/pages/Blog/mit-konfetti-ausser-kontrolle/3495682885-1576591541/flyer.png",
-            "id": "Blog/mit-konfetti-ausser-kontrolle/flyer.png",
-            "ratio": 1.164882226980728,
-            "caption": "Ich bin eine Bildunterschrift"
-        },
-        "content": "",
-        "id": "_s8ex6otk2",
-        "type": "image"
     }
 ]
 
@@ -149,7 +138,7 @@ Subtext:
         "attrs": [],
         "content": "Clement Layes",
         "id": "_e947ksk4f",
-        "type": "h2"
+        "type": "paragraph"
     },
     {
         "attrs": [],
