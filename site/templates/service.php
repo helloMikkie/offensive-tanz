@@ -60,8 +60,11 @@
 
     <ul>
       <?php
-        // select files with current language and with no language set
-        $pdfs = array_merge($page->files()->filterBy('lang', $kirby->language()->code()), $page->files()->filterBy('lang', ''));
+        // select files with current language
+        $files = $page->files()->filterBy('lang', $kirby->language()->code());
+        $pdfs = new Collection($files);
+        // add files with no language set
+        $pdfs->add($page->files()->filterBy('lang', ''));
         foreach ($pdfs as $pdf) : ?>
         <li class="presse">
           <a href="<?= $pdf->url() ?>" target="_blank">
