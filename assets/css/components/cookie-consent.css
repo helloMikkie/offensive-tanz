@@ -2,7 +2,6 @@
 
 .cc-revoke,
 .cc-window,
-.cc-link,
 .cc-btn,
 .cc-revoke {
   font-size: var(--fs-small);
@@ -15,6 +14,7 @@
 }
 
 .cc-link {
+  color: #fff !important;
   padding: 0;
 }
 
