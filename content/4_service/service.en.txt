@@ -184,3 +184,9 @@ Survey:
 ## Fragebogen zum Publikumsfeedback
 Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.
 (link: # text: Feedback geben!)
+
+----
+
+Release:
+
+- en-press-release.pdf
