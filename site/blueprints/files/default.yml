@@ -1,11 +1,19 @@
 title: File
 
 fields:
+  lang:
+    label: Sprache
+    type: select
+    width: 1/6
+    options: query
+    query:
+      fetch: kirby.languages
+      text: "{{ item.name }}"
+      value: "{{ item.code }}"
   alt:
     type: text
     width: 1/2
   credit:
     type: text
-    width: 1/2
+    width: 1/3
     before: ©
-
