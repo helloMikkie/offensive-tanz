@@ -24,6 +24,9 @@
   text-decoration: none !important;
   transform: translateY(0);
 }
+.cc-revoke.cc-left{
+  left: 1rem;
+}
 .cc-allow, .cc-deny{
   text-transform: uppercase; 
   letter-spacing: 0.1rem; 

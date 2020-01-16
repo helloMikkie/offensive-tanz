@@ -39,7 +39,10 @@
             <?php if ($download->images()->isNotEmpty()) : ?>
               <div class="card-image">
                 <?= $download->image()->crop(1200, 800) ?>
-                <p class="credit"><span>© </span><?= $download->image()->credit() ?></p>
+                <?php if ($download->image()->credit()->isNotEmpty()) : ?>
+                  <p class="credit"><span>© </span><?= $download->image()->credit() ?></p>
+                <?php endif ?>
+
               </div>
             <?php endif ?>
             <article class="stack card-content centered">

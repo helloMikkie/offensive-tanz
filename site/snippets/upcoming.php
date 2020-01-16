@@ -7,7 +7,9 @@
                 <?php if ($event->images()->isNotEmpty()) : ?>
                     <div class="card-image">
                         <?= $event->image()->crop(1200, 800) ?>
-                        <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
+                        <?php if ($event->image()->credit()->isNotEmpty()) : ?>
+                             <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
+                        <?php endif ?>
                     </div>
                 <?php endif ?>
                 <article class="stack-small card-content">
@@ -33,7 +35,9 @@
                 <?php if ($event->images()->isNotEmpty()) : ?>
                     <div class="card-image">
                         <?= $event->image()->crop(1200, 800) ?>
-                        <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
+                        <?php if ($event->image()->credit()->isNotEmpty()) : ?>
+                             <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
+                        <?php endif ?>
                     </div>
                 <?php endif ?>
                 <article class="stack-small card-content">
@@ -59,7 +63,9 @@
                 <?php if ($event->images()->isNotEmpty()) : ?>
                     <div class="card-image">
                         <?= $event->image()->crop(1200, 800) ?>
-                        <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
+                        <?php if ($event->image()->credit()->isNotEmpty()) : ?>
+                             <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
+                        <?php endif ?>
                     </div>
                 <?php endif ?>
                 <article class=" stack-small card-content">
@@ -85,7 +91,9 @@
                 <?php if ($event->images()->isNotEmpty()) : ?>
                     <div class="card-image">
                         <?= $event->image()->crop(1200, 800) ?>
-                        <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
+                        <?php if ($event->image()->credit()->isNotEmpty()) : ?>
+                             <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
+                        <?php endif ?>
                     </div>
                 <?php endif ?>
                 <article class=" stack-small card-content">
@@ -110,7 +118,9 @@
                 <?php if ($event->images()->isNotEmpty()) : ?>
                     <div class="card-image">
                         <?= $event->image()->crop(1200, 800) ?>
-                        <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
+                        <?php if ($event->image()->credit()->isNotEmpty()) : ?>
+                             <p class="credit"><span>© </span><?= $event->image()->credit() ?></p>
+                        <?php endif ?>
                     </div>
                 <?php endif ?>
                 <article class=" stack-small card-content">

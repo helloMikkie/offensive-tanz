@@ -181,7 +181,6 @@
 .hero-slides{
   background-position: center;
   background-repeat: repeat-x;
-
   position: relative; 
   display:grid;
   place-items:center;
@@ -201,7 +200,9 @@
 }
 .slide:nth-child(even){
   transform: translate(-10px, 10px);
+
 }
+
 
 @keyframes fade{
   0% {opacity:  0;}

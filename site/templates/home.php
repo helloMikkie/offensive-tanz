@@ -29,7 +29,9 @@
     <?php foreach ($page->images()->sortBy('sort', 'desc') as $image) : ?>
         <div class="slide">
             <?= $image->crop(900, 600)  ?>
-            <p class="credit"><span>© </span><?= $image->credit() ?></p>
+            <?php if($image->credit()->isNotEmpty()): ?>
+                <p class="credit"><span>© </span><?= $image->credit() ?></p>
+            <?php endif ?>
         </div>
         
     <?php endforeach ?>
@@ -38,15 +40,6 @@
 </section>
 
 
-
-<!-- <section class="showreel wrapper-small">
-    <?php foreach ($page->images()->sortBy('sort', 'asc') as $image) : ?>
-        <div>
-            <?= $image->resize(1200) ?>
-            <p class="credit"><span>© </span><?= $image->credit() ?></p>
-        </div>
-    <?php endforeach ?>
-</section> -->
 
 <main class="wrapper">
 

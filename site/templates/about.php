@@ -6,7 +6,9 @@
         <?php foreach ($page->images()->filterBy('filename', '*=', 'project-')->sortBy('sort', 'asc') as $image) : ?>
             <div class="slide">
                 <?= $image->crop(1200, 800)  ?>
+                <?php if($image->credit()->isNotEmpty()): ?>
                 <p class="credit"><span>© </span><?= $image->credit() ?></p>
+            <?php endif ?>
             </div>
         <?php endforeach ?>
     </section>
