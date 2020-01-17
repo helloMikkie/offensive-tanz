@@ -1,5 +1,12 @@
 title: Event
 icon: 📅
+status:
+  draft:
+    label: Entwurf
+  listed:
+    label: Published
+
+
 
 columns:
   - width: 1/1

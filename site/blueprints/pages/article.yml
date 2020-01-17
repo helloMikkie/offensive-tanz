@@ -1,5 +1,10 @@
 title: Article
 icon: 📚
+status:
+  draft:
+    label: Entwurf
+  listed:
+    label: Published
 
 columns:
   - width: 3/4

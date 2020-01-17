@@ -20,7 +20,7 @@ Introtext:
     {
         "attrs": [],
         "content": "Am <strong>19.01.2020</strong> startet das Kooperationsprojekt <strong>Offensive Tanz f\u00fcr junges Publikum</strong> offiziell im Rahmen von <strong>PURPLE \u2013 Internationales Tanzfestival f\u00fcr junges Publikum</strong>. Zu der \u00f6ffentlichen Veranstaltung sind Interessierte herzlich ab <strong>18:30 Uhr</strong> im <strong>Studio 1</strong> der <strong>Uferstudios</strong> in Berlin-Wedding (Badstr. 41a, Tor 1 oder Uferstr. 8/23, Tor 2) eingeladen. Im Anschluss an die Projektvorstellung und den Website-Launch gibt es ein kleines Get-Together f\u00fcr den Austausch.",
-        "id": "_piakr12sw",
+        "id": "_dxq0yjciq",
         "type": "paragraph"
     }
 ]
