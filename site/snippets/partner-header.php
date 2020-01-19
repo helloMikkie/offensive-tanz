@@ -36,7 +36,7 @@
         <?php endif ?>
         <article class="stack-small card-content centered">
 
-            <h2 class="text-tanzkomplizen" style="letter-spacing: 0.06rem; "><?= $partner->title() ?></h2>
+            <h2 class="text-tanzkomplizen" style="letter-spacing: 0.06rem; "><?= $partner->title()->upper() ?></h2>
             <?php if ($partner->subtitle()->isNotEmpty()) : ?>
                 <p><?= $partner->subtitle() ?></p>
             <?php endif ?>

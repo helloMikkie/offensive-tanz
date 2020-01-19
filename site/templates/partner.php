@@ -30,7 +30,7 @@
                 </div>
             <?php endif ?>
             <article class="stack-small card-content centered">
-                <h2 class="text-tanzkomplizen"><?= $page->title() ?></h2>
+                <h2 class="text-tanzkomplizen" style="letter-spacing: 0.06rem; "><?= $page->title()->upper() ?></h2>
                 <?php if ($page->subtitle()->isNotEmpty()) : ?>
                     <p><?= $page->subtitle() ?></p>
                 <?php endif ?>
